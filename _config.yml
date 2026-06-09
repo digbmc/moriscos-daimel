@@ -5,7 +5,7 @@ title:               Transcribing Moriscas on Trial
 tagline:             'Subtitle'
 description:         '"Transcribing Moriscas on Trial" has multi-year ambitions to create digital tools and publish OERs that advance teaching and scholarship on the morisco experience while equipping undergraduates with the paleographic skills and digital competencies to engage rigorously with these important documents.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/transcribing_moriscas'
 
 # About/contact
 author:
