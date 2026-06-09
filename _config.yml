@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Transcribing Moriscas
+title:               Ed.
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/transcribing_moriscas'
+baseurl:             '/ed'
 
 # About/contact
 author:
