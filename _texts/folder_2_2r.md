@@ -4,6 +4,7 @@ title: Folder 2, 2r
 ---
 1. Contra mayor Rodriguez \[sic\] muger de Sebastian carretero v\[e\]z\[in\](a) de daimiel 
 2. En la çiudad de t\[oled\](o) en la audien\[çi\](a) de la s\[anc\](ta) inq\[uisiçi\](on) en seis dias del mes
+: Sacado del p\[ro\]çesso
 3. de hebrero de mile y qui\[nient\](o)s y cinq\[uen\](ta) años ante el señor Inq\[uisid\](or)
 4. valtodano y por su man\[da\](do) fue sacada la d\[ic\]ha maria la Canbila Y
 5. salida el señor Inq\[uisi\](or) le dijo q\[ue\] si se a acordado de alg\[un\](a) Cosa
