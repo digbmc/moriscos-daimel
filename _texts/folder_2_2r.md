@@ -36,4 +36,16 @@ title: Folder 2, 2r
 32. v\[er\]bum como en ellos se co\[n\]tiene y dijo q\[ue\]s Verdad lo q\[ue\] le ha sido leydo y ella lo dijo y
 33. en ello se Ratificaba y Ratifico y si neçessario es lo dize de nuevo a lo qual
 34. estava\[n\] prese\[n\]tes por p\[er\]sonas honestas los R\[everen\](dos) p\[edr\](o) de farmas y a\[lons\](o) de nodarilagos pres
-35. bi\[ter\]os Capellanes deste s\[an\](to) offi\[çi\](o) de lo qual doy fee yo Julian de alprahe not\[ari\](o) 
+35. bi\[ter\]os Capellanes deste s\[an\](to) offi\[çi\](o) de lo qual doy fee yo Julian de alprahe not\[ari\](o)
+
+<hr>
+
+**2.** Sacado del p\[ro\]çesso
+3. de m\[ari\](a) la cabila muger de
+4. a\[lons\](o) parro\[n\] capat\[er\](o) moris
+5. cos v\[eçin\](a) de damiel a fo\[lio\] X \[10\] /
+6. {YXY}
+9. declaro este {r(o)} {en su presso} en
+10. diz\[iembr\](e) de 1549 ser de hedad
+11. de  xlviii \[48\] / o xlix \[49\] años
+23. Rat\[ifica\](da)
