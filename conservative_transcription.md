@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Conservative Transcription
+hide_in_nav: true
 ---
 <div class="toc">
   <!--<h2>sample texts</h2>-->
