@@ -809,12 +809,25 @@ li.prose-indent {
 }
 
 /*Niko's edits*/
+div.editions {
+  display: flex;
+  justify-content: space-between;
+}
 div.editions a {
   display: block;
-  color: #ac4142
+  /*color: #ac4142*/
 }
 .box {
   position: relative;
   height: 9.44em;
   width: 9.44em;
+}
+.box span {
+  display: block;
+  /*color: white;*/
+  position: absolute;
+  width: 100%;
+  font-weight: 700;
+  padding-left: 10px;
+  font-size: 1em;
 }
