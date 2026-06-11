@@ -35,16 +35,17 @@ const pages = [
 {% endfor %}
 ];
 -->
-
-<select class="jump_pg" id="jump_pg">
-  <option value="">Jump to Page</option>
-  {% for item in site.texts %}
-  <option value= "{{ site.baseurl }}{{ item.url }}">
-    {{ item.title }}
-  </option>
-  {% endfor %}
-</select>
-<input type="button" value="Submit" onclick="goToPage()">
+<div class="jump_container">
+  <select id="jump_pg">
+    <option value="">Jump to Page</option>
+    {% for item in site.texts %}
+    <option value= "{{ site.baseurl }}{{ item.url }}">
+      {{ item.title }}
+    </option>
+    {% endfor %}
+  </select>
+  <input type="button" value="Submit" onclick="goToPage()">
+</div>
 
 <script>
   function goToPage() {
