@@ -815,21 +815,23 @@ div.editions {
 }
 div.editions a {
   display: block;
-  color: #ac4142
+  text-align: center;
+  /*color: #ac4142*/
 }
 .box {
-  position: relative;
+  /*position: relative;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
   height: 9.44em;
   width: 9.44em;
+  background-color: lightgreen;
 }
 .box span {
-  display: block;
-  /*color: white;*/
-  position: absolute;
-  width: 100%;
-  /*font-weight: 700;*/
-  padding-left: 10px;
+  color: black;
   font-size: 1em;
+  text-align: center;
 }
 .jump_container {
   text-align: center;
