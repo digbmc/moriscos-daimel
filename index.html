@@ -36,7 +36,7 @@ const pages = [
 ];
 -->
 
-<select id="jump_pg" onchange="goToPage()">
+<select id="jump_pg">
   <option value="">Jump to Page</option>
   {% for item in site.texts %}
   <option value= "{{ site.baseurl }}{{ item.url }}">
@@ -44,7 +44,7 @@ const pages = [
   </option>
   {% endfor %}
 </select>
-<input type="submit" value="Submit">
+<input type="button" value="Submit" onclick="goToPage()">
 
 <script>
   function goToPage() {
@@ -58,16 +58,6 @@ const pages = [
 </script>
 
 <!--
-<form name="jump_pg" id="jump_pg">
-  <select name="pg" id="pg">
-    <option value="" selected="selected">Jump to page</option>
-  </select>
-  <input type="submit" value="Submit">
-</form>
--->
-<!--
-<hr>
-
 <div class="toc">
   <h2>sample texts</h2>
   <ul class="texts">
