@@ -809,6 +809,12 @@ li.prose-indent {
 }
 
 /*Niko's edits*/
+
+.m_garcia_trial h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
 div.editions {
   display: flex;
   justify-content: space-between;
@@ -824,8 +830,8 @@ div.editions a {
   justify-content: center;
   align-items: center;
   
-  height: 9.44em;
-  width: 9.44em;
+  height: 15em;
+  width: 15em;
   background-color: lightgreen;
 }
 .box span {
@@ -839,4 +845,5 @@ div.editions a {
 
 #jump_pg, input[type = "button"] {
   font-size: 15px;
+  margin-top: 2em;
 }
