@@ -13,6 +13,38 @@ In each period, two Project Assistants would prioritize transcription efforts, a
 
 By the end of the grant period, we plan to have a completed set of transcriptions for the holdings at Penn, and a proof of concept for a digital edition of transcriptions, key modernizations, and initial contextualization for selected trials. This site will form the groundwork for future expansion of the corpus, and with data backed up to text forms that could serve as the basis for future publications: open edition volumes, education resources, translations, and critical work advancing morisco studies.
 
+<hr>
+
+# Project Team
+
+### [Kathryn Phipps]() - Project director
+
+
+
+### [Alice McGrath]() - Technical coordinator
+
+
+
+### Nicholas Caraballo - Digital Scholarship Graduate Assistant and Project Manager
+
+
+
+### Digital Scholarship Project Assistants:
+
+
+
+- Madeleine Buergel
+
+- Nora Cleary
+
+- Brynne Dixon-Kruijf
+
+- Sarah Kurth
+
+- AJ Lamas-Nemec
+
+
+
 <!--
 ## Sample Ed editions.
 

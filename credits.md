@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Project Team
+hide_in_nav: true
 ---
 
 ### [Kathryn Phipps]() - Project director

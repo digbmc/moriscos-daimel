@@ -29,7 +29,6 @@ collections:
     output: true
 
 # Collections for images (added by Niko)
-collections:
   images:
     output: true
 
