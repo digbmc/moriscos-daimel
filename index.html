@@ -19,7 +19,7 @@ title: Home
   </div>
 </div>
 
-<div class="jump_container">
+<div class="jump_container" onclick="goToPage()">
   <select id="jump_pg">
     <option value="">Jump to Page</option>
     {% for item in site.texts %}
@@ -28,7 +28,9 @@ title: Home
     </option>
     {% endfor %}
   </select>
+  <!-- Removed button; page now changes on selection
   <input type="button" value="Submit" onclick="goToPage()">
+  -->
 </div>
 
 <script>
