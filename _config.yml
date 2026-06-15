@@ -28,6 +28,11 @@ collections:
   texts:
     output: true
 
+# Collections for images (added by Niko)
+collections:
+  images:
+    output: true
+
 # Markdown specs
 markdown: kramdown
 
