@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Facsimile
+title: Facsimiles
 #hide_in_nav: true
 ---
 

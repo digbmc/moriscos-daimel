@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conservative Transcription
+title: Facsimile Transcription
 #hide_in_nav: true
 ---
 
