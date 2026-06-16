@@ -1,6 +1,7 @@
 ---
 layout: narrative
 title: Folder 2, 2r
+#manuscript_image: 
 ---
 1. Contra mayor Rodriguez \[sic\] muger de Sebastian carretero v\[e\]z\[in\](a) de daimiel 
 2. En la çiudad de t\[oled\](o) en la audien\[çi\](a) de la s\[anc\](ta) inq\[uisiçi\](on) en seis dias del mes[^2]
