@@ -18,7 +18,8 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-    {% assign pages_list = site.pages | sort:"url" %}
+    <!--Changed sort: url to sort: nav_order-->
+    {% assign pages_list = site.pages | sort:"nav_order" %}
     {% for node in pages_list %}
       {% if node.title != null and node.url != "/404.html" %}
         {% if node.layout == "page" and node.hide_in_nav != true %}
