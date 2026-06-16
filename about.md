@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+nav_order: 1
 ---
 
 Morisco studies is a growing field of inquiry that seeks to understand the experiences of communities of people who converted—often under coercion—to Catholicism from Islam throughout the Early Modern era. While many Inquisition trials against moriscos have been preserved and digitized, they remain largely inaccessible to scholarship and are ineffectual in the classroom because the infamously opaque Inquisition paleography leaves them illegible to the untrained eye.
