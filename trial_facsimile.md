@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Images
-hide_in_nav: true
+title: Facsimile
+#hide_in_nav: true
 ---
 
 <div class="container">
-    <h1>Images</h1>
-    <br>
-
     {% for facs in site.images %}
+    
     <div class="images">
 
             <a href="{{ facs.image }}">
@@ -16,5 +14,4 @@ hide_in_nav: true
             </a>
     </div>
     {% endfor %}
-
 </div>
