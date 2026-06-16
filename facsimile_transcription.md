@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Facsimile Transcription
+nav_order: 1
 #hide_in_nav: true
 ---
 <!-- If we wanted a download button:
