@@ -1,6 +1,7 @@
 ---
 layout: narrative
 title: Folder 2, 4v
+image: /assets/images/Folder_2_4v.jpg
 ---
 1. En la çiudad de toledo diez y seys dias[^1]
 2. del mes de abril de mile y quinientos y çi\[n\]que\[n\]ta

@@ -1,6 +1,7 @@
 ---
 layout: narrative
 title: Folder 2, 2r
+image: /assets/images/Folder_2_2r.jpg
 #manuscript_image: 
 ---
 1. Contra mayor Rodriguez \[sic\] muger de Sebastian carretero v\[e\]z\[in\](a) de daimiel 

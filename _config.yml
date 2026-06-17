@@ -29,8 +29,8 @@ collections:
     output: true
 
 # Collections for images (added by Niko)
-  images:
-    output: true
+#  images:
+#    output: true
 
 # Markdown specs
 markdown: kramdown
