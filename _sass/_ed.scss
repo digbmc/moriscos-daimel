@@ -540,6 +540,11 @@ div.narrative,
 }
 
 div.toc {
+  max-width: 32rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
   margin-bottom: 4rem;
 }
 
@@ -861,7 +866,42 @@ div.editions a {
   right: 50px;
 
 }
+/*
+.row {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+*/
+/* This is to make sure the return to toc button remains at the bottom of the page */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
 .column {
   float: left;
   width: 50%;
+}
+#folium {
+  display: flex;
+  position: sticky;
+  justify-content: center;
+  align-items: center;
+}
+.wide-page .container,
+.wide-page .wrapper,
+.wide-page .content {
+  max-width: none;
+  width: 100%;
+}
+.title_columned {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.bottom_buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
 }

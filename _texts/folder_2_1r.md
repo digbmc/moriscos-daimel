@@ -2,6 +2,7 @@
 layout: narrative
 title: Folder 2, 1r
 image: /assets/images/Folder_2_1r.jpg
+order: 1
 ---
 1. muy R\[everen\](dos) s\[eñore\]s 
 2. El bachiller pedro ortiz promotor fiscal en el sancto officio de

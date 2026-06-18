@@ -2,6 +2,7 @@
 layout: narrative
 title: Folder 2, 3r
 image: /assets/images/Folder_2_3r.jpg
+order: 5
 ---
 1. pa\[ra\] p\[r\](e)nder a mayor mug\[e\]r de sebastia\[n\] carretero
 2. Nos\[otros\] los inq\[uisido\](res) contra la heretica pravedad Y aspostasia en esta muy noble çiudad

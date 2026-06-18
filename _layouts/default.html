@@ -2,9 +2,10 @@
 <html lang="en-us">
 
   {% include head.html %}
-
+  <!-- CHANGED IN ORDER TO MAKE CLASS EDITABLE
   <body class="theme-base-{{site.color-scheme}}">
-
+  -->
+  <body class="{{ page.body_class }}">
     <!-- This if statement decides which sidebar to use -->
     {% if page.toc %}
     {% include sidebar-toc.html %}
