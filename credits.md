@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Team
+title: Equipo del proyecto
 hide_in_nav: true
 ---
 

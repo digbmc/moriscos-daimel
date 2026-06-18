@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Biography
+title: Biographía
 nav_order: 2
 ---
 
-Biographical info goes here
+La información biográfica se pone aquí.

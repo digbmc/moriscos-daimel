@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre el proyecto
 nav_order: 1
 ---
 
@@ -16,7 +16,7 @@ By the end of the grant period, we plan to have a completed set of transcription
 
 <hr>
 
-# Project Team
+# Equipo
 
 ### [Kathryn Phipps]() - Project director
 

@@ -540,7 +540,7 @@ div.narrative,
 }
 
 div.toc {
-  max-width: 32rem;
+  max-width: 34rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -878,9 +878,13 @@ div.editions a {
   display: flex;
   flex-wrap: wrap;
 }
-.column {
+.column-left {
   float: left;
-  width: 50%;
+  width: 40%;
+}
+.column-right {
+  float: left;
+  width: 60%;
 }
 #folium {
   display: flex;
@@ -892,11 +896,12 @@ div.editions a {
 .wide-page .wrapper,
 .wide-page .content {
   max-width: none;
-  width: 100%;
+  width: 98%;
+  margin-left: 2rem;
 }
 .title_columned {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .bottom_buttons {
