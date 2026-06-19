@@ -5,14 +5,10 @@ nav_order: 3
 #hide_in_nav: true
 ---
 
-<div class="container">
-    {% for facs in site.images %}
-    
-    <div class="images">
-
-            <a href="{{ facs.image }}">
-                <facs src="{{ facs.image }}" alt="{{ facs.title }}">
-            </a>
-    </div>
+<div class="gallery">
+    {% for text in site.texts %}
+    <a href = "{{ site.baseurl}}{{ text.image }}" target="_blank">
+        <img src="{{ site.baseurl}}{{ text.image }}" alt="Image not available" class="thumbnail">
+    </a>
     {% endfor %}
 </div>
