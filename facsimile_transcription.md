@@ -43,10 +43,11 @@ nav_order: 4
   <button id="next" onclick="next()" style="display:none;"> Próxima</button>
 </div>
 
-<div class="jump_container" id="cambio" onclick="goToPage()" style="display:none;">
-  <select id="jump_pg">
+<div class="jump_container" id="cambio" style="display:none;">
+  <select id="jump_pg" onclick="goToPage()">
     <option value="">Elegir la página</option>
-    {% for text in site.texts %}
+    {% assign sorted_texts = site.texts | sort: "order" %}
+    {% for text in sorted_texts %}
     <option value= "{{ text.order }}">
       {{ text.title }}
     </option>
@@ -104,6 +105,9 @@ nav_order: 4
   function goToPage() {
     const select = document.getElementById("jump_pg");
     const new_pg = select.value;
+    if (new_pg == "") {showTOC.call(this)}
+    else{
     showText.call(this, new_pg);
+    }
   }
 </script>
