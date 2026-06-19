@@ -36,15 +36,15 @@ nav_order: 4
     {% endfor %}
   </div>
 </div>
-<div class="bottom_buttons" style="justify-content:space-around;">
+<div class="bottom_buttons">
   <button id="prev" onclick="prev()" style="display:none;"> Anterior</button>
-  <button id="showtoc_bt" onclick="showTOC()" style="margin-top:20px;margin-bottom: 50px;display:none;"> Volver a la tabla de contenidos</button>
+  <button id="showtoc_bt" onclick="showTOC()" style="display:none;"> Volver a la tabla de contenidos</button>
   <button id="next" onclick="next()" style="display:none;"> Próxima</button>
 </div>
 
 <div class="jump_container" id="cambio" onclick="goToPage()" style="display:none;">
   <select id="jump_pg">
-    <option value="">Elija la página</option>
+    <option value="">Elegir la página</option>
     {% for text in site.texts %}
     <option value= "{{ text.order }}">
       {{ text.title }}
@@ -60,15 +60,17 @@ nav_order: 4
     curr_page = Number(id);
     document.getElementById('toc').style.display = 'none';
     document.getElementById('showtoc_bt').style.display = 'block';
-    if (curr_page < all_pgs) {
-      document.getElementById('next').style.display='block';
+    document.getElementById('next').style.display='block';
+    document.getElementById('prev').style.display ='block';
+    if (curr_page >= all_pgs) {
+      document.getElementById('next').style.visibility='hidden';
     } else {
-      document.getElementById('next').style.display='none';
+      document.getElementById('next').style.visibility='visible';
     }
-    if (curr_page != 1) {
-      document.getElementById('prev').style.display = 'block';
+    if (curr_page <= 1) {
+      document.getElementById('prev').style.visibility = 'hidden';
     } else {
-      document.getElementById('prev').style.display ='none';
+      document.getElementById('prev').style.visibility='visible';
     }
     document.querySelectorAll('.text-section').forEach(function(el) {
       el.style.display = 'none';

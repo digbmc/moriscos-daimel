@@ -842,9 +842,10 @@ div.editions a {
   height: 15em;
   width: 15em;
   */
-  height: 250px;
+  height: 50px;
   width: 250px;
   background-color: yellow;
+  color: white;
 }
 .box span {
   color: black;
@@ -906,7 +907,13 @@ div.editions a {
 
 .bottom_buttons {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: space-evenly;
+  height: 50px;
+}
+/* Unused style for bottom_buttons
+margin-top:20px;margin-bottom: 50px;
+*/
+.jump_container {
   height: 150px;
 }
