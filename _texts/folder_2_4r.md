@@ -1,7 +1,7 @@
 ---
 layout: narrative
-title: Folder 2, 4v
-image: /assets/images/Folder_2_4v.jpg
+title: Folder 2, 4r
+image: /assets/images/Folder_2_4r.jpg
 order: 7
 ---
 1. En la çiudad de toledo diez y seys dias[^1]

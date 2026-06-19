@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Facsímiles
+body_class: wide-page
+hide_title: true
 nav_order: 3
 #hide_in_nav: true
 ---
-
+<h1 style="margin-left:2rem;">Facsímiles</h1>
 <div class="gallery">
     {% for text in site.texts %}
     <a href = "{{ site.baseurl}}{{ text.image }}" target="_blank">
