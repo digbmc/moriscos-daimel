@@ -3,6 +3,7 @@ layout: page
 title: This is a test
 hide_in_nav: true
 ---
+<!-- This page was used for testing and is not a part of the site-->
 <div class="row">
     <div class="column">
     <!--
