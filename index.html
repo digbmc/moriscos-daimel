@@ -19,22 +19,6 @@ title: Inicio
   </div>
 </div>
 
-<!-- Without individual site pages for each manuscript page, this is useless
-<div class="jump_container" onclick="goToPage()">
-  <select id="jump_pg">
-    <option value="">Buscar la página</option>
-    {% for item in site.texts %}
-    <option value= "{{ site.baseurl }}{{ item.url }}">
-      {{ item.title }}
-    </option>
-    {% endfor %}
-  </select>
-  <!-- Removed button; page now changes on selection
-  <input type="button" value="Submit" onclick="goToPage()">
-  
-</div>
--->
-
 <script>
   function goToPage() {
     const select = document.getElementById("jump_pg");
@@ -61,19 +45,3 @@ title: Inicio
 </p>
 <a target="_blank" href="https://colenda.library.upenn.edu/catalog/81431-p3r20sf8q">Enlace a la colleción</a>
 </div>
-
-<!--
-<div class="toc">
-  <h2>sample texts</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
-
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
--->

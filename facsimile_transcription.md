@@ -9,7 +9,8 @@ nav_order: 4
 <div id="toc" class="toc">
   <h2>Todas las páginas en orden</h2>
   <ul>
-  {% for text in site.texts %}
+  {% assign sorted_texts = site.texts | sort: "order" %}
+  {% for text in sorted_texts %}
     <li>
       <a href="#"
         onclick="showText('{{ text.order }}'); return false;">
