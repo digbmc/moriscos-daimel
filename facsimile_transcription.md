@@ -40,7 +40,7 @@ nav_order: 4
 <div class="bottom_buttons">
   <button id="prev" onclick="prev()" style="display:none;"> Anterior</button>
   <button id="showtoc_bt" onclick="showTOC()" style="display:none;"> Volver a la tabla de contenidos</button>
-  <button id="next" onclick="next()" style="display:none;"> Próxima</button>
+  <button id="next" onclick="next()" style="display:none;"> Siguiente</button>
 </div>
 
 <div class="jump_container" id="cambio" style="display:none;">
