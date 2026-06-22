@@ -28,6 +28,8 @@ collections:
   texts:
   #set to false because there is no need for each text to have its own page
     output: false
+  textos_modernos:
+    output: false
 
 # Collections for images (added by Niko)
 #  images:

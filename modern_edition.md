@@ -3,7 +3,7 @@ layout: page
 title: Edición moderna
 nav_order: 5
 ---
-<h1 class="title_columned">Transcripciones facsimilares</h1>
+<!--<h1 class="title_columned">Transcripciones facsimilares</h1>-->
 <div id="toc" class="toc">
   <!--No creo que fuere preciso que hubiere un título a menos que quisiéremos organizar los textos así como organizamos
   los trascripciones facsimilares
