@@ -28,7 +28,7 @@ nav_order: 4
       <div id="{{ text.order }}" class="text-section" style="display:none;">
         <h1 style="margin-left:25%;">{{ text.title }}</h1>
         <div class="column-left" id="folium">
-          <img src="{{ site.baseurl}}{{ text.image }}" alt="Image not available" style="max-width:80%;height:auto;margin:10px 0;">
+          <img src="{{ site.baseurl}}{{ text.image }}" alt="La imagen no está disponible" style="max-width:80%;height:auto;margin:10px 0;">
         </div>
         <div class="column-right">
           {{ text.content }}
@@ -79,8 +79,8 @@ nav_order: 4
     });
     document.getElementById('cambio').style.display = 'block';
     document.getElementById(id).style.display = 'block';
-    document.documentElement.scrollTop = 0;
-    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 150;
+    document.body.scrollTop = 150;
   }
   function showTOC() {
     document.getElementById('toc').style.display = 'block';
