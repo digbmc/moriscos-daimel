@@ -2,6 +2,7 @@
 layout: page
 title: Transcripción facsimilar
 body_class: wide-page
+hide_in_nav: true
 hide_title: true
 nav_order: 4
 ---
