@@ -5,7 +5,7 @@ body_class: wide-page
 hide_title: true
 nav_order: 3
 ---
-<h1 style="margin-left:2rem;">Facsímiles</h1>
+<h1 id="titulo" style="margin-left:2rem;">Facsímiles</h1>
 <div id="toc" class="gallery">
     {% assign sorted_texts = site.texts | sort: "order" %}
     {% for text in sorted_texts %}
@@ -62,6 +62,7 @@ nav_order: 3
   let all_pgs = document.querySelectorAll('.text-section').length;
   function showText(id) {
     curr_page = Number(id);
+    document.getElementById("titulo").innerHTML="Facsímil y transcripción";
     document.getElementById('toc').style.display = 'none';
     document.getElementById('showtoc_bt').style.display = 'block';
     document.getElementById('next').style.display='block';
@@ -87,6 +88,7 @@ nav_order: 3
   function showTOC() {
     document.getElementById('toc').style.display = 'flex';
     document.getElementById('showtoc_bt').style.display = 'none';
+    document.getElementById("titulo").innerHTML="Facsímiles";
     document.getElementById('next').style.display='none';
     document.getElementById('prev').style.display='none';
     document.getElementById('cambio').style.display = 'none';

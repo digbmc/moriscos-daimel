@@ -674,7 +674,8 @@ ins,
 del,
 .delete {
   text-decoration: line-through;
-  color: #AA3232;
+  //Niko edit; want strikethrough to be black by default
+  //color: #AA3232;
 }
 
 u,
