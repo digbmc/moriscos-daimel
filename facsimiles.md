@@ -9,8 +9,11 @@ nav_order: 3
 <div class="gallery">
     {% assign sorted_texts = site.texts | sort: "order" %}
     {% for text in sorted_texts %}
-    <a href = "{{ site.baseurl}}{{ text.image }}" target="_blank">
-        <img src="{{ site.baseurl}}{{ text.image }}" alt="La imagen no está dispoible" class="thumbnail">
-    </a>
+    <div class="gallery-item">
+        <a href = "{{ site.baseurl}}{{ text.image }}" target="_blank">
+            <img src="{{ site.baseurl}}{{ text.image }}" alt="La imagen no está dispoible" class="thumbnail">
+        </a>
+        <p class="caption">{{ text.title }}</p>
+    </div>
     {% endfor %}
 </div>
