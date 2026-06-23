@@ -23,23 +23,6 @@ nav_order: 4
   {{ text.content }}
 </div>
 {% endfor %}
-<!--
-<div class="row">
-  <div id="content">
-    {% for text in site.textos_modernos %}
-      <div id="{{ text.order }}" class="text-section" style="display:none;">
-        <h1 style="margin-left:25%;">{{ text.title }}</h1>
-        <div class="column-left" id="folium">
-          <img src="{{ site.baseurl}}{{ text.image }}" alt="La imagen no está disponible" style="max-width:80%;height:auto;margin:10px 0;">
-        </div>
-        <div class="column-right">
-          {{ text.content }}
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-</div>
--->
 <div class="bottom_buttons">
   <button id="prev" onclick="prev()" style="display:none;"> Anterior</button>
   <button id="showtoc_bt" onclick="showTOC()" style="display:none;"> Volver a la tabla de contenidos</button>
