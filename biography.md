@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biographía
+title: Biografía
 nav_order: 2
 ---
 
