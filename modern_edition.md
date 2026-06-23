@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Edición moderna
-nav_order: 5
+nav_order: 4
 ---
 <!--<h1 class="title_columned">Transcripciones facsimilares</h1>-->
 <div id="toc" class="toc">

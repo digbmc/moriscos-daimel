@@ -4,7 +4,6 @@ title: Transcripción facsimilar
 body_class: wide-page
 hide_in_nav: true
 hide_title: true
-nav_order: 4
 ---
 <h1 class="title_columned">Transcripciones facsimilares</h1>
 <div id="toc" class="toc">
