@@ -40,6 +40,7 @@ nav_order: 4
     {% endfor %}
   </select>
 </div>
+<button id="show_facs" onclick="goToFacsimile()" style="display:none;">Ver el facsímil y la transcripción</button>
 
 <br>
 
@@ -136,6 +137,7 @@ nav_order: 4
       el.style.display = 'none';
     });
     document.getElementById('cambio').style.display = 'block';
+    document.getElementById('show_facs').style.display = 'block';
     document.getElementById(id).style.display = 'block';
     document.documentElement.scrollTop = 150;
     document.body.scrollTop = 150;
@@ -147,6 +149,7 @@ nav_order: 4
     document.getElementById('next').style.display='none';
     document.getElementById('prev').style.display='none';
     document.getElementById('cambio').style.display = 'none';
+    document.getElementById('show_facs').style.display = 'none';
     document.querySelectorAll('.text-section').forEach(function(el) {
       el.style.display = 'none';
     });

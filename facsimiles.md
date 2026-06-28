@@ -15,12 +15,6 @@ nav_order: 3
             <img src="{{ site.baseurl}}{{ text.image }}" alt="La imagen no está dispoible" class="thumbnail">
             {{ text.title }}
         </a>
-        <!--The code here originally opened the image jpg in a seperate window
-        <a href = "{{ site.baseurl}}{{ text.image }}" target="_blank">
-            <img src="{{ site.baseurl}}{{ text.image }}" alt="La imagen no está dispoible" class="thumbnail">
-        </a>
-        -->
-        <!--<p class="caption">{{ text.title }}</p>-->
     </div>
     {% endfor %}
 </div>
@@ -114,4 +108,15 @@ nav_order: 3
     showText.call(this, new_pg);
     }
   }
+/*
+  window.addEventListener('DOMContentLoaded', () => {
+    const params = new URLSearchParams(window.location.search);
+
+    const id = params.get('id');
+
+    if (id) {
+        showText(id);
+    }
+  });
+  */
 </script>
