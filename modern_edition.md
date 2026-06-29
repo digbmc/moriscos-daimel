@@ -21,8 +21,6 @@ nav_order: 4
 {% for text in site.textos_modernos %}
 <div id="{{ text.order }}" class="text-section" style="display:none;">
   {{ text.content }}
-  //This is a button that will take the user to the facsimile and transcription page and display the content relative to the page they are viewing.
-  //Este es un botón que lleva el usuario o la usuario a la página de facsimiles y transcripciones y le muestra el contenido relativo a la página que ve actualmente.
   <a href="{{ site.baseurl }}/facsimiles/?id={{ text.order }}">
     <button>Ver el facsímil y la transcripción</button>
   </a>
@@ -143,7 +141,7 @@ nav_order: 4
       el.style.display = 'none';
     });
     document.getElementById('cambio').style.display = 'block';
-    document.getElementById('show_facs').style.display = 'block';
+    //document.getElementById('show_facs').style.display = 'block';
     document.getElementById(id).style.display = 'block';
     document.documentElement.scrollTop = 150;
     document.body.scrollTop = 150;
@@ -155,7 +153,7 @@ nav_order: 4
     document.getElementById('next').style.display='none';
     document.getElementById('prev').style.display='none';
     document.getElementById('cambio').style.display = 'none';
-    document.getElementById('show_facs').style.display = 'none';
+    //document.getElementById('show_facs').style.display = 'none';
     document.querySelectorAll('.text-section').forEach(function(el) {
       el.style.display = 'none';
     });

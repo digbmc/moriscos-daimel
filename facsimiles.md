@@ -29,10 +29,18 @@ nav_order: 3
         <div class="column-right">
           {{ text.content }}
         </div>
+        <!--
+        <button id="back" onclick="history.back()" style="display:none;">
+          Go Back
+        </button>
+        -->
       </div>
     {% endfor %}
   </div>
 </div>
+<button id="back" onclick="history.back()" style="display:none;align-items:center;justify-content:center;">
+    Volver
+</button>
 <div class="bottom_buttons">
   <button id="prev" onclick="prev()" style="display:none;"> Anterior</button>
   <button id="showtoc_bt" onclick="showTOC()" style="display:none;"> Volver a la tabla de contenidos</button>
@@ -80,6 +88,7 @@ nav_order: 3
     });
     document.getElementById('cambio').style.display = 'block';
     document.getElementById(id).style.display = 'block';
+    document.getElementById('back').style.display = 'none';
     document.documentElement.scrollTop = 150;
     document.body.scrollTop = 150;
   }
@@ -92,6 +101,7 @@ nav_order: 3
     document.getElementById('next').style.display='none';
     document.getElementById('prev').style.display='none';
     document.getElementById('cambio').style.display = 'none';
+    document.getElementById('back').style.display = 'none';
     document.querySelectorAll('.text-section').forEach(function(el) {
       el.style.display = 'none';
     });
@@ -118,15 +128,16 @@ nav_order: 3
     }
   }
 
- //The following functions are for a button on the 'modern edition' page that is meant to display the facsimile and transcription of the modern transcription they are viewing.
- //Las siguientes funciones sirven para un botón en la página de la edición moderna que cuando se pincha muestra el facsímil y la transcripción de la transcripción moderna que están viendo.
- function immediate_facs(id) {
+  //The following functions are for a button on the 'modern edition' page that is meant to display the facsimile and transcription of the modern transcription they are viewing.
+  //Las siguientes funciones sirven para un botón en la página de la edición moderna que cuando se pincha muestra el facsímil y la transcripción de la transcripción moderna que están viendo.
+  function immediate_facs(id) {
     curr_page = Number(id);
     document.getElementById("titulo").innerHTML="Facsímil y transcripción";
     document.getElementById('toc').style.display = 'none';
     document.getElementById('showtoc_bt').style.display = 'none';
     document.getElementById('next').style.display='none';
     document.getElementById('prev').style.display ='none';
+    document.getElementById('back').style.display='block';
     
     document.querySelectorAll('.text-section').forEach(function(el) {
       el.style.display = 'none';
