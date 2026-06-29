@@ -38,9 +38,11 @@ nav_order: 3
     {% endfor %}
   </div>
 </div>
-<button id="back" onclick="history.back()" style="display:none;align-items:center;justify-content:center;">
-    Volver
-</button>
+<div style="display:flex;align-items:center;justify-content:center;">
+  <button id="back" onclick="history.back()" style="display:none">
+      Volver
+  </button>
+</div>
 <div class="bottom_buttons">
   <button id="prev" onclick="prev()" style="display:none;"> Anterior</button>
   <button id="showtoc_bt" onclick="showTOC()" style="display:none;"> Volver a la tabla de contenidos</button>

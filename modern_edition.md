@@ -31,7 +31,15 @@ nav_order: 4
   <button id="showtoc_bt" onclick="showTOC()" style="display:none;"> Volver a la tabla de contenidos</button>
   <button id="next" onclick="next()" style="display:none;"> Siguiente</button>
 </div>
-
+<!--
+{% for text in site.textos_modernos %}
+<div>
+  <a id="jump_facs" href="{{ site.baseurl }}/facsimiles/?id={{ text.order }}" style="display:none;">
+    <button>Ver el facsímil y la transcripción</button>
+  </a>
+</div>
+{% endfor %}
+-->
 <div class="jump_container" id="cambio" style="display:none;">
   <select id="jump_pg" onclick="goToPage()">
     <option value="">Elegir la página</option>
