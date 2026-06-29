@@ -21,6 +21,11 @@ nav_order: 4
 {% for text in site.textos_modernos %}
 <div id="{{ text.order }}" class="text-section" style="display:none;">
   {{ text.content }}
+  //This is a button that will take the user to the facsimile and transcription page and display the content relative to the page they are viewing.
+  //Este es un botón que lleva el usuario o la usuario a la página de facsimiles y transcripciones y le muestra el contenido relativo a la página que ve actualmente.
+  <a href="{{ site.baseurl }}/facsimiles/?id={{ text.order }}">
+    <button>Ver el facsímil y la transcripción</button>
+  </a>
 </div>
 {% endfor %}
 <div class="bottom_buttons">
@@ -40,8 +45,9 @@ nav_order: 4
     {% endfor %}
   </select>
 </div>
+<!--
 <button id="show_facs" onclick="goToFacsimile()" style="display:none;">Ver el facsímil y la transcripción</button>
-
+-->
 <br>
 
 <div id="criterios">

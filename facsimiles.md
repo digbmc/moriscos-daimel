@@ -52,8 +52,12 @@ nav_order: 3
 </div>
 
 <script>
+  //These two variables are meant to indicate the current page the user is on and how many pages there are, respectively.
+  //Las dos siguientes variables indican, respectivamente, en qué página está el usuario o la usuaria y cuántas páginas hay en total.
   var curr_page;
   let all_pgs = document.querySelectorAll('.text-section').length;
+  //Displays the text and facsimile of a certain page.
+  //Muestra la transcripción y facsímil de una cierta página.
   function showText(id) {
     curr_page = Number(id);
     document.getElementById("titulo").innerHTML="Facsímil y transcripción";
@@ -79,6 +83,8 @@ nav_order: 3
     document.documentElement.scrollTop = 150;
     document.body.scrollTop = 150;
   }
+  //Displays the table of contents.
+  //Muestra la tabla de contenidos.
   function showTOC() {
     document.getElementById('toc').style.display = 'flex';
     document.getElementById('showtoc_bt').style.display = 'none';
@@ -92,6 +98,8 @@ nav_order: 3
     document.documentElement.scrollTop = 0;
     document.body.scrollTop = 0;
   }
+  //The following two functions display the next or previous page relative to the current page.
+  //Las dos siguientes funciones muestran la página siguiente o anterior respecto a la página actual.
   function next() {
     var next_page = curr_page + 1;
     showText.call(this, next_page);
@@ -100,6 +108,7 @@ nav_order: 3
     var prev_page = curr_page -1;
     showText.call(this, prev_page);
   }
+  //
   function goToPage() {
     const select = document.getElementById("jump_pg");
     const new_pg = select.value;
@@ -108,15 +117,34 @@ nav_order: 3
     showText.call(this, new_pg);
     }
   }
-/*
+
+ //The following functions are for a button on the 'modern edition' page that is meant to display the facsimile and transcription of the modern transcription they are viewing.
+ //Las siguientes funciones sirven para un botón en la página de la edición moderna que cuando se pincha muestra el facsímil y la transcripción de la transcripción moderna que están viendo.
+ function immediate_facs(id) {
+    curr_page = Number(id);
+    document.getElementById("titulo").innerHTML="Facsímil y transcripción";
+    document.getElementById('toc').style.display = 'none';
+    document.getElementById('showtoc_bt').style.display = 'none';
+    document.getElementById('next').style.display='none';
+    document.getElementById('prev').style.display ='none';
+    
+    document.querySelectorAll('.text-section').forEach(function(el) {
+      el.style.display = 'none';
+    });
+    document.getElementById('cambio').style.display = 'none';
+    document.getElementById(id).style.display = 'block';
+    document.documentElement.scrollTop = 150;
+    document.body.scrollTop = 150;
+  }
   window.addEventListener('DOMContentLoaded', () => {
-    const params = new URLSearchParams(window.location.search);
+      const params = new URLSearchParams(window.location.search);
 
-    const id = params.get('id');
+      const id = params.get('id');
+      //const difficulty = params.get('difficulty');
 
-    if (id) {
-        showText(id);
-    }
+      if (id) {
+          immediate_facs(id);
+          //startQuiz(chapter, difficulty);
+      }
   });
-  */
 </script>
