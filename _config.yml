@@ -3,7 +3,7 @@
 # Setup
 title:               Los moriscos de Daimiel
 tagline:             'Edición digital'
-description:         '"Los moriscos de Daimiel" tiene ambiciones plurianuales de crear herramientas digitales y de publicar OERs que avanzan la enseñanza y trabajos académicos sobre la experiencia morisca mientras equipan a estudiantes universitarios con habilidades paleográficas y competencias digitales para involucrarse rigurosamente en estos documentos importantes.'
+#description:         '"Los moriscos de Daimiel" tiene ambiciones plurianuales de crear herramientas digitales y de publicar OERs que avanzan la enseñanza y trabajos académicos sobre la experiencia morisca mientras equipan a estudiantes universitarios con habilidades paleográficas y competencias digitales para involucrarse rigurosamente en estos documentos importantes.'
 url:                 'https://digbmc.github.io/'
 baseurl:             '/moriscos-daimel'
 
@@ -26,10 +26,10 @@ encoding: utf-8
 # Collections for texts
 collections:
   texts:
-  #set to false because there is no need for each text to have its own page
-    output: false
+  #set to back to true to create individual pages are avoid JavaScript issues
+    output: true
   textos_modernos:
-    output: false
+    output: true
 
 # Collections for images (added by Niko)
 #  images:

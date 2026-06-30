@@ -12,7 +12,7 @@ nav_order: 3
     <div class="gallery-item">
         <a href="#"
             onclick="showText('{{ text.order }}'); return false;">
-            <img src="{{ site.baseurl}}{{ text.image }}" alt="La imagen no está dispoible" class="thumbnail">
+            <img src="{{ site.baseurl}}{{ text.image }}" alt="Manuscript page: {{ text.title }}" class="thumbnail">
             {{ text.title }}
         </a>
     </div>
@@ -24,7 +24,7 @@ nav_order: 3
       <div id="{{ text.order }}" class="text-section" style="display:none;">
         <h1 style="margin-left:25%;">{{ text.title }}</h1>
         <div class="column-left" id="folium">
-          <img src="{{ site.baseurl}}{{ text.image }}" alt="La imagen no está disponible" style="max-width:80%;height:auto;margin:10px 0;">
+          <img src="{{ site.baseurl}}{{ text.image }}" alt="Manuscript page: {{ text.title }}" style="max-width:80%;height:auto;margin:10px 0;">
         </div>
         <div class="column-right">
           {{ text.content }}
