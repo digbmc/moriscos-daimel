@@ -1,7 +1,8 @@
 ---
-layout: narrative
+layout: manuscrito
 title: Folder 2, 3v
 image: /assets/images/Folder_2_3v.jpg
+body_class: wide-page
 order: 6
 ---
 1. myercoles en la noche a dos de abril año de

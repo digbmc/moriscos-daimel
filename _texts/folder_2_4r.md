@@ -1,7 +1,8 @@
 ---
-layout: narrative
+layout: manuscrito
 title: Folder 2, 4r
 image: /assets/images/Folder_2_4r.jpg
+body_class: wide-page
 order: 7
 ---
 1. En la çiudad de toledo diez y seys dias[^1]

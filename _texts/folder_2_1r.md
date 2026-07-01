@@ -1,7 +1,8 @@
 ---
-layout: narrative
+layout: manuscrito
 title: Folder 2, 1r
 image: /assets/images/Folder_2_1r.jpg
+body_class: wide-page
 order: 1
 ---
 1. muy R\[everen\](dos) s\[eñore\]s 

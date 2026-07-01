@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Edición moderna
+title: La edición moderna
 nav_order: 4
 ---
 <!--<h1 class="title_columned">Transcripciones facsimilares</h1>-->
 <div id="toc" class="toc">
   <ul>
-  {% assign sorted_texts = site.textos_modernos | sort: "order" %}
+  {% assign sorted_texts = site.textos-modernos | sort: "order" %}
   {% for text in sorted_texts %}
     <li>
       <a href="#"
@@ -18,7 +18,7 @@ nav_order: 4
   </ul>
 </div>
 
-{% for text in site.textos_modernos %}
+{% for text in site.textos-modernos %}
 <div id="{{ text.order }}" class="text-section" style="display:none;">
   {{ text.content }}
   <a href="{{ site.baseurl }}/facsimiles/?id={{ text.order }}">
@@ -43,7 +43,7 @@ nav_order: 4
 <div class="jump_container" id="cambio" style="display:none;">
   <select id="jump_pg" onclick="goToPage()">
     <option value="">Elegir la página</option>
-    {% assign sorted_texts = site.textos_modernos | sort: "order" %}
+    {% assign sorted_texts = site.textos-modernos | sort: "order" %}
     {% for text in sorted_texts %}
     <option value= "{{ text.order }}">
       {{ text.title }}

@@ -1,7 +1,8 @@
 ---
-layout: narrative
+layout: manuscrito
 title: Folder 2, 2r
 image: /assets/images/Folder_2_2r.jpg
+body_class: wide-page
 order: 3
 ---
 1. Contra mayor Rodriguez \[sic\] muger de Sebastian carretero v\[e\]z\[in\](a) de daimiel 

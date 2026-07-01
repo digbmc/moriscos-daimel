@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="manuscrito">
+    <h1 id="titulo" style="margin-left:2rem;">{{ page.title }}</h1>
+    <div class="row">
+        <div id="content">
+            <h1 style="margin-left:25%;">{{ text.title }}</h1>
+            <div class="column-left" id="folium">
+                <img src="{{ site.baseurl }}{{ page.image }}" alt="Manuscript page: {{ page.title }}" style="max-width:80%;height:auto;margin:10px 0;">
+            </div>
+            <div class="column-right">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</article>
+{% assign anter = page.order | minus: 1 %} {% assign prox = page.order | plus: 1 %}
+{% assign anter_pg = site.texts | where: "order", anter | first %}
+{% assign prox_pg = site.texts | where: "order", prox | first %}
+<div class="bottom_buttons">
+    {% if anter_pg %}<a href="{{ site.baseurl }}{{ anter_pg.url }}"> Anterior</a>
+    {% else %}<span></span>{% endif %}
+    <a href="{{ site.baseurl }}/manuscrito"> Volver a la table de contenidos</a>
+    {% if prox_pg %} <a href="{{ site.baseurl }}{{ prox_pg.url }}"> Siguiente</a>
+    {% else %}<span></span>{% endif %}
+    <!--
+  <button id="prev" onclick="prev()" style="display:none;"> Anterior</button>
+  <button id="showtoc_bt" onclick="showTOC()" style="display:none;"> Volver a la tabla de contenidos</button>
+  <button id="next" onclick="next()" style="display:none;"> Siguiente</button>
+-->
+</div>

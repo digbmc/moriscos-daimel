@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Facsímiles
+title: El manuscrito
 body_class: wide-page
 hide_title: true
 nav_order: 3
@@ -10,14 +10,31 @@ nav_order: 3
     {% assign sorted_texts = site.texts | sort: "order" %}
     {% for text in sorted_texts %}
     <div class="gallery-item">
+      <!--
+      This, in the original code, activates the JavaScript function that displays the manuscript image and
+      transcription content
+      Esto, en el código previo, activa la función de JavaScript que muestra la imagen del manuscrito y su
+      trascripción
         <a href="#"
             onclick="showText('{{ text.order }}'); return false;">
+      -->
+        <a href="{{ site.baseurl }}{{ text.url }}">
             <img src="{{ site.baseurl}}{{ text.image }}" alt="Manuscript page: {{ text.title }}" class="thumbnail">
             {{ text.title }}
         </a>
     </div>
     {% endfor %}
 </div>
+
+<!-- ----------------------------------------------------------------------------------------------------------------- 
+
+    A TON of original JavaScript-based code blocked out
+    This would enable the viewing of each manuscript with its transcription on the same page (i.e., no redirecting to
+    some other web page)
+    Es: Un montón de código previo de JavaScript bloqueado
+    Esto activaría la visita de cada manuscrito con sendas trascripciones en la misma página (i.e., no se dirige a
+    otra página de Internet)
+
 <div class="row">
   <div id="content">
     {% for text in site.texts %}
@@ -29,11 +46,6 @@ nav_order: 3
         <div class="column-right">
           {{ text.content }}
         </div>
-        <!--
-        <button id="back" onclick="history.back()" style="display:none;">
-          Go Back
-        </button>
-        -->
       </div>
     {% endfor %}
   </div>
@@ -161,3 +173,4 @@ nav_order: 3
       }
   });
 </script>
+-->
