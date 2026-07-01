@@ -9,52 +9,13 @@ nav_order: 4
   {% assign sorted_texts = site.textos-modernos | sort: "order" %}
   {% for text in sorted_texts %}
     <li>
-      <a href="#"
-        onclick="showText('{{ text.order }}'); return false;">
+      <a href="{{ site.baseurl }}{{ text.url }}">
         {{ text.title }}
       </a>
     </li>
   {% endfor %}
   </ul>
 </div>
-
-{% for text in site.textos-modernos %}
-<div id="{{ text.order }}" class="text-section" style="display:none;">
-  {{ text.content }}
-  <a href="{{ site.baseurl }}/facsimiles/?id={{ text.order }}">
-    <button>Ver el facsímil y la transcripción</button>
-  </a>
-</div>
-{% endfor %}
-<div class="bottom_buttons">
-  <button id="prev" onclick="prev()" style="display:none;"> Anterior</button>
-  <button id="showtoc_bt" onclick="showTOC()" style="display:none;"> Volver a la tabla de contenidos</button>
-  <button id="next" onclick="next()" style="display:none;"> Siguiente</button>
-</div>
-<!--
-{% for text in site.textos_modernos %}
-<div>
-  <a id="jump_facs" href="{{ site.baseurl }}/facsimiles/?id={{ text.order }}" style="display:none;">
-    <button>Ver el facsímil y la transcripción</button>
-  </a>
-</div>
-{% endfor %}
--->
-<div class="jump_container" id="cambio" style="display:none;">
-  <select id="jump_pg" onclick="goToPage()">
-    <option value="">Elegir la página</option>
-    {% assign sorted_texts = site.textos-modernos | sort: "order" %}
-    {% for text in sorted_texts %}
-    <option value= "{{ text.order }}">
-      {{ text.title }}
-    </option>
-    {% endfor %}
-  </select>
-</div>
-<!--
-<button id="show_facs" onclick="goToFacsimile()" style="display:none;">Ver el facsímil y la transcripción</button>
--->
-<br>
 
 <div id="criterios">
   <h2>Los criterios de edición</h2>
@@ -125,6 +86,7 @@ nav_order: 4
   <p>Para preservar la autenticidad de un manuscrito, no corregimos los errores gramaticales (concordancia) pero indicamos la corrección en las notas.</p>
 </div>
 
+<!--
 <script>
   var curr_page;
   let all_pgs = document.querySelectorAll('.text-section').length;
@@ -185,3 +147,4 @@ nav_order: 4
     }
   }
 </script>
+-->

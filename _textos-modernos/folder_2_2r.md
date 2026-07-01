@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: ed-moderna
 title: Folder 2, 2r
 order: 3
 ---
