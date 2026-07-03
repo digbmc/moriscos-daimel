@@ -5,9 +5,9 @@ image: /assets/images/Folder_2_1r.jpg
 body_class: wide-page
 order: 1
 ---
-1. muy R\[everen\](dos) s\[eñore\]s %%%
-2. El bachiller pedro ortiz promotor fiscal en el sancto officio de %%%
-3. la Inq\[uisiçi\](on) y arçob\[is\]pado de Toledo y su partido %%%
+1. muy R\[everen\](dos) s\[eñore\]s  
+2. El bachiller pedro ortiz promotor fiscal en el sancto officio de  
+3. la Inq\[uisiçi\](on) y arçob\[is\]pado de Toledo y su partido  
 4. ante v\[uestras\] m\[erçedes\] parezco en la major via y forma q\[ue\] puedo y de  
 5. der\[ech\](o) devo y denuncio A maior garçia xpiana nueva de mora  
 6. muger de sebastian carretero morisco vez\[i\](no) de daymiel por here  
