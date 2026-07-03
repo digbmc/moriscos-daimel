@@ -884,9 +884,16 @@ div.editions a {
   float: left;
   width: 40%;
 }
+.margen {
+  float: left;
+  width: 5%;
+}
 .column-right {
   float: left;
   width: 60%;
+}
+.hidden {
+    visibility: hidden;
 }
 #folium {
   display: flex;

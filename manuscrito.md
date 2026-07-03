@@ -5,7 +5,7 @@ body_class: wide-page
 hide_title: true
 nav_order: 3
 ---
-<h1 id="titulo" style="margin-left:2rem;">Facsímiles</h1>
+<h1 id="titulo" style="margin-left:2rem;">Manuscritos</h1>
 <div id="toc" class="gallery">
     {% assign sorted_texts = site.texts | sort: "order" %}
     {% for text in sorted_texts %}
