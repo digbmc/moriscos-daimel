@@ -951,3 +951,13 @@ margin-top:20px;margin-bottom: 50px;
 .thumbnail:hover {
   transform: scale(1.05);
 }
+
+//This makes the citation for pages were the width format is different so that it still looks the same as the 
+//citations on other pages.
+//Esto hace que las citaciones de páginas cuyo ancho es distinto para que aún se parece a las otras citaciones en las
+//otras páginas.
+.citation {
+  max-width: 38rem;
+  margin-left:  auto;
+  margin-right: auto;
+}

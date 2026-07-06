@@ -5,9 +5,9 @@ layout: default
     <h1 id="titulo" style="margin-left:2.5rem;">{{ page.title }}</h1>
     <div class="row">
         <div id="content">
-            <h1 style="margin-left:25%;">{{ text.title }}</h1>
+            <!--<h1 style="margin-left:25%;">{{ text.title }}</h1>-->
             <div class="column-left" id="folium">
-                <img src="{{ site.baseurl }}{{ page.image }}" alt="Manuscript page: {{ page.title }}" 
+                <img src="{{ site.baseurl }}{{ page.image }}" alt="Manuscrito: {{ page.title }}" 
                 style="max-width:80%;height:auto;margin:10px 0;">
             </div>
             <div class="column-right">
@@ -16,8 +16,6 @@ layout: default
         </div>
     </div>
 </article>
-{% assign ed-mod = site.textos-modernos | where: "order", page.order | first %}
-<a href="{{ site.baseurl }}{{ ed-mod.url }}">Ver la edición moderna</a>
 
 {% assign anter = page.order | minus: 1 %} {% assign prox = page.order | plus: 1 %}
 {% assign anter_pg = site.texts | where: "order", anter | first %}
@@ -40,6 +38,8 @@ layout: default
         {% endfor %}
     </select>
 </div>
+{% assign ed-mod = site.textos-modernos | where: "order", page.order | first %}
+<a href="{{ site.baseurl }}{{ ed-mod.url }}" style="margin-left: 2.5rem;">Ver la edición moderna</a>
 <script>
 document.getElementById("cambio").addEventListener("change", function () {
     if (this.value) {

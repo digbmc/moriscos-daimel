@@ -16,19 +16,12 @@ No podemos llegar a este punto de investigación sin la ayuda de muchos contribu
 
 # Equipo
 
-### [Kathryn Phipps]() - Project director
+### [Kathryn Phipps]() - Directora del Proyecto
 
 
 
-### [Alice McGrath]() - Technical coordinator
-
-
-
-### Nicholas Caraballo - Digital Scholarship Graduate Assistant and Project Manager
-
-
-
-### Digital Scholarship Project Assistants:
+### Asistentes del proyecto
+<!--Digital Scholarship Project Assistants:-->
 
 
 
@@ -41,3 +34,23 @@ No podemos llegar a este punto de investigación sin la ayuda de muchos contribu
 - Sarah Kurth
 
 - AJ Lamas-Nemec
+
+
+
+### Nicholas Caraballo - Asistente de posgrado y desarrollador *front-end*
+<!--Digital Scholarship Graduate Assistant and Project Manager-->
+
+
+
+### [Alice McGrath]() - Coordinadora técnica
+
+<br>
+<br>
+<hr>
+<p>
+  Cómo citar las imágenes: Digital images of the Henry Charles Lea Collection of Inquisition Manuscripts, 1533-1866. 
+  Images 25–68, (Ms. Coll. 728). Kislak Center for Special Collections, Rare Books and Manuscripts, University of 
+  Pennsylvania.
+  <br><br>
+  Cómo citar el proyecto: Equipo Moriscos Daimiel. Los moriscos de Daimiel. Bryn Mawr College, 2026. Web.
+</p>

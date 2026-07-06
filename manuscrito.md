@@ -5,7 +5,7 @@ body_class: wide-page
 hide_title: true
 nav_order: 3
 ---
-<h1 id="titulo" style="margin-left:2rem;">Manuscritos</h1>
+<h1 id="titulo" style="margin-left:1.5rem;">El proceso de MG: transcripción del manuscrito</h1>
 <div id="toc" class="gallery">
     {% assign sorted_texts = site.texts | sort: "order" %}
     {% for text in sorted_texts %}
@@ -25,6 +25,16 @@ nav_order: 3
     </div>
     {% endfor %}
 </div>
+<br>
+<div style="margin-left:1.5rem">
+  <a href="{{ site.baseurl }}/criterios-transcripcion/">Los criterios de la transcripción</a>
+</div>
+<div class="citation">
+  <br>
+  <hr>
+  <p>Cómo citar la transcripción del manuscrito: Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. El proceso de Mayor García: la transcripción del manuscrito. Bryn Mawr College, 2026. Web.</p>
+<div>
+
 
 <!-- ----------------------------------------------------------------------------------------------------------------- 
 
