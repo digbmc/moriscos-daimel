@@ -7,8 +7,6 @@ layout: default
         {{ content }}
     </div>
 </article>
-{% assign transc = site.texts | where: "order", page.order | first %}
-<a href="{{ site.baseurl }}{{ transc.url }}">Ver la transcripción</a>
 
 {% assign anter = page.order | minus: 1 %} {% assign prox = page.order | plus: 1 %}
 {% assign anter_pg = site.textos-modernos | where: "order", anter | first %}
@@ -31,6 +29,10 @@ layout: default
         {% endfor %}
     </select>
 </div>
+
+{% assign transc = site.texts | where: "order", page.order | first %}
+<a href="{{ site.baseurl }}{{ transc.url }}">Ver la transcripción</a>
+
 <script>
 document.getElementById("cambio").addEventListener("change", function () {
     if (this.value) {
