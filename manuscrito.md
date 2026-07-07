@@ -25,7 +25,7 @@ nav_order: 3
     </div>
     {% endfor %}
 </div>
-<br>
+<br><br>
 <div style="margin-left:1.5rem">
   <a href="{{ site.baseurl }}/criterios-transcripcion/">Los criterios de la transcripción</a>
 </div>

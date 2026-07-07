@@ -7,8 +7,10 @@ layout: default
         <div id="content">
             <!--<h1 style="margin-left:25%;">{{ text.title }}</h1>-->
             <div class="column-left" id="folium">
+                <a href="{{site.baseurl}}{{ page.image }}" target="_blank">
                 <img src="{{ site.baseurl }}{{ page.image }}" alt="Manuscrito: {{ page.title }}" 
                 style="max-width:80%;height:auto;margin:10px 0;">
+                </a>
             </div>
             <div class="column-right">
                 {{ content }}
