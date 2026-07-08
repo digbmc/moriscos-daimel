@@ -884,9 +884,17 @@ div.editions a {
   float: left;
   width: 40%;
 }
+.contenido {
+  margin-left: 2.5rem;
+  margin-right: 3rem;
+}
 .margen {
   float: left;
-  width: 5%;
+  width: 10%;
+}
+.parrafo {
+  float: left;
+  width: 90%;
 }
 .column-right {
   float: left;
@@ -914,6 +922,7 @@ div.editions a {
 }
 
 .bottom_buttons {
+  clear: both;
   display: flex;
   align-items: center;
   justify-content: space-evenly;

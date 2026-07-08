@@ -2,10 +2,37 @@
 layout: default
 ---
 <article class="manuscrito">
-    <h1 id="titulo">{{ page.title }}</h1>
-    <div id="content">
-        {{ content }}
-    </div>
+    <h1 id="titulo" style="margin-left: 2.5rem;">{{ page.title }}</h1>
+    {% assign secciones = page.content | split: '<!-- SPLIT -->' %}
+    {% for seccion in secciones %}
+        {% assign parrafos = seccion | split: "</p>" %}
+        <div class="contenido">
+            <div class="margen">
+                {% for bloque in parrafos %}
+                    {% if bloque contains '<p>' %}
+                        {% assign parrafo = bloque | remove_first: '<p>' | strip %}
+                        {% assign primera = parrafo | slice: 0 %} {% assign ultima = parrafo | slice: -1 %}
+                        {% if primera == "[" and ultima == "]" %}
+                            {% assign partes = parrafo | split: ':' %}
+                            {% assign mitad = partes[0] | split: '[' %}
+                            {% assign pagina = mitad[1] %}
+                            {% assign orden = pagina | minus: 24 %}
+                            {% assign transc = site.texts | where: "order", orden | first %}
+                            <a href="{{ site.baseurl }}{{ transc.url }}">{{ parrafo }}</a>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}                    
+            </div>
+            <div class="parrafo">
+                {% for parrafo in parrafos %}
+                    {% assign primera = parrafo | slice: 0 %} {% assign ultima = parrafo | slice: -1 %}
+                    {% if primera != "[" and ultima != "]" %}
+                        {{ parrafo }}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
 </article>
 
 {% assign anter = page.order | minus: 1 %} {% assign prox = page.order | plus: 1 %}
@@ -29,10 +56,10 @@ layout: default
         {% endfor %}
     </select>
 </div>
-
+<!--
 {% assign transc = site.texts | where: "order", page.order | first %}
 <a href="{{ site.baseurl }}{{ transc.url }}">Ver la transcripción</a>
-
+-->
 <script>
 document.getElementById("cambio").addEventListener("change", function () {
     if (this.value) {
