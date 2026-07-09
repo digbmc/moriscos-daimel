@@ -20,7 +20,7 @@ Y después de lo susodicho en el audiencia de la santa Inquisición de la dicha 
 
 [28: 2v]  
 
-Folio blanco. 
+[Folio blanco.]
 
 <hr>
 
