@@ -12,13 +12,16 @@ layout: default
                     {% if bloque contains '<p>' %}
                         {% assign parrafo = bloque | remove_first: '<p>' | strip %}
                         {% assign primera = parrafo | slice: 0 %} {% assign ultima = parrafo | slice: -1 %}
-                        {% if primera == "[" and ultima == "]" %}
+                        {% assign agarrar = parrafo | slice: -2 %}
+                        {% if primera == "[" and ultima == "]" and agarrar != "." %}
                             {% assign partes = parrafo | split: ':' %}
                             {% assign mitad = partes[0] | split: '[' %}
                             {% assign pagina = mitad[1] %}
                             {% assign orden = pagina | minus: 24 %}
                             {% assign transc = site.texts | where: "order", orden | first %}
                             <a href="{{ site.baseurl }}{{ transc.url }}">{{ parrafo }}</a>
+                        {% elsif primera == "[" and ultima == "]" and agarrar == "." %}
+                            <p><i>Folio blanco.</i></p>
                         {% endif %}
                     {% endif %}
                 {% endfor %}                    

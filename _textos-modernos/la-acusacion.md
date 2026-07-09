@@ -17,4 +17,4 @@ El bachiller Pedro Ortiz
 
 [26: 1v]  
 
-Folio blanco.
+[Folio blanco.]

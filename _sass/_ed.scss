@@ -884,6 +884,11 @@ div.editions a {
   float: left;
   width: 40%;
 }
+@media (max-width: 768px) {
+  .column-left {
+    width: 100%;
+  }
+}
 .contenido {
   margin-left: 2.5rem;
   margin-right: 3rem;
@@ -899,6 +904,11 @@ div.editions a {
 .column-right {
   float: left;
   width: 60%;
+}
+@media (max-width: 768px) {
+  .column-right {
+    width: 100%;
+  }
 }
 .hidden {
     visibility: hidden;
