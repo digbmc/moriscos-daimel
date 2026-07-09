@@ -895,11 +895,11 @@ div.editions a {
 }
 .margen {
   float: left;
-  width: 10%;
+  width: 20%;
 }
 .parrafo {
   float: left;
-  width: 90%;
+  width: 80%;
 }
 .column-right {
   float: left;
@@ -979,4 +979,11 @@ margin-top:20px;margin-bottom: 50px;
   max-width: 38rem;
   margin-left:  auto;
   margin-right: auto;
+}
+
+h1.titulo-seccional {
+  font-size: 1em;
+  font-weight: normal;
+  margin: 1em 0;
+  line-height: inherit;
 }

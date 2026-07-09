@@ -2,15 +2,26 @@
 layout: default
 ---
 <article class="manuscrito">
+    <!--
     <h1 id="titulo" style="margin-left: 2.5rem;">{{ page.title }}</h1>
+-->
     {% assign secciones = page.content | split: '<!-- SPLIT -->' %}
+    {% assign titulo = nil %}
     {% for seccion in secciones %}
         {% assign parrafos = seccion | split: "</p>" %}
         <div class="contenido">
             <div class="margen">
                 {% for bloque in parrafos %}
-                    {% if bloque contains '<p>' %}
-                        {% assign parrafo = bloque | remove_first: '<p>' | strip %}
+                    {% assign parrafo = bloque %}
+                    {% if parrafo contains '</h1>' %}
+                        {% assign titulo-sec = parrafo | split: "</h1>" %}
+                        {% assign titulo = titulo-sec[0] %}
+                        {% assign parrafo = titulo-sec[1] %}
+                        <p></p>
+                    {% endif %}
+
+                    {% if parrafo contains '<p>' %}
+                        {% assign parrafo = parrafo | remove_first: '<p>' | strip %}
                         {% assign primera = parrafo | slice: 0 %} {% assign ultima = parrafo | slice: -1 %}
                         {% assign agarrar = parrafo | slice: -2 %}
                         {% if primera == "[" and ultima == "]" and agarrar != "." %}
@@ -23,14 +34,32 @@ layout: default
                         {% elsif primera == "[" and ultima == "]" and agarrar == "." %}
                             <p><i>Folio blanco.</i></p>
                         {% endif %}
+                    {% else %} <p></p>
                     {% endif %}
                 {% endfor %}                    
             </div>
             <div class="parrafo">
-                {% for parrafo in parrafos %}
-                    {% assign primera = parrafo | slice: 0 %} {% assign ultima = parrafo | slice: -1 %}
-                    {% if primera != "[" and ultima != "]" %}
-                        {{ parrafo }}
+                {% for bloque in parrafos %}
+                    {% assign parrafo = bloque %}
+                    {% if parrafo contains '</h1>' %}
+                        <h1 style="margin: 0;">{{ titulo }}</h1>
+                        {% assign titulo-sec = parrafo | split: "</h1>" %}
+                        <!--{% assign titulo = titulo-sec[0] %}-->
+                        {% assign parrafo = titulo-sec[1] %}
+                    {% endif %}
+
+                    {% if parrafo contains '<p>' %}
+                        {% assign parrafo = parrafo | remove_first: '<p>' | strip %}
+                        {% assign primera = parrafo | slice: 0 %} {% assign ultima = parrafo | slice: -1 %}
+                        {% assign agarrar = parrafo | slice: -2 %}
+                        {% assign nota = parrafo | slice: 0, 14 %}
+                        {% if primera != "[" or ultima != "]" %}
+                            {{ bloque }}
+                        {% elsif primera == "[" and ultima =="]" and agarrar == "." %}
+                            <br><br><hr>
+                        {% endif %}
+                    {% elsif bloque contains '<h1>' or bloque contains '<h2>' or bloque contains '<h3>' or bloque contains '<h4>' or bloque contains '<h5>' or bloque contains '<h6>' %}
+                            {{ bloque }}
                     {% endif %}
                 {% endfor %}
             </div>
