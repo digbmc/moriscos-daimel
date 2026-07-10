@@ -5,32 +5,33 @@ image: /assets/images/Folder_2_4r.jpg
 body_class: wide-page
 order: 7
 ---
-1. En la çiudad de toledo diez y seys dias[^1]
-2. del mes de abril de mile y quinientos y çi\[n\]que\[n\]ta
-3. años ante el muy Re\[veren\](do) y mag\[nifi\](co) señor el liçen\[çia\](do) de
-4. valtodano ynq\[uisid\](or) estando en la audi\[ençi\](a) de la
-5. sancta ynq\[uisiçi\](on) y por su mandado fue trahida
-6. de su carçel una mug\[e\]r de la qual fue \[r\]eçibido
-7. Jura\[ment\](o) en forma de der\[ech\](o) so cargo del qual prome
-8. tio de deçir v\[er\]dad
-9. v preg\[unta\](da) dijo que se llama / mayor garçia y q\[ue\]
-10. es mug\[e\]r de bastian carretero labrador v\[eçin\](a) de 
-11. daymiel de edad de çinquenta y çinco o de sesenta
-12. años / y q\[ue\] se bautizo en la g\[e\]n\[er\]al co\[n\]v\[er\]syon de
-13. los moros de daymiel q\[ue\] seria esta declar\[ant\](e) ento\[n\]çes
-14. de edad de hasta syete o ocho años
-15. v preg\[unta\](da) dijo q\[ue\] se a co\[n\]fesado y comulgado o q\[ue\] año}
-16. v preg\[unta\](da) por las ora\[çion\]es de la ygl\[es\]ia /
-17. v no se supo sygnar ni deçir las palabras
-18. v dijo el ave m\[ari\](a) y p\[ate\]r n\[ost\]r(e) no supo el credo / ny
-19. la salve /
-20. padres
-21. v Juan Garçia de agraz labrador def\[unt\](o)
-22. v Juana G\[oncale\](s) su mug\[e\]r def\[unt\](a) v\[eçin\](o)s de daymiel
-23. ahuelos
-24. v dijo q\[ue\] no conoçio ahuelo ny ahuela de ning\[un\](a)
-25. p\[ar\]te ny sabe sy muriero\[n\] xpianos
+iv \[4\]  
+[^1] ~en la çiudad de toledo diez y seys dias 
+del mes de abril de mile y quinientos y çi\[n\]que\[n\]ta 
+años ante el muy re\[veren\](do) y mag\[nifi\](co) señor el liçen\[çia\](do) de 
+valtodano ynq\[uisid\](or) estando en la audi\[ençi\](a) de la 
+sancta ynq\[uisiçi\](on) y por su mandado fue trahida 
+d\[e\] su carçel una mug\[e\]r de la qual fue \[r\]eçibido 
+jura\[ment\](o) en forma de der\[ech\](o) so cargo del qual prome 
+tio de de(s)\[i\]r v\[er\]d\[a\]d 
+~preg\[unta\](da) dixo q\[ue\] se llama / mayor garçia y q\[ue\] 
+es mug\[e\]r de bastian carretero labrador v\[eçin\](a) de  
+daymiel de edad de çinquenta y çinco / o sesenta 
+años / y q\[ue\] se bautizo en la g\[e\]n\[er\]al co\[n\]v\[er\]syon de 
+los mor\[isc\]os de daymiel q\[ue\] seria esta declar\[ant\](e) ento\[n\]çes 
+de edad de hasta syete / o / ocho años 
+~preg\[unta\](da) dixo q\[ue\] se a co\[n\]fesado y comulgado / ogaño 
+~preg\[unta\](da) por las ora\[çion\]es de la ygl\[es\]ia / 
+~no se supo sygnar ni de(s)\[ir\] las palabras 
+~dixo el ave m\[ari\](a) y p\[ate\]r n\[ost\]r(e) no supo el credo / ny 
+la salve / 
+padres 
+~juan garçia de agraz labrador def\[unt\](o) 
+~juana g\[oncale\](s) su mug\[e\]r def\[unt\](a) v\[eçin\](o)s de daymiel 
+ahuelos 
+~dixo q\[ue\] no conoçio ahuelo ny ahuela de ning\[un\](a) 
+p\[ar\]te ny sabe sy muriero\[n\] xpianos 
 
 <hr>
 
-[^1]: .i. mayor g\[arci\]a
+[^1]  i. mayor g\[arci\]a 
