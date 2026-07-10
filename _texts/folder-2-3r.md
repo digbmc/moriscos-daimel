@@ -23,14 +23,14 @@ iii \[3\]
 14. los d\[ic\]hos b\[ien\]e(s) en secresto e no andan co\[n\] ellos ni co\[n\] cosa alg\[un\](a) ni p\[ar\]te d\[e\] ellas / sin 
 15. n\[uest\]ra licen\[çi\](a) y expresso man\[da\](do) h\[e\]cho en t\[oled\](o) en la sala de n\[uest\]ra audien\[çi\](a) / a xix \[19\] 
 16. del mes d\[e\] março de mile y qui\[nient\](o)s y çinq\[uen\](ta) años 
-el licen\[çia\](do)  
-pe\[dro\] valtodano 
-por m\[anda\](do) del señor ynq\[uisid\](or) 
-agustin  
-yllan not\[ari\](o) 
-~ yo al\[ons\](o) de cadahalso jurado de toledo por virtud de \[e\]ste man\[dad\](o) 
-de los s\[eñore\]s inq\[uisid\](ores) cometo y encargo a vos (benito ferna\[n\]dez a) j(o)\[a\]n herna\[n\]dez vez\[in\](o)s 
-daimiel q\[ue\] executeis este mandami\[ent\](o) como en el se contiene 
-hecho en daimiel a xxiiii \[14\] de março de mdl \[1550\] a\[ñ\](o)s va entre renglones 
-do\[nde\] dize benito herna\[n\]dez vala 
-al\[onso\] de cadahalso luis guerrero nota\[ri\](o) 
+17. el licen\[çia\](do)  
+18. pe\[dro\] valtodano 
+19. por m\[anda\](do) del señor ynq\[uisid\](or) 
+20. agustin  
+21. yllan not\[ari\](o) 
+22. ~ yo al\[ons\](o) de cadahalso jurado de toledo por virtud de \[e\]ste man\[dad\](o) 
+23. de los s\[eñore\]s inq\[uisid\](ores) cometo y encargo a vos (benito ferna\[n\]dez a) j(o)\[a\]n herna\[n\]dez vez\[in\](o)s 
+24. daimiel q\[ue\] executeis este mandami\[ent\](o) como en el se contiene 
+25. hecho en daimiel a xxiiii \[14\] de março de mdl \[1550\] a\[ñ\](o)s va entre renglones 
+26. do\[nde\] dize benito herna\[n\]dez vala 
+27. al\[onso\] de cadahalso luis guerrero nota\[ri\](o)
