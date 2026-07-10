@@ -6,6 +6,7 @@ body_class: wide-page
 order: 5
 ---
 iii \[3\] 
+
 1. pa\[ra\] p\[r\](e)nder a mayor mug\[e\]r d\[e\] sebastia\[n\] carretero 
 2. ~nos los inq\[uisido\](res) contra la heretica prauedad e aspostasía en esta muy noble çi\[u\]dad 
 3. e\[n\] \[el\] arçob\[is\]pado d\[e\] t\[oled\](o) e su partido etc mandamos a vos el honrrado al\[ons\](o) de cadahal 
