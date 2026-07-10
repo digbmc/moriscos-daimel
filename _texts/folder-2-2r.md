@@ -46,11 +46,19 @@ ii \[2\]
 <hr>
 
 [^1] sacado del pr[oç]esso 
+
 [^2] de m\[ari\](a) la cabila mug\[e\]r d\[e\] 
+
 [^3] a\[lons\](o) parro\[n\] capat\[er\](o) moris 
-[^4] cos v\[eçin\](a) d\[e\] damiel a fo\[lios\] x \[10\] / 
-[^5] y xii \[12\] 
+
+[^4] cos v\[eçin\](a) d\[e\] damiel a fo\[lios\] x \[10\] /
+
+[^5] y xii \[12\]
+
 [^6] declaro este t\[estig\](o) e\[n\] su p\[ro\]cesso e\[n\] 
+
 [^7] diz\[iembr\](e) de 1549 ser de hedad 
+
 [^8] de  xlviii \[48\] \[añ\](o)\[s\] / o xlix \[49\] años 
+
 [^9] rat\[ifica\](da) 
