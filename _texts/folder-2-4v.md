@@ -8,10 +8,10 @@ order: 8
 1. ~luego dixo q\[ue\] piensa q\[ue\] la madre d\[e\] su padre 
 2. murio x\[ristia\](na) no se acuerda como se llamava 
 3. tios h\[e\]r\[man\]os de su padre 
-4. ~ dixo q\[ue\] tuvo un tio h\[e\]r\[man\](o) de su padre no se acuerda 
+4. ~dixo q\[ue\] tuvo un tio h\[e\]r\[man\](o) de su padre no se acuerda 
 5. como se llamo 
 6. tios h\[e\]r\[man\]os de su madre / 
-7. ~ la de ju\[an\] lopez enrreda no sabe como se llamo / 
+7. ~la de ju\[an\] lopez enrreda no sabe como se llamo / 
 8. otra q\[ue\] fue casada co\[n\] un calderero v\[eçin\](a) de da daymi 
 9. el no se acuerda como se llamo 
 10. h\[e\]r\[man\]os d\[e\] esta d\[eclarant\](e) 
