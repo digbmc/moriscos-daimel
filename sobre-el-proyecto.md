@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El proyecto y Equipo
+title: El Proyecto y Equipo
 nav_order: 1
 ---
 
@@ -13,6 +13,8 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 <hr>
 
 # Equipo
+
+## Dirección el proyecto
 
 ### [Kathryn Phipps]() - Directora del Proyecto
 
