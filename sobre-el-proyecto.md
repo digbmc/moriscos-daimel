@@ -14,7 +14,9 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 # El Equipo
 
+
 ## Dirección el proyecto
+
 
 **Kathryn Phipps** Directora
 
@@ -23,6 +25,7 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 ## Asistentes de investigación
 <!--Digital Scholarship Project Assistants:-->
+
 
 **Alejandre Lamas-Nemec**
 
@@ -36,11 +39,14 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 **Brynne Dixon-Kruijf** _(BMC ‘28 History of Art)_
 
+
 ## Coordinación técnica con Library & Information Technology Services (LITS), Bryn Mawr College 
+
 
 **Alice McGrath** Senior Digital Scholarship Specialist 
 
 **Sean M. Keenan** Educational Technology Specialist
+
 
 ### _Nuestros más sinceros agradecimientos a los siguientes programas por facilitar nuestro trabajo:_ 
 
@@ -51,6 +57,7 @@ Humanities/Social Science Research Pilot Program (2025)
 Hanna Holborn Grey Fellowship (2026) 
 
 Classics Department, BMC (2026) 
+
 
 ### _Agradecimientos adicionales_ 
 
