@@ -12,7 +12,7 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 <hr>
 
-# Equipo
+# El Equipo
 
 ## Dirección el proyecto
 
