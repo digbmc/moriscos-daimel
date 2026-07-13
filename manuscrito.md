@@ -38,7 +38,7 @@ nav_order: 3
 
 <!-- ----------------------------------------------------------------------------------------------------------------- 
 
-    A TON of original JavaScript-based code blocked out
+    En: A TON of original JavaScript-based code blocked out
     This would enable the viewing of each manuscript with its transcription on the same page (i.e., no redirecting to
     some other web page)
     Es: Un montón de código previo de JavaScript bloqueado

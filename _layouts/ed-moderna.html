@@ -9,7 +9,7 @@ layout: default
     {% assign titulo = nil %}
     {% for seccion in secciones %}
         {% assign parrafos = seccion | split: "</p>" %}
-        <div class="contenido">
+        <div class="contenido" id="{{ forloop.index }}">
             <div class="margen">
                 {% for bloque in parrafos %}
                     {% assign parrafo = bloque %}

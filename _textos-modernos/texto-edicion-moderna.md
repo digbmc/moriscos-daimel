@@ -3,6 +3,7 @@ layout: ed-moderna
 title: Texto edicion moderna
 body_class: wide-page
 hide_title: true
+order: 100
 ---
 # La acusación: El fiscal Pedro Ortiz contra Mayor García  
 

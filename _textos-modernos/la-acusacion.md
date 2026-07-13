@@ -1,10 +1,9 @@
 ---
-layout: ed-moderna
+layout: post
 title: "La acusación: El fiscal Pedro Ortiz contra Mayor García"
 body_class: wide-page
 order: 1
 ---
-
 [25: 1r]  
 
 Muy reverendos señores  
