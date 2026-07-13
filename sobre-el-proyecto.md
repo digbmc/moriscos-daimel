@@ -16,33 +16,47 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 ## Dirección el proyecto
 
-### [Kathryn Phipps]() - Directora del Proyecto
+**Kathryn Phipps** Directora
+
+**Nicholas Caraballo** _(Classics, posgraduado)_ Coordinador del proyecto y desarrollador web, traductor del latín.
 
 
-
-### Asistentes del proyecto
+## Asistentes de investigación
 <!--Digital Scholarship Project Assistants:-->
 
+**Alejandre Lamas-Nemec**
+
+**Sarah Kurth** _(BMC ‘28 History of Art and Spanish)_
+
+## Asistentes de transcripción
+
+**Madeleine Buergel** _(BMC '29)_
+
+**Nora Cleary** _(BMC ‘28 Biology, Geology, Spanish Minor)_
+
+**Brynne Dixon-Kruijf** _(BMC ‘28 History of Art)_
+
+## Coordinación técnica con Library & Information Technology Services (LITS), Bryn Mawr College 
+
+**Alice McGrath** Senior Digital Scholarship Specialist 
+
+**Sean M. Keenan** Educational Technology Specialist
+
+### _Nuestros más sinceros agradecimientos a los siguientes programas por facilitar nuestro trabajo:_ 
+
+Digital Bryn Mawr Grant (2025–2026) 
+
+Humanities/Social Science Research Pilot Program (2025) 
+
+Hanna Holborn Grey Fellowship (2026) 
+
+Classics Department, BMC (2026) 
+
+### _Agradecimientos adicionales_ 
+
+**María Pañuelo Hoyos** _(Posgraduado, Princeton, Department of Spanish)_ por su apoyo con el árabe del proceso.
 
 
-- Madeleine Buergel
-
-- Nora Cleary
-
-- Brynne Dixon-Kruijf
-
-- Sarah Kurth
-
-- AJ Lamas-Nemec
-
-
-
-### Nicholas Caraballo - Asistente de posgrado y desarrollador *front-end*
-<!--Digital Scholarship Graduate Assistant and Project Manager-->
-
-
-
-### [Alice McGrath]() - Coordinadora técnica
 
 <br>
 <br>
