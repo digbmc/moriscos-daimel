@@ -31,6 +31,8 @@ Abuelos
 
 [^1] i. Mayor García  
 
+<!-- SPLIT -->
+
 [32: 4v]  
 
 ~Luego dijo que piensa que la madre de su padre murió cristiana no se acuerda como se llamaba  
@@ -61,6 +63,8 @@ Hijos de esta declarante
 
 ~Mayor de ocho años, Alonso de trece años.  
 
+<!-- SPLIT -->
+
 [33: 5r]  
 
 ~Sebastián de diez o doce años, y que no tiene más hijos  
@@ -74,6 +78,8 @@ Hijos de esta declarante
 ~El señor inquisidor le encargó mucho que lo piense bien, y diga la verdad en todo, y fue mandada volver a su cárcel y fui presente yo, Alonso de León notario  
 
 [^1] .i. monición  
+
+<!-- SPLIT -->
 
 [34: 5v]  
 
@@ -92,6 +98,8 @@ Después de lo susodicho diez y ocho días del dicho mes de abril ante el dicho 
 ~El señor inquisidor la tornó a decir que deje ahora lo de la hacienda, y hable en lo que toca al descargo de su conciencia  
 
 [^1] ii. monición  
+
+<!-- SPLIT -->
 
 [35: 6r]  
 

@@ -49,6 +49,11 @@ hide_title: true
     {% endfor %}
 </article>
 
+<script>
+    //Código es para esconder el texto de un archivo de prueba.
+    document.getElementById("100").style.display = 'none';
+</script>
+
 <!--
 <article>
     --Poner los archivos en la carpeta «textos-modernos» en orden--
