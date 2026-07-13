@@ -4,7 +4,7 @@ title: El proyecto y Equipo
 nav_order: 1
 ---
 
-EL PROYECTO 
+# El Proyecto 
  
 Los moriscos Daimiel es un proyecto que procura promover el estudio de los archivos inquisitoriales pertenecientes a la persecución del criptoislam en el siglo XVI. Pretendemos producir ediciones con transcripciones, modernizaciones, y traducciones tanta con utilidad pedagógica como para facilitar el estudio académico de estos documentos. Hasta el día de hoy tenemos pendiente la transcripción de 12 procesos inquisitoriales, el primero de los cuales se presenta en este sitio en su totalidad y con una modernización.  
  
