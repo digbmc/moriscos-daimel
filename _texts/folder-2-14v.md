@@ -21,10 +21,10 @@ order: 28
 14. el t\[estig\](o) dize al qual no se debe de dar fee por
 15. ser unico y syng\[u\]lar / y d\[e\] ello pidio s\[e\]r dada por
 16. libre e de lo contenido en su co\[n\]fesion pidio
-17. [^1] peni\[tençi\]a con m\[isericord\]ia y concluyo e fue manda
+17. [^1]peni\[tençi\]a con m\[isericord\]ia y concluyo e fue manda
 18. da bolver a su carçel, a lo qual fuy p\[r\](e)sente
 19. yo alonsso de leo\[n\] nota\[ri\](o)
-20. [^2] ~en la çiudad de toledo tress dias del mes de julio
+20. [^2]~en la çiudad de toledo tress dias del mes de julio
 21. de mile y q\[ui\]nientos y çinquenta años / estando 
 
 <hr>
