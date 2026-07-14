@@ -7,7 +7,7 @@ order: 27
 ---
 xiiii \[14\] 
 
-1. [^1] pu\[blicaçi\](on) de los t\[estig\](o)s del fiscal co\[n\]tra mayor garcia
+1. [^1]pu\[blicaçi\](on) de los t\[estig\](o)s del fiscal co\[n\]tra mayor garcia
 2. mug\[e\]r de sebastia\[n\] carretero
 3. ~un t\[estig\](o) q\[ue\] depuso en el mes d\[e\] hebr\[er\](o) d\[e\] este presente año d\[e\] qui\[nient\](o)s
 4. çinq\[uen\](ta) dixo que podra av\[er\] treinta y tres o treinta y
