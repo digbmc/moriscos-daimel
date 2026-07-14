@@ -19,7 +19,7 @@ ix \[9\]
 10. ygl\[es\]ia n\[uest\]ra madre, y con escandalo y menospreçio del pueblo catho\[li\](co) y religion
 11. xpiana postpuesto el themor de dios y la saluaçio\[n\] d\[e\] su anima heretico y a
 12. postato de y contra n\[uest\]ra s\[an\](ta) ffe catho\[li\](ca) y lei evangelica teniendo y creye\[n\]do
-14. [^1]la dañada y reprouada secta d\[e\] mahoma y esp\[eçi\](a)lmente e\[n\] las cosas y casos sig\[uiente\](s)
+14. [^1] la dañada y reprouada secta d\[e\] mahoma y esp\[eçi\](a)lmente e\[n\] las cosas y casos sig\[uiente\](s)
 15. Primeramente q\[ue\] estando presente la d\[ic\]ha mayor garcia una persona xpiana n\[uev\](a)
 16. de mora alheño las manos otra morisca y des\[pues\] q\[ue\] se las ovo alheñado dixo q\[ue\]
 17. bonica mora y q\[ue\] bien te pareçe essa alheña / y q\[ue\] la d\[ic\]ha mayor g\[a\]r\[ç\]ia le dixo las
@@ -31,13 +31,13 @@ ix \[9\]
 23. p\[er\]sona morisca el alheña le dixeron q\[ue\] estuviesse mora y q\[ue\] creyesse e\[n\] la
 24. ley d\[e\] los moros por q\[ue\] hera buena y q\[ue\] dende en adelante aq\[ue\]lla pers\[on\](a) tuvo y
 25. creyo la damnada y reprouada secta d\[e\] mahoma por persuasyon de la d\[ic\]ha
-26. [^2]mayor garçia y de la otra persona morisca q\[ue\] le alheño las manos /
+26. [^2] mayor garçia y de la otra persona morisca q\[ue\] le alheño las manos /
 27. iten q\[ue\] cierta persona conuertida d\[e\] mora dixo a la d\[ic\]ha mayor garcia q\[ue\] le pareçia
 28. q\[ue\] hera mejor la ley d\[e\] los moros q\[ue\] no la d\[e\] los xpianos / y q\[ue\] la d\[ic\]ha mayor
 29. g\[a\]r\[ç\]ia lo creyo assi con la creençia d\[e\] la secta de mahoma q\[ue\] ha tenido y tiene
 
 <hr>
 
-[^1]1 
+[^1]: 1 
 
-[^2]4 
+[^2]: 4 
