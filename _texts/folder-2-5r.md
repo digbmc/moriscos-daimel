@@ -13,7 +13,7 @@ v \[5\]
 4. dada traher presa a este sancto offi\[çi\](o) 
 5. ~dixo q\[ue\] no la sabe 
 6. ~fuele d\[ic\]ho por el d\[ic\]ho señor inq\[uisid\](or) q\[ue\] se le haze\[n\] 
-7. [^1] saber q\[ue\] ella ha shido trahida pressa a este 
+7. [^1]saber q\[ue\] ella ha shido trahida pressa a este 
 8. sancto \[o\]ffi\[çi\](o) por aver hecho d\[ic\]ho y cometido 
 9. cosas contra n\[uest\]ra sancta ffee catholica / por 
 10. tanto se le amonesta y encarga q\[ue\] diga y co\[n\] 
