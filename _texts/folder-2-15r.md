@@ -21,10 +21,10 @@ xv \[15\]
 12. garçia / e todos conformes de un voto y parec\[e\]r
 13. dixero\[n\] q\[ue\] su voto y pareç\[e\]r es q\[ue\] la susad\[ic\]ha
 14. sea reçibida a rec\[on\]çiliaçion en forma co\[n\] confis
-15. [^1]caçion de bienes y habito y carçel por medio
+15. [^1] caçion de bienes y habito y carçel por medio
 16. año / o menos lo q\[ue\] pareçiere a los s\[eñore\]s ynq\[ui\]sidor\[e\]s
 17. a lo qual fuy presente yo alonsso de leo\[n\] nota\[ri\](o) 
 
 <hr>
 
-[^1]v\[oto\]s 
+[^1]: v\[oto\]s 
