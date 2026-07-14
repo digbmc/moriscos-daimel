@@ -25,9 +25,9 @@ vi \[6\]
 16. pues ha d\[ic\]ho el alcayde q\[ue\] pide audi\[ençi\](a) 
 17. ~dixo la d\[ic\]ha mayor garçia q\[ue\] podra aver treze / o 
 18. quatorze años q\[ue\] estand\[o\] en daymiel a la puer 
-19. [^1]ta de casa de marcos manglano q\[ue\] hera v\[eçin\](a) d\[e\] esta 
+19. [^1] ta de casa de marcos manglano q\[ue\] hera v\[eçin\](a) d\[e\] esta 
 20. t\[estig\](o) hablando co\[n\] su mug\[e\]r yseo / estava\[n\] anbas 
-21. [^2]solas antes q\[ue\] la d\[ic\]ha yseo fuese presa en esta 
+21. [^2] solas antes q\[ue\] la d\[ic\]ha yseo fuese presa en esta 
 22. ynq\[uisiçi\](on) la qual dixo a esta declar\[ant\](e) / pareçeme q\[ue\] 
 21. hera mejor ley la de los moros q\[ue\] la q\[ue\] tomamos 
 22. y q\[ue\] no le dixo / mas / y esta declar\[ant\](e) creyo algo 
@@ -35,6 +35,6 @@ vi \[6\]
 
 <hr>
 
-[^1]marcos manglano 
+[^1]: marcos manglano 
 
-[^2]yseo su muger q\[ue\] fue p\[re\]sa 
+[^2]: yseo su muger q\[ue\] fue p\[re\]sa 
