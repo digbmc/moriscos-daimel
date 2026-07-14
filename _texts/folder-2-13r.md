@@ -23,7 +23,7 @@ xiii \[13\]
 14. concluyo e pidio ser reçibido a la prueva neçe
 15. saria
 16. ~el d\[ic\]ho señor inq\[ui\]sydor dixo q\[ue\] el concluya co\[n\] las
-17. [^1] partes / y los reç\[i\]bi\[ra\] a la prueba en forma con ter
+17. [^1]partes / y los reç\[i\]bi\[ra\] a la prueba en forma con ter
 18. mino de nueve dias en la forma acostumbrada
 19. ~e luego el d\[ic\]ho promotor fisc\[a\]l dixo q\[ue\] haze presenta\[çi\](on)
 20. de las co\[n\]fesyones hechas por la d\[ic\]ha mayor diaz
