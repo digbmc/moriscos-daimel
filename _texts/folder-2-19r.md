@@ -8,7 +8,7 @@ order: 37
 xix \[19\] 
  
 1. a la Justicia y braço seglar a la d\[ic\]ha mayor g\[a\]r\[ç\]ia por av\[er\]
-2. [^1] y aver estado tantos años y t\[iem\]po en la creencia de la d\[ic\]ha
+2. [^1]y aver estado tantos años y t\[iem\]po en la creencia de la d\[ic\]ha
 3. ley de los moros, pero queriendo usar con la suso d\[ic\]ha de
 4. equidad e misericordia por aver promettido de
 5. aqui adelante biuir y morir en la creencia de n\[uest\]ra
