@@ -7,7 +7,7 @@ order: 7
 ---
 iv \[4\] 
 
-1. [^1] ~en la çiudad de toledo diez y seys dias 
+1. [^1]~en la çiudad de toledo diez y seys dias 
 2. del mes de abril de mile y quinientos y çi\[n\]que\[n\]ta 
 3. años ante el muy re\[veren\](do) y mag\[nifi\](co) señor el liçen\[çia\](do) de 
 4. valtodano ynq\[uisid\](or) estando en la audi\[ençi\](a) de la 
