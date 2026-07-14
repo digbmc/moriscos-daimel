@@ -37,4 +37,4 @@ sar
 
 <hr>
 
-[^1] .i. moni\[c\]i(on)
+[^1]: .i. moni\[c\]i(on)
