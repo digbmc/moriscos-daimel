@@ -23,7 +23,7 @@ order: 10
 16. ~la dicha mayor dixo q\[ue\] sy le podria hazer cargo de los  
 17. t\[estig\](o)s / 
 18. ~el s\[eñ\](or) ynq\[uisid\](or) le dixo q\[ue\] esto q\[ue\] pide se hara e\[n\] su t\[iem\]po 
-19. [^1] y la amonesto en forma / otra y segunda vez 
+19. [^1]y la amonesto en forma / otra y segunda vez 
 20. seg\[un\] esta amonestada q\[ue\] diga y co\[n\]fiesse la verdad 
 21. y no / otra cossa / y no tenga respecto a / otra cosa 
 22. p\[ri\]nçipalmente sy no al d\[e\]scargo de su conçiençia 
