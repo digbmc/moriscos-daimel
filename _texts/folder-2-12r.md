@@ -13,10 +13,10 @@ xii \[12\]
 4. hern\[ande\]s q\[ue\] hera or\[açi\]on de moros / y q\[ue\] hera bueno /
 5. ~ytem dixo q\[ue\] esta c\[o\]nfesante ha dejado de
 6. comer toçino porq\[ue\] es vedado a los moros en
-7. [^1] su ley y ansy se lo dixo el d\[ic\]ho di\[eg\](o) sanchez
+7. [^1]su ley y ansy se lo dixo el d\[ic\]ho di\[eg\](o) sanchez
 8. botijoso /
 9. ~ytem dixo q\[ue\] avra dos años poco mas / o menos
-10. [^2] q\[ue\] estando en casa d\[e\] este declar\[ant\](e) un juan de car
+10. [^2]q\[ue\] estando en casa d\[e\] este declar\[ant\](e) un juan de car
 11. moña herrero v\[eçin\](o) de daymiel morisco q\[ue\] mora
 12. en barrio nuevo / el qual avia entrado en la d\[ic\]ha
 13. cassa a co\[n\]prar media hanega de trigo tenia esta
