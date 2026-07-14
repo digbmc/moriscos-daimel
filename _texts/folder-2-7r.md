@@ -17,7 +17,7 @@ vii \[7\]
 8. pide audiencia
 9. ~dixo la d\[ic\]ha mayor garçia q\[ue\] abra mas
 10. de diez años / o diez años poco mas / o menos
-11. [^1]q\[ue\] un dia esta declar\[ant\](e) entro en casa de jua\[n\]
+11. [^1] q\[ue\] un dia esta declar\[ant\](e) entro en casa de jua\[n\]
 12. toledano morisco v\[eçin\](o) de daymiel en barrio
 13. nuevo q\[ue\] yba a buscar una pollína q\[ue\] se le
 14. avia salido de cassa / y vido en casa del d\[ic\]ho
@@ -30,17 +30,17 @@ vii \[7\]
 21. xo vino a daymiel y dixo q[ue] estava en alcala la
 22. real / e q\[ue\] se queria bolver a daymiel por q\[ue\] no
 23. se hazia en aq\[ue\]lla t\[ie\]rra / y como esta declar\[ant\](e)
-24. [^2]entro e\[n\] la d\[ic\]ha cassa del toledano vido como el
-25. [^3]d\[ic\]ho ju\[an\] de alexo tenia en la mano una gallina
-26. [^4]la qual degollo delante d\[e\] esta t\[estig\](o) y le atraveso
+24. [^2] entro e\[n\] la d\[ic\]ha cassa del toledano vido como el
+25. [^3] d\[ic\]ho ju\[an\] de alexo tenia en la mano una gallina
+26. [^4] la qual degollo delante d\[e\] esta t\[estig\](o) y le atraveso
 27. el pescueço a modo de moros / y como esta d\[eclarant\](e) 
 
 <hr>
 
-[^1]ju\[an\] toledano
+[^1]: ju\[an\] toledano
 
-[^2]ju\[an\] de alexo hijo de alexo 
+[^2]: ju\[an\] de alexo hijo de alexo 
 
-[^3]ramíro 
+[^3]: ramíro 
 
-[^4]deguello 
+[^4]: deguello 
