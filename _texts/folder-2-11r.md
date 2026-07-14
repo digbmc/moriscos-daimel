@@ -9,7 +9,7 @@ xi \[11\]
 
 1. y q\[ue\] esta declar\[ant\](e) no sabe de otra p\[er\]sona q\[ue\] lo aya
 2. dexado de comer / pero q\[ue\] se acuerda q\[ue\] la d\[ic\]ha
-3. [^1] yseo dixo a esta d\[eclarant\](e) lo q\[ue\] ha co\[n\]fesado / q\[ue\] se lava
+3. [^1]yseo dixo a esta d\[eclarant\](e) lo q\[ue\] ha co\[n\]fesado / q\[ue\] se lava
 4. sse las manos y díxesse las palabras en
 5. algaravía q\[ue\] ha declarado /
 6. ~al capi\[tul\](o) 4 dixo q\[ue\] ya ha co\[n\]fesado lo q\[ue\] sabe y
@@ -26,8 +26,8 @@ xi \[11\]
 17. ha d\[ic\]ho
 18. ~fuele d\[ic\]ho q\[ue\] no\[n\]bre letrado con cuyo consejo
 19. syga esta causa dixo q\[ue\] no q\[ui\]ere let\[ra\](do)
-20. [^2] ~el s\[eñ\](or) inq\[uisid\](or) le no\[n\]bro al doctor di\[eg\](o) ro\[drigue\](s) e fue
-21. [^3] mandada bolver a su carçel a lo q\[ua\]l fuy
+20. [^2]~el s\[eñ\](or) inq\[uisid\](or) le no\[n\]bro al doctor di\[eg\](o) ro\[drigue\](s) e fue
+21. [^3]mandada bolver a su carçel a lo q\[ua\]l fuy
 22. presente yo alonsso de leon notario 
 
 <hr>
