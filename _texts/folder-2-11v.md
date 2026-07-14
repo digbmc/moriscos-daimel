@@ -13,8 +13,8 @@ order: 22
 6. yor porq\[ue\] ella ha pedido audiençia / y como
 7. fue presente preguntada q\[ue\] es lo que quiere
 8. ~dixo q\[ue\] se a acordado q\[ue\] aq\[ue\]lla muger de alonsso
-9. [^1] bermejo con quien se puso el alheña se llama
-10. [^2] va mari h\[e\]rn\[ande\]z la qual al t\[iem\]po q\[ue\] esta declar\[ant\](e) y
+9. [^1]bermejo con quien se puso el alheña se llama
+10. [^2]va mari h\[e\]rn\[ande\]z la qual al t\[iem\]po q\[ue\] esta declar\[ant\](e) y
 11. ella se pusyero\[n\] el alheña en los dedos de las ma
 12. nos le dixo q\[ue\] las moras se ponian alheña en
 13. las manos por q\[ue\] \[e\]ste creya en la ley de los mo
@@ -23,7 +23,7 @@ order: 22
 16. ~ytem dixo q\[ue\] le parece q\[ue\] podra aver syete / o
 17. / ocho años poco mas / o menos q\[ue\] paso esto
 18. del alheña / y q\[ue\] despues d\[e\] esto esta co\[n\]fesa\[n\]
-19. [^3] te dixo a la d\[ic\]ha mari hern\[ande\]s como la d\[ic\]ha yseo
+19. [^3]te dixo a la d\[ic\]ha mari hern\[ande\]s como la d\[ic\]ha yseo
 20. le avia d\[ic\]ho q\[ue\] hiziesse el alguado como tiene de
 21. clarado / y q\[ue\] la d\[ic\]ha mari hern\[ande\]s dixo a esta c\[onfesan\](te)
 22. q\[ue\] quando / oviese hecho el alguado dixese / al
