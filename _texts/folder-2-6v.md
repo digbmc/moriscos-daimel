@@ -12,7 +12,7 @@ order: 12
 5. ~dixo q\[ue\] no sabe mas de(s)\[ir\] de lo q\[ue\] ha d\[ic\]ho 
 6. ~ytem dixo q\[ue\] no se acuerda q\[ue\] tanto t\[iem\]po ha 
 7. p\[er\](o) q\[ue\] le pareçe q\[ue\] fue quatro / o çinco años ant\[e\]s 
-8. [^1]q\[ue\] muriese di\[eg\](o) botijoso el viejo v\[eçin\](o) q\[ue\] fue de 
+8. [^1] q\[ue\] muriese di\[eg\](o) botijoso el viejo v\[eçin\](o) q\[ue\] fue de 
 9. daymiel morava el susod\[ic\]ho çerca de casa 
 10. d\[e\] esta declar\[ant\](e) / y estando esta declar\[ant\](e) y el d\[ic\]ho 
 11. botijosso sentados a la puerta de casa del suso 
@@ -34,7 +34,7 @@ order: 12
 
 <hr>
 
-[^1]di\[eg\]o botijoso el viejo 
+[^1] di\[eg\]o botijoso el viejo 
 
 [^2]tocino
 
