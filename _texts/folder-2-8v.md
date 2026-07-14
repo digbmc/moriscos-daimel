@@ -17,7 +17,7 @@ order: 16
 10. vido a esta d\[eclarant\](e) q\[ue\] se lo ponia q\[ue\] dize q\[ue\] se la puso
 11. ~fue mandada bolver a su carçel e dixo q\[ue\]
 12. lo den un poco de aclaramiento para q\[ue\] acabe
-13. [^1] ya este negoçio fuy presente yo alonsso
+13. [^1]ya este negoçio fuy presente yo alonsso
 14. de leo\[n\] notario
 15. ~en la d\[ic\]ha çiudad de toledo, dos dias de junio de
 16. mile y quinientos y cinquenta años ante el d\[ic\]ho señor
