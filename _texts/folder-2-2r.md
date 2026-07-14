@@ -7,17 +7,17 @@ order: 3
 ---
 ii \[2\]
 
-1. contra mayor rodriguez muger de Sebastian carretero v[e]z[in](a) de daimiel  
-2. [^1]: ~en la çiudad de t\[oled\](o) en la audien\[çi\](a) d\[e\] la s\[anc\](ta) inq\[uisiçi\](on) en seis dias del mes 
-3. [^2]: d\[e\] hebrero d\[e\] mile y qui\[nient\](o)s y cinq\[uen\](ta) años ante el señor inq\[uisid\](or) 
-4. [^3]: valtodano y por su man\[da\](do) fue sacada la d\[ic\]ha maria la canbila e 
-5. [^4]: salida el señor inq\[uisi\](or) le dixo q\[ue\] si se a acordado de alg\[un\](a) cosa 
-6. [^5]: açerca d\[e\] su negoçio q\[ue\] lo diga so cargo del jurame\[n\]to q\[ue\] tiene hecho 
+1. contra mayor rodriguez muger de Sebastian carretero v\[e\]z\[in\](a) de daimiel  
+2. [^1] ~en la çiudad de t\[oled\](o) en la audien\[çi\](a) d\[e\] la s\[anc\](ta) inq\[uisiçi\](on) en seis dias del mes 
+3. [^2]d\[e\] hebrero d\[e\] mile y qui\[nient\](o)s y cinq\[uen\](ta) años ante el señor inq\[uisid\](or) 
+4. [^3] valtodano y por su man\[da\](do) fue sacada la d\[ic\]ha maria la canbila e 
+5. [^4] salida el señor inq\[uisi\](or) le dixo q\[ue\] si se a acordado de alg\[un\](a) cosa 
+6. [^5] açerca d\[e\] su negoçio q\[ue\] lo diga so cargo del jurame\[n\]to q\[ue\] tiene hecho 
 7. y e\[n\]tre los otros cap\[itul\](o)s q\[ue\] declaro esta el sigui\[ent\](e) 
 8. ~yten dixo q\[ue\] ella ha recorrido su memoria para poder confessar 
-9. [^6]: la verdad por lo q\[ue\] tiene jurado e se ha acordado q\[ue\] siendo esta 
-10. [^7]: declarante de hedad d\[e\] quinze años / mayor ramirez muger de 
-11. [^8]: hernan ramirez aguela d[e] esta declar\[ant\](e) le puso alheña en los dedos 
+9. [^6] la verdad por lo q\[ue\] tiene jurado e se ha acordado q\[ue\] siendo esta 
+10. [^7] declarante de hedad d\[e\] quinze años / mayor ramirez muger de 
+11. [^8] hernan ramirez aguela d[e] esta declar\[ant\](e) le puso alheña en los dedos 
 12. de su mano d\[e\] esta declar\[an\](te) y se lo puso en un dia de viernes e se 
 13. hallo presente mayor muger de \[se\]vastian carretero morisca vez\[in\](a) 
 14. de daymiel e la d\[ic\]ha mayor se puso alheña en entramas manos 
