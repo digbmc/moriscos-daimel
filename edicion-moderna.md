@@ -8,11 +8,11 @@ nav_order: 4
 <h1 id="titulo">El proceso de MG: La edición moderna</h1>
 <div id="toc" class="toc">
   <ul>
-  {% assign sorted_texts = site.textos-modernos | sort: "order" %}
-  {% for text in sorted_texts %}
+  {% assign txts_ordenados = site.textos-modernos | sort: "order" %}
+  {% for texto in txts_ordenados %}
     <li>
-      <a href="{{ site.baseurl }}{{ text.url }}">
-        {{ text.title }}
+      <a href="{{ site.baseurl }}/prueba-em/#{{ texto.order }}">
+        {{ texto.title }}
       </a>
     </li>
   {% endfor %}
