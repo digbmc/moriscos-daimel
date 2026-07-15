@@ -5,7 +5,7 @@ order: 5
 ---
 [31: 4r]  
 
-[^1] En la ciudad de Toledo diez y seis días del mes de abril de mil y quinientos y cincuenta años ante el muy reverendo y magnífico señor el licenciado de Valtodano inquisidor estando en la audiencia de la Santa Inquisición y por su mandado fue traída  
+/[nota]/ En la ciudad de Toledo diez y seis días del mes de abril de mil y quinientos y cincuenta años ante el muy reverendo y magnífico señor el licenciado de Valtodano inquisidor estando en la audiencia de la Santa Inquisición y por su mandado fue traída  
 
 de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so cargo del cual prometió de decir verdad.  
 
@@ -29,7 +29,7 @@ Abuelos
 
 ~Dijo que no conoció abuelo ni abuela de ninguna parte ni sabe si murieron cristianos  
 
-[^1] i. Mayor García  
+/[nota_1]/ i. Mayor García  
 
 <!-- SPLIT -->
 
@@ -73,11 +73,11 @@ Hijos de esta declarante
 
 ~Dijo que no la sabe  
 
-~Fuele dicho por el dicho señor inquisidor que se le hacen [^1] saber que ella ha sido traída presa a este Santo Oficio por haber hecho, dicho y cometido cosas contra nuestra Santa fe católica. Por tanto se le amonesta y encarga que diga y confiese todo aquello que ella hubiere hecho y dicho y visto decir y hacer que sea contra nuestra santa fe católica y lo que supiere de otras personas así vivas como difuntas, y absentes, y que haciéndolo así se usará con ella de la misericordia que lugar hubiere de derecho y pondrá en buen estado su causa para ser con brevedad despachada y poder ser absuelta de cualquier excomunión en que haya incurrido, y lo contrario haciendo será oído el fiscal y ella y se hará justicia la dicha Mayor García dijo que ella dirá la verdad pues ha venido a esta santa casa, y que lo quiere pensar  
+~Fuele dicho por el dicho señor inquisidor que se le hacen /[nota]/ saber que ella ha sido traída presa a este Santo Oficio por haber hecho, dicho y cometido cosas contra nuestra Santa fe católica. Por tanto se le amonesta y encarga que diga y confiese todo aquello que ella hubiere hecho y dicho y visto decir y hacer que sea contra nuestra santa fe católica y lo que supiere de otras personas así vivas como difuntas, y absentes, y que haciéndolo así se usará con ella de la misericordia que lugar hubiere de derecho y pondrá en buen estado su causa para ser con brevedad despachada y poder ser absuelta de cualquier excomunión en que haya incurrido, y lo contrario haciendo será oído el fiscal y ella y se hará justicia la dicha Mayor García dijo que ella dirá la verdad pues ha venido a esta santa casa, y que lo quiere pensar  
 
 ~El señor inquisidor le encargó mucho que lo piense bien, y diga la verdad en todo, y fue mandada volver a su cárcel y fui presente yo, Alonso de León notario  
 
-[^1] .i. monición  
+/[nota_1]/ .i. monición  
 
 <!-- SPLIT -->
 
@@ -91,13 +91,13 @@ Después de lo susodicho diez y ocho días del dicho mes de abril ante el dicho 
 
 ~La dicha Mayor dijo que si le podría hacer cargo de los testigos.  
 
-~El señor inquisidor le dijo que esto que pide se hará en su tiempo [^1] y la amonestó en forma otra y segunda vez según está amonestada que diga y confiese la verdad y no otra cosa, y no tenga respeto a otra cosa principalmente si no al descargo de su conciencia  
+~El señor inquisidor le dijo que esto que pide se hará en su tiempo /[nota]/ y la amonestó en forma otra y segunda vez según está amonestada que diga y confiese la verdad y no otra cosa, y no tenga respeto a otra cosa principalmente si no al descargo de su conciencia  
 
 ~Dijo la dicha Mayor García mucho quería hacer por amor de Dios, pero aquella hacienda, cierto que si era que me la fiara y que no se vendiera.  
 
 ~El señor inquisidor la tornó a decir que deje ahora lo de la hacienda, y hable en lo que toca al descargo de su conciencia  
 
-[^1] ii. monición  
+/[nota_1]/ ii. monición  
 
 <!-- SPLIT -->
 

@@ -10,7 +10,7 @@ hide_title: true
     {% assign txts_ordenados = site.textos-modernos | sort: "order" %}
     {% for texto in txts_ordenados %}
         <!--En: This <div> keeps the data of each file together-->
-        <!--Es: ste <div> guarda juntos los datos de cada archivo-->
+        <!--Es: Este <div> guarda juntos los datos de cada archivo-->
         <div id="{{ texto.order }}" class="contenido">
             <h1 style="margin-left: 6rem;">{{ texto.title }}</h1><br>
             <!--En: Because chapters are not organized by page, but manuscripts are, a marker is used to divide the chapter into sections-->
@@ -20,6 +20,7 @@ hide_title: true
                 {% assign pagina = nil %} <!--En: Keeps the page number; Es: Guarda el número de página-->
                 {% assign subtitulo = nil %}
                 {% assign sum_notas = 0 %} <!--En: The number of notes in the section; Es: La suma de notas en la sección-->
+                {% assign sum_enc = 0 %}
                 {% assign num_sec = forloop.index %}
                 <!--En: Splits the section into paragraphs; Es: Divide la sección en párrafos-->
                 {% assign parrafos = seccion | split: "</p>" %}
@@ -67,9 +68,29 @@ hide_title: true
                                     {% if parrafo contains "[nota]" %}
                                         {% assign parrafo = parrafo | remove: "/[nota]/" %}
                                     {% endif %}
-                                    {% unless parrafo contains "[nota_" %}
+                                    {% if parrafo contains "[enc]" %}
+                                        {% assign partes = parrafo | split: "/[enc]/" %}
+                                        {% assign n_parrafo = nil %}
+                                        {% for parte in partes %}
+                                            {% assign remainder = forloop.index0 | modulo: 2 %}
+                                            {% if remainder == 1 %}
+                                                {% assign sum_enc = sum_enc | plus: 1 %}
+                                                <span class="tooltip">
+                                                    {{ parte | strip }}
+                                                    <span class="tooltiptext" id="{{ texto.order }}_{{ num_sec }}_enc_{{ sum_enc }}">
+                                                        Nota.
+                                                    </span>
+                                                </span>
+                                            {% else %}
+                                                <span>{{ parte }}</span>
+                                            {% endif %}
+                                        {% endfor %}
+                                        <p></p>
+                                    {% endif %}
+                                    {% unless parrafo contains "[nota_" or parrafo contains "[enc_" or parrafo contains "[enc]" %}
                                         <p>{{ parrafo }}</p>
-                                    {% else %}
+                                    {% endunless %}
+                                    {% if parrafo contains "[nota_" %}
                                         {% assign nom_nota = parrafo | slice: 2, 6 %}
                                         {% assign texto_a_quitar = "/[" | append: nom_nota | append: "]/" %}
                                         {% assign parrafo = parrafo | remove: texto_a_quitar %}
@@ -82,7 +103,21 @@ hide_title: true
                                             }
                                             imprimir_nota("{{texto.order}}_{{ num_sec}}_{{ nom_nota }}", {{ parrafo | jsonify }});
                                         </script>
-                                    {% endunless %}
+                                    {% endif %}
+                                    {% if parrafo contains "[enc_" %}
+                                        {% assign nom_enc = parrafo | slice: 2, 5 %}
+                                        {% assign texto_a_quitar = "/[" | append: nom_enc | append: "]/" %}
+                                        {% assign parrafo = parrafo | remove: texto_a_quitar %}
+                                        <script>
+                                            function dale_enc(id, texto) {
+                                                const lugar = document.getElementById(id);
+                                                if (lugar) {
+                                                    lugar.innerHTML = texto;
+                                                }
+                                            }
+                                            dale_enc("{{texto.order}}_{{ num_sec}}_{{ nom_enc }}", {{ parrafo | jsonify }});
+                                        </script>
+                                    {% endif %}
                                 {% endif %}
                             </div>
                         </div>

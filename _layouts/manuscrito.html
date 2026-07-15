@@ -7,10 +7,15 @@ layout: default
         <div id="content">
             <!--<h1 style="margin-left:25%;">{{ text.title }}</h1>-->
             <div class="column-left" id="folium">
-                <a href="{{site.baseurl}}{{ page.image }}" target="_blank">
-                <img src="{{ site.baseurl }}{{ page.image }}" alt="Manuscrito: {{ page.title }}" 
-                style="max-width:95%;height:auto;margin:10px 0;">
-                </a>
+                <figure>
+                    <a href="{{site.baseurl}}{{ page.image }}" target="_blank">
+                    <img src="{{ site.baseurl }}{{ page.image }}" alt="Manuscrito: {{ page.title }}" 
+                    style="max-width:95%;height:auto;margin:10px 0;">
+                    </a>
+                    <figcaption>
+                        <i>El proceso de Mayor Garcia: {{ page.title }}</i>
+                    </figcaption>
+                </figure>
             </div>
             <div class="column-right">
                 {{ content }}
@@ -40,8 +45,8 @@ layout: default
         {% endfor %}
     </select>
 </div>
-{% assign ed-mod = site.textos-modernos | where: "order", page.order | first %}
-<a href="{{ site.baseurl }}{{ ed-mod.url }}" style="margin-left: 2.5rem;">Ver la edición moderna</a>
+<!--{% assign ed-mod = site.textos-modernos | where: "order", page.order | first %}-->
+<a href="{{ site.baseurl }}/prueba-em/#{{ page.order }}" style="margin-left: 2.5rem;">Ver la edición moderna</a>
 <script>
 document.getElementById("cambio").addEventListener("change", function () {
     if (this.value) {

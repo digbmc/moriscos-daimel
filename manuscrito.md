@@ -32,7 +32,13 @@ nav_order: 3
 <div class="citation">
   <br>
   <hr>
-  <p>Cómo citar la transcripción del manuscrito: Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. El proceso de Mayor García: la transcripción del manuscrito. Bryn Mawr College, 2026. Web.</p>
+  <p>
+  Cómo citar la transcripción del manuscrito: Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. El proceso de Mayor García: la transcripción del manuscrito. Bryn Mawr College, 2026. Web.<br><br>
+  Cómo citar las imágenes: Las imágenes del proceso de Mayor García. El proceso de Mayor Garcio. 
+  Digital images of the Henry Charles Lea Collection of Inquisition Manuscripts, 1533-1866. Images 
+  25–68, (Ms. Coll. 728). Kislak Center for Special Collections, Rare Books and Manuscripts, University 
+  of Pennsylvania.
+  </p>
 <div>
 
 
