@@ -57,9 +57,9 @@ Y después de lo susodicho en la dicha ciudad de Toledo ocho días del mes de ma
 
 [38: 7v]  
 
-lo vio le dijo al dicho Juan de Alexo por qué has degollado así a uso de moros, a lo cual el dicho Juan de Alexo dijo a esta declarante así la degüello yo a uso de moros a lo cual estaba presente la dicha mujer la cual era mujer /[nota_1]/ de Francisco Botijoso y no hacía vida con su marido y estaba amigada con el dicho Juan de Alexo y se fue con él no sabe esta testigo si está con él  
+lo vio le dijo al dicho Juan de Alexo por qué has degollado así a uso de moros, a lo cual el dicho Juan de Alexo dijo a esta declarante así la degüello yo a uso de moros a lo cual estaba presente la dicha mujer la cual era mujer /[nota]/ de Francisco Botijoso y no hacía vida con su marido y estaba amigada con el dicho Juan de Alexo y se fue con él no sabe esta testigo si está con él  
 
-~ Ítem dijo que se acuerda que cuando ésta confesante tiene dicho tie que habló con la dicha Yseo lo que ha declarado /[nota]/ le dijo la dicha Yseo que se lavase esta declarante la cara y las manos y se hincase de rodillas, y dijese alabado sea Dios Leyla hidalga, Mahoma de la curralla, y que con esto alabaría a Dios lo cual ha hecho así esta confesante hartas veces las que podía hasta ahora que la [nota] trajeron presa. Lo cual hacía con intención de mora y por eso lo viene a confesar, y que ahora no se acuerda de otra cosa, que quería que le diese aclaración de algo.  
+~ Ítem dijo que se acuerda que cuando ésta confesante tiene dicho tie que habló con la dicha Yseo lo que ha declarado /[nota]/ le dijo la dicha Yseo que se lavase esta declarante la cara y las manos y se hincase de rodillas, y dijese alabado sea Dios Leyla hidalga, Mahoma de la curralla, y que con esto alabaría a Dios lo cual ha hecho así esta confesante hartas veces las que podía hasta ahora que la /[nota]/ trajeron presa. Lo cual hacía con intención de mora y por eso lo viene a confesar, y que ahora no se acuerda de otra cosa, que quería que le diese aclaración de algo.  
 
 ~Fuele dicho que lo piense bien y descargue su conciencia confesando la verdad enteramente /[nota]/ y así se lo amonesto y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario  
 

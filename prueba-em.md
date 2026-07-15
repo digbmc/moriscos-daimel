@@ -5,18 +5,32 @@ body_class: wide-page
 hide_title: true
 ---
 <article>
+    <!--En: First loop goes through all the .md files in textos-modernos (organized by chapter) in order-->
+    <!--Es: El primer bucle revisa todos los archivos .md en textos-modernos (organizados por capítulo) en orden-->
     {% assign txts_ordenados = site.textos-modernos | sort: "order" %}
     {% for texto in txts_ordenados %}
+        <!--En: This <div> keeps the data of each file together-->
+        <!--Es: ste <div> guarda juntos los datos de cada archivo-->
         <div id="{{ texto.order }}" class="contenido">
-            <h1 style="margin-left: 8rem;">{{ texto.title }}</h1><br>
+            <h1 style="margin-left: 6rem;">{{ texto.title }}</h1><br>
+            <!--En: Because chapters are not organized by page, but manuscripts are, a marker is used to divide the chapter into sections-->
+            <!--Es: Dado que los capítulos no se organizan por página como los manuscritos, se utiliza un marcador para dividir el capítulo en secciones-->
             {% assign secciones = texto.content | split: "<!-- SPLIT -->" %}
             {% for seccion in secciones %}
-                {% assign pagina = nil %}
-                {% assign sum_notas = 0 %}
+                {% assign pagina = nil %} <!--En: Keeps the page number; Es: Guarda el número de página-->
+                {% assign subtitulo = nil %}
+                {% assign sum_notas = 0 %} <!--En: The number of notes in the section; Es: La suma de notas en la sección-->
                 {% assign num_sec = forloop.index %}
+                <!--En: Splits the section into paragraphs; Es: Divide la sección en párrafos-->
                 {% assign parrafos = seccion | split: "</p>" %}
                 {% for bloque in parrafos %}
-                    {% assign parrafo = bloque | strip_html | strip %}
+                    {% if bloque contains "</h2>" %}
+                        {% assign subtitulos = bloque | split: "</h2>" %}
+                        {% assign subtitulo = subtitulos[0] | strip_html | strip %}
+                        {% assign parrafo = subtitulos[1] | strip_html | strip %}
+                    {% else %}
+                        {% assign parrafo = bloque | strip_html | strip %}
+                    {% endif %}
                     {% assign primera = parrafo | slice: 0 %}{% assign ultima = parrafo | slice: -1 %}
                     {% assign agarrar = parrafo | slice: -2 %}
                     {% if primera == "[" and ultima == "]" and agarrar != "." %}
@@ -40,11 +54,15 @@ hide_title: true
                                     {% assign suma = notas.size | minus: 1 %}
                                     {% for i in (1..suma) %}
                                         {% assign sum_notas = sum_notas | plus: 1 %}
-                                        <p id="{{ texto.order}}_{{ num_sec }}_nota_{{ sum_notas }}">note</p>
+                                        <p id="{{ texto.order}}_{{ num_sec }}_nota_{{ sum_notas }}">nota</p><br>
                                     {% endfor %}
                                 {% endif %}
                             </div>
                             <div class="parrafo">
+                                {% if subtitulo != nil %}
+                                    <h2>{{ subtitulo }}</h2>
+                                    {% assign subtitulo = nil %}
+                                {% endif %}
                                 {% if parrafo != "[Folio blanco.]" %}
                                     {% if parrafo contains "[nota]" %}
                                         {% assign parrafo = parrafo | remove: "/[nota]/" %}
