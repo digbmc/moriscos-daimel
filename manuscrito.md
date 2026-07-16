@@ -5,7 +5,7 @@ body_class: wide-page
 hide_title: true
 nav_order: 3
 ---
-<h1 id="titulo" style="margin-left:1.5rem;">El proceso de MG: transcripción del manuscrito</h1>
+<h1 id="titulo" style="margin-left:1.5rem;">El proceso de Mayor García: transcripción del manuscrito</h1>
 <div id="toc" class="gallery">
     {% assign sorted_texts = site.texts | sort: "order" %}
     {% for text in sorted_texts %}
