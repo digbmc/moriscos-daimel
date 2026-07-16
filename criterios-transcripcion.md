@@ -5,7 +5,7 @@ hide_in_nav: true
 ---
 ### Normas para la transcripción  
 
-Esta transcripción pretende facilitar el aprendizaje de la paleografía inquisitorial. A este fin, se preserva la ortografía original del manuscrito en cuanto se puede y se indican las intervenciones editoriales con las normas siguientes:   
+Esta transcripción pretende facilitar el aprendizaje de la paleografía inquisitorial. A ese fin, se preserva la ortografía original del manuscrito en cuanto se puede y se indican las intervenciones editoriales con las normas siguientes:   
 
 **Enumeración**  
 
