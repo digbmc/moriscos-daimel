@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El Proyecto y Equipo
+title: El proyecto y equipo
 nav_order: 1
 ---
 
