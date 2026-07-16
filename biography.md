@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Biografía
+title: Conocer a Mayor García
 nav_order: 2
 ---
+## Conocer a Mayor García
 
 Mayor García tenía siete u ocho años en 1502 cuando su comunidad se convirtió al cristianismo bajo la Pragmática de conversión forzosa de 1502. Se crio en una familia que trabajaba la tierra, y se casó con un labrador, Sebastián Carretero, de quien tuvo cinco hijos. En 1550 tenía 55 o 60 años cuando la Inquisición la acusó de herejía.  
  
