@@ -68,25 +68,26 @@ hide_title: true
                                     {% if parrafo contains "[nota]" %}
                                         {% assign parrafo = parrafo | remove: "/[nota]/" %}
                                     {% endif %}
-                                    {% if parrafo contains "[enc]" %}
-                                        {% assign partes = parrafo | split: "/[enc]/" %}
-                                        {% assign n_parrafo = nil %}
-                                        {% for parte in partes %}
-                                            {% assign remainder = forloop.index0 | modulo: 2 %}
-                                            {% if remainder == 1 %}
-                                                {% assign sum_enc = sum_enc | plus: 1 %}
-                                                <span class="tooltip">
-                                                    {{ parte | strip }}
-                                                    <span class="tooltiptext" id="{{ texto.order }}_{{ num_sec }}_enc_{{ sum_enc }}">
-                                                        Nota.
+                                    {% unless parrafo contains "[nota_" %}
+                                        {% if parrafo contains "[enc]" %}
+                                            {% assign partes = parrafo | split: "/[enc]/" %}
+                                            {% for parte in partes %}
+                                                {% assign remainder = forloop.index0 | modulo: 2 %}
+                                                {% if remainder == 1 %}
+                                                    {% assign sum_enc = sum_enc | plus: 1 %}
+                                                    <span class="tooltip">
+                                                        {{ parte | strip }}
+                                                        <span class="tooltiptext" id="{{ texto.order }}_{{ num_sec }}_enc_{{ sum_enc }}">
+                                                            ENC.
+                                                        </span>
                                                     </span>
-                                                </span>
-                                            {% else %}
-                                                <span>{{ parte }}</span>
-                                            {% endif %}
-                                        {% endfor %}
-                                        <p></p>
-                                    {% endif %}
+                                                {% else %}
+                                                    <span>{{ parte }}</span>
+                                                {% endif %}
+                                            {% endfor %}
+                                            <p></p>
+                                        {% endif %}
+                                    {% endunless %}
                                     {% unless parrafo contains "[nota_" or parrafo contains "[enc_" or parrafo contains "[enc]" %}
                                         <p>{{ parrafo }}</p>
                                     {% endunless %}
@@ -101,8 +102,51 @@ hide_title: true
                                                     lugar.innerHTML = texto;
                                                 }
                                             }
-                                            imprimir_nota("{{texto.order}}_{{ num_sec}}_{{ nom_nota }}", {{ parrafo | jsonify }});
+                                            if ({{ parrafo | jsonify }}.includes ("[enc]")) {
+                                                document.getElementById("{{texto.order}}_{{ num_sec}}_{{ nom_nota }}").innerHTML = "";
+                                            }
+                                            else {
+                                                imprimir_nota("{{texto.order}}_{{ num_sec}}_{{ nom_nota }}", {{ parrafo | jsonify }});
+                                            }
+                                            /*
+                                            if ({{ parrafo | jsonify }}.includes("[enc]")) {
+                                                const p = document.getElementById("{{texto.order}}_{{ num_sec}}_{{ nom_nota }}");
+                                                const enc_span = document.createElement("span");
+                                                enc_span.textContent = "yes";
+                                                p.append(enc_span);
+                                            }
+                                            */
                                         </script>
+                                        {% if parrafo contains "[enc]" %}
+                                            {% assign partes = parrafo | split: "/[enc]/" %}
+                                            {% for parte in partes %}
+                                                {% assign remainder = forloop.index0 | modulo: 2 %}
+                                                {% if remainder == 1 %}
+                                                    {% assign sum_enc = sum_enc | plus: 1 %}
+                                                    <script>
+                                                            /*
+                                                            const p = document.getElementById("{{text.order}}_{{ num_sec }}_{{ nom_nota }}");
+                                                            const enc_span = document.createElement("span");
+                                                            */
+                                                        const tooltip = document.createElement("span");
+                                                        tooltip.className = "tooltip";
+                                                        tooltip.textContent = "{{ parte }}";
+                                                        const tooltipText = document.createElement("span");
+                                                        tooltipText.className = "tooltiptext";
+                                                        tooltipText.id = "{{ texto.order }}_{{ num_sec }}_enc_{{ sum_enc }}";
+                                                        tooltipText.textContent = "ENC.";
+                                                        tooltip.appendChild(tooltipText);
+                                                        document.getElementById("{{texto.order}}_{{ num_sec}}_{{ nom_nota }}").appendChild(tooltip);
+                                                    </script>
+                                                {% else %}
+                                                    <script>
+                                                        const otr_txt = document.createElement("span");
+                                                        otr_txt = {{ parte }};
+                                                        document.getElementById("{{texto.order}}_{{ num_sec}}_{{ nom_nota }}").appendChild(otr_txt);
+                                                    </script>
+                                                {% endif %}
+                                            {% endfor %}
+                                        {% endif %}    
                                     {% endif %}
                                     {% if parrafo contains "[enc_" %}
                                         {% assign nom_enc = parrafo | slice: 2, 5 %}
@@ -123,69 +167,6 @@ hide_title: true
                         </div>
                     {% endif %}
                 {% endfor %}
-                <!--
-                <div class="margen">
-                    {% for bloque in parrafos %}
-                        {% assign parrafo_p = bloque | markdownify %}
-                        {% assign parrafo = bloque | strip_html | strip %}
-                        {% assign primera = parrafo | slice: 0 %}{% assign ultima = parrafo | slice: -1 %}
-                        {% assign agarrar = parrafo | slice: -2 %}
-                        {% if primera == "[" and ultima == "]" and agarrar != "." %}
-                            {% assign partes = parrafo | split: ':' %}
-                            {% assign mitad = partes[0] | split: '[' %}
-                            {% assign pagina = mitad[1] %}
-                            {% assign orden = pagina | minus: 24 %}
-                            {% assign transc = site.texts | where: "order", orden | first %}
-                            <a href="{{ site.baseurl }}{{ transc.url }}">{{ parrafo }}</a>
-                        {% elsif primera == "[" and ultima == "]" and agarrar == "." %}
-                            <p><i>Folio blanco.</i></p>
-                        {% else %}
-                            {% if parrafo_p contains "[nota]" %}
-                                {% assign notas = parrafo_p | split: "[nota]" %}
-                                {% assign suma = notas.size | minus: 1 %}
-                                {% for i in (1..suma) %}
-                                    {% assign sum_notas = sum_notas | plus: 1 %}
-                                    <p id="{{ texto.order}}_{{ num_sec }}_nota_{{ sum_notas }}">note</p>
-                                {% endfor %}
-                            {% else %}
-                                <p></p>
-                            {% endif %}
-                        {% endif %}
-                    {% endfor %}
-                </div>
-                <div class="parrafo">
-                    {% for bloque in parrafos %}
-                        {% assign parrafo_p = bloque %}
-                        {% assign parrafo = bloque | strip_html | strip %}
-                        {% assign primera = parrafo | slice: 0 %}{% assign ultima = parrafo | slice: -1 %}
-                        {% assign agarrar = parrafo | slice: -2 %}
-                        {% assign nota = parrafo | slice: 0, 4 %}
-                        {% if primera != "[" and ultima != "]" %}
-                            {% if parrafo_p contains "[nota]" %}
-                                {% assign parrafo_p = parrafo_p | remove: "/[nota]/" %}
-                            {% endif %}
-                            {% unless parrafo_p contains "[nota_" %}
-                                {{ parrafo_p | markdownify}}
-                            {% else %}
-                                {% assign nom_nota = parrafo | slice: 2, 6 %}
-                                {% assign texto_a_quitar = "/[" | append: nom_nota | append: "]/" %}
-                                {% assign parrafo_p = parrafo_p | remove: texto_a_quitar %}
-                                <script>
-                                    function imprimir_nota(id, texto) {
-                                        const lugar = document.getElementById(id);
-                                        if (lugar) {
-                                            lugar.innerHTML = texto;
-                                        }
-                                    }
-                                    imprimir_nota("{{texto.order}}_{{ num_sec}}_{{ nom_nota }}", {{ parrafo_p | jsonify }});
-                                </script>
-                            {% endunless %}
-                        {% elsif primera == "[" and ultima == "]" and agarrar == "." %}
-                            <br><br><br>
-                        {% endif %}
-                    {% endfor %}
-                </div>
-                -->
             {% endfor %}
             <!--{{sum_notas}}-->
         </div>
@@ -196,25 +177,3 @@ hide_title: true
     //Código es para esconder el texto de un archivo de prueba.
     document.getElementById("100").style.display = 'none';
 </script>
-
-<!--
-<article>
-    --Poner los archivos en la carpeta «textos-modernos» en orden--
-    {% assign txts_ordenados = site.textos-modernos | sort: "order" %}
-    {% for texto in txts_ordenados %}
-        <div>
-            --El "id" del título, Dios mediante, ayudará con los enlaces del tabla de contenidos--
-            <h1 id="{{ texto.order }}">{{ texto.title }}</h1>
-            --Dividir el texto de sendos documentos en secciones por página--
-            {% assign secciones = texto.content | split: '-- SPLIT --' %}
-            {% for seccion in secciones %}
-                --Para organizar la sección (página) que contiene subtítulo(s), número de folio, y notas de margen junto con el texto principal--
-                {% assign parrafos = seccion | split: '</p>' %}
-                {% for parrafo in parrafos %}
-                    1. {{ parrafo }}
-                {% endfor %}
-            {% endfor %}
-        </div>
-    {% endfor %}
-</article>
--->

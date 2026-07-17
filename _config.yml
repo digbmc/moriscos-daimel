@@ -31,7 +31,7 @@ collections:
   #set to back to true to create individual pages are avoid JavaScript issues
     output: true
   textos-modernos:
-    output: true
+    output: false
 
 # Collections for images (added by Niko)
 #  images:

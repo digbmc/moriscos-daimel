@@ -102,3 +102,7 @@ Y después de lo susodicho en la dicha ciudad de Toledo catorce días del mes de
 ~Fue mandada volver a su cárcel y dijo que lo den un poco de aclaramiento para que acabe /[nota]/ ya este negocio.  
 
 Fui presente yo Alonso de León notario.  
+
+/[nota_1]/ /[enc]/ vsq[ue] hac /[enc]/  
+
+/[enc_1]/ Latín, "hasta aquí"
