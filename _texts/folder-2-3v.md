@@ -1,6 +1,6 @@
 ---
 layout: manuscrito
-title: Folder 2, 3v
+title: "30: 3v"
 image: /assets/images/Folder_2_3v.jpg
 body_class: wide-page
 order: 6
