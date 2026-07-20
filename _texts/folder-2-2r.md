@@ -1,6 +1,6 @@
 ---
 layout: manuscrito
-title: Folder 2, 2r
+title: "27: 2r"
 image: /assets/images/Folder_2_2r.jpg
 body_class: wide-page
 order: 3
