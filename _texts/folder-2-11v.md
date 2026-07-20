@@ -1,6 +1,6 @@
 ---
 layout: manuscrito
-title: Folder 2, 11v
+title: "46: 11v"
 image: /assets/images/Folder_2_11v.jpg
 body_class: wide-page
 order: 22
