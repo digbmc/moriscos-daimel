@@ -1,6 +1,6 @@
 ---
 layout: manuscrito
-title: Folder 2, 18v
+title: "60: 18v"
 image: /assets/images/Folder_2_18v.jpg
 body_class: wide-page
 order: 36
