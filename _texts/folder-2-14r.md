@@ -1,6 +1,6 @@
 ---
 layout: manuscrito
-title: Folder 2, 14r
+title: "51: 14r"
 image: /assets/images/Folder_2_14r.jpg
 body_class: wide-page
 order: 27
