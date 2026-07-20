@@ -1,8 +1,9 @@
 ---
 layout: page
-title: prueba
+title: Texto de la edición moderna
 body_class: wide-page
 hide_title: true
+hide_in_nav: true
 ---
 <article>
     <!--En: First loop goes through all the .md files in textos-modernos (organized by chapter) in order-->
@@ -19,18 +20,25 @@ hide_title: true
             {% for seccion in secciones %}
                 {% assign pagina = nil %} <!--En: Keeps the page number; Es: Guarda el número de página-->
                 {% assign subtitulo = nil %}
+                {% assign fecha = nil %}
                 {% assign sum_notas = 0 %} <!--En: The number of notes in the section; Es: La suma de notas en la sección-->
                 {% assign sum_enc = 0 %}
                 {% assign num_sec = forloop.index %}
                 <!--En: Splits the section into paragraphs; Es: Divide la sección en párrafos-->
                 {% assign parrafos = seccion | split: "</p>" %}
                 {% for bloque in parrafos %}
-                    {% if bloque contains "</h2>" %}
-                        {% assign subtitulos = bloque | split: "</h2>" %}
+                    {% assign bloque_p = bloque %}
+                    {% if bloque_p contains "</h1>" %}
+                        {% assign subtitulos = bloque_p | split: "</h1>" %}
                         {% assign subtitulo = subtitulos[0] | strip_html | strip %}
-                        {% assign parrafo = subtitulos[1] | strip_html | strip %}
+                        {% assign bloque_p = subtitulos[1] %}
+                    {% endif %}
+                    {% if bloque_p contains "</h2>" %}
+                        {% assign fechas = bloque_p | split: "</h2>" %}
+                        {% assign fecha = fechas[0] | strip_html | strip %}
+                        {% assign parrafo = fechas[1] | strip_html | strip %}
                     {% else %}
-                        {% assign parrafo = bloque | strip_html | strip %}
+                        {% assign parrafo = bloque_p | strip_html | strip %}
                     {% endif %}
                     {% assign primera = parrafo | slice: 0 %}{% assign ultima = parrafo | slice: -1 %}
                     {% assign agarrar = parrafo | slice: -2 %}
@@ -39,6 +47,14 @@ hide_title: true
                     {% else %}
                         <div class="row">
                             <div class="margen">
+                            <!--EN: If the block has headings, it aligns the margin notes with the heading instead of the main text-->
+                            <!--ES: Si el bloque tiene encabezados, se alinean las notas del margen con los encabezados en vez del texto principal-->
+                                {% if bloque contains "</h1>" %}
+                                    <br><br>
+                                {% endif %}
+                                {% if bloque contains "</h2>" %}
+                                    <br><br>
+                                {% endif %}
                                 {% if pagina != nil %}
                                     {% assign partes = pagina | split: ':' %}
                                     {% assign mitad = partes[0] | split: '[' %}
@@ -61,8 +77,12 @@ hide_title: true
                             </div>
                             <div class="parrafo">
                                 {% if subtitulo != nil %}
-                                    <h2>{{ subtitulo }}</h2>
+                                    <h1>{{ subtitulo }}</h1>
                                     {% assign subtitulo = nil %}
+                                {% endif %}
+                                {% if fecha != nil %}
+                                    <h2>{{ fecha }}</h2>
+                                    {% assign fecha = nil %}
                                 {% endif %}
                                 {% if parrafo != "[Folio blanco.]" %}
                                     {% if parrafo contains "[nota]" %}
