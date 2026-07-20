@@ -1,6 +1,6 @@
 ---
 layout: manuscrito
-title: Folder 2, 10v
+title: "44: 10v"
 image: /assets/images/Folder_2_10v.jpg
 body_class: wide-page
 order: 20
