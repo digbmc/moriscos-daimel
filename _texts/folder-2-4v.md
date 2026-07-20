@@ -1,6 +1,6 @@
 ---
 layout: manuscrito
-title: Folder 2, 4v
+title: "32: 4v"
 image: /assets/images/Folder_2_4v.jpg
 body_class: wide-page
 order: 8
