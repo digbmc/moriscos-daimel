@@ -3,16 +3,16 @@ layout: page
 title: Los criterios de la transcripción
 hide_in_nav: true
 ---
-### Normas para la transcripción  
+## Normas para la transcripción  
 
-Esta transcripción pretende facilitar el aprendizaje de la paleografía inquisitorial. A ese fin, se preserva la ortografía original del manuscrito en cuanto se puede y se indican las intervenciones editoriales con las normas siguientes:   
+&nbsp; Esta transcripción pretende facilitar el aprendizaje de la paleografía inquisitorial. A ese fin, se preserva la ortografía original del manuscrito en cuanto se puede y se indican las intervenciones editoriales con las normas siguientes:   
 
-**Enumeración**  
+&nbsp; **Enumeración**  
 
 - Para facilitar la comparación del manuscrito con la transcripción, se preservan las líneas con enumeración.  
 - Para indicar el folio, se señala primero la imagen según la secuencia de la digitalización de Kislak y segundo la enumeración del folio según la indicación de la mano inquisitorial, i.e. [25:1r] refiere a la imagen 25 en la colección (Ms. 728), que corresponde con el recto del primer folio del manuscrito.  
 
-**Ortografía**  
+&nbsp; **Ortografía**  
 
 - Las abreviaturas se resuelven entre corchetes [].  
 - El uso frecuente del superíndice se preserva con paréntesis ().   
