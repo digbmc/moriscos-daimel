@@ -38,6 +38,7 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 &nbsp; **Alice McGrath** Senior Digital Scholarship Specialist <br>
 &nbsp; **Sean M. Keenan** Educational Technology Specialist
 <br>
+<hr>
 
 ### Se agradecen a los siguientes programas por su apoyo:
 
