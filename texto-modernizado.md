@@ -61,6 +61,8 @@ hide_in_nav: true
                     {% if primera == "[" and ultima == "]" and agarrar != "." %}
                         {% assign pagina = parrafo %}
                     {% else %}
+                        <!--EN: This mini container is meant to give headings their own place and keep certain margin notes from separate-->
+                        <!--ES: Este envase es para dar a los encabezados un lugar propio y mantener ciertas notas marginales separados-->
                         {% if bloque contains "</h1>" or bloque contains "</h2>" %}
                             <div class="row">
                                 <div class = "margen">
@@ -78,6 +80,7 @@ hide_in_nav: true
                                 </div>
                             </div>
                         {% endif %}
+                        <!--EN: The container for the main text; ES: El contenedor para el texto principal-->
                         <div class="row">
                             <div class="margen">
                             <!--EN: If the block has headings, it aligns the margin notes with the heading instead of the main text-->
