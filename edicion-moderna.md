@@ -2,7 +2,7 @@
 layout: page
 title: La edición moderna
 hide_title: true
-nav_order: 4
+nav_order: 3
 ---
 <!--<h1 class="title_columned">Transcripciones facsimilares</h1>-->
 <h1 id="titulo">El proceso de MG: La edición moderna</h1>

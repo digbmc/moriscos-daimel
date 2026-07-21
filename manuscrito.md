@@ -3,7 +3,7 @@ layout: page
 title: El manuscrito
 body_class: wide-page
 hide_title: true
-nav_order: 3
+nav_order: 2
 ---
 <h1 id="titulo" style="margin-left:1.5rem;">El proceso de Mayor García: transcripción del manuscrito</h1>
 

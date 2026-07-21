@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conocer a Mayor García
-nav_order: 2
+nav_order: 1
 ---
 ## Conocer a Mayor García
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: El proyecto y equipo
-nav_order: 1
+nav_order: 4
 hide_title: true
 ---
 
