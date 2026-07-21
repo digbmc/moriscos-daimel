@@ -47,19 +47,18 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 ### Agradecimientos adicionales 
 
-- **María Pañuelo Hoyos** (Posgraduado, Princeton, Department of Spanish) por su apoyo con el árabe del proceso.
+- **María Alejandra Pañuelo Hoyos** (Princeton, Department of Spanish) por su apoyo con el árabe.
 
-
-<br>
-<br>
 <hr>
-<p>
-  Cómo citar el proyecto: 
-   -
-  Cómo citar las imagenes:
-  
+
+ *Cómo citar el proyecto:*
+  - Equipo Moriscos Daimiel. Los moriscos de Daimiel. Bryn Mawr College, 2026. Web.
+
+ *La transcripción del manuscrito:*
+  - Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. El proceso de Mayor García: la transcripción del manuscrito. Bryn Mawr College, 2026. Web.
+ 
+*La edición moderna:* 
+ - Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
+    
+ *Las imagenes:* 
   - Digital images of the Henry Charles Lea Collection of Inquisition Manuscripts, 1533-1866. Images 25–68, (Ms. Coll. 728). Kislak Center for Special Collections, Rare Books and Manuscripts, University of Pennsylvania.
-  - 
-  <br><br>
-  Cómo citar el proyecto: Equipo Moriscos Daimiel. Los moriscos de Daimiel. Bryn Mawr College, 2026. Web.
-</p>
