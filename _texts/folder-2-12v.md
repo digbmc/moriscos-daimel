@@ -4,6 +4,7 @@ title: "48: 12v"
 image: /assets/images/Folder_2_12v.jpg
 body_class: wide-page
 order: 24
+header: Audiencia
 ---
 1. ella / oviere hecho / o dicho y supíere de / otras
 2. personas q\[ue\] sea contra n\[uest\]ra sancta ffee catho\[li\](ca)

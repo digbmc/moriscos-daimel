@@ -4,6 +4,7 @@ title: "50: 13v"
 image: /assets/images/Folder_2_13v.jpg
 body_class: wide-page
 order: 26
+header: Audiencia
 ---
 1. ~e d\[e\]spues de lo susod\[ic\]ho en la d\[ic\]ha çiudad de t\[oled\](o)
 2. quatorze dias de junio de mile y quinientos

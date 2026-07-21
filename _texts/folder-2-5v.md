@@ -4,6 +4,7 @@ title: "34: 5v"
 image: /assets/images/Folder_2_5v.jpg
 body_class: wide-page
 order: 10
+header: Audiencia
 ---
 1. despues de lo susod\[ic\]ho diez y ocho días del d\[ich\]o mes 
 2. de abril ante el d\[ic\]ho el d\[ic\]ho señor ynq\[uisid\](or) valtoda 

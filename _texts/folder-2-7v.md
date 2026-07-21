@@ -4,6 +4,7 @@ title: "38: 7v"
 image: /assets/images/Folder_2_7v.jpg
 body_class: wide-page
 order: 14
+header: Audiencia
 ---
 1. lo vido le dixo al d\[ic\]ho juan de alexo por q\[ue\]
 2. aves degollado ansy a uso de moros / a lo q\[ua\]l

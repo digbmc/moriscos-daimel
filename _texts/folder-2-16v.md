@@ -4,6 +4,7 @@ title: "56: 16v"
 image: /assets/images/Folder_2_16v.jpg
 body_class: wide-page
 order: 32
+header: Sentencia
 ---
 1. persona que estaua apartada de la creencía de n\[uest\]ra
 2. sancta ffee catholica e que con la misma intencio\[n\]

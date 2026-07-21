@@ -4,6 +4,7 @@ title: "52: 14v"
 image: /assets/images/Folder_2_14v.jpg
 body_class: wide-page
 order: 28
+header: Respuesta a publicación
 ---
 1. se a puesto en manos de dios y de su re\[verençi\](a)
 2. ~fuele d\[ic\]ho q\[ue\] lo piense bien e fue mandada

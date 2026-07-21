@@ -4,6 +4,7 @@ title: "46: 11v"
 image: /assets/images/Folder_2_11v.jpg
 body_class: wide-page
 order: 22
+header: Audiencia
 ---
 1. despues de lo susod\[ic\]ho en la d\[ic\]ha çiudad de toledo
 2. quatro dias del mes de junio de mile e qui\[nient\](o)s

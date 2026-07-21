@@ -4,6 +4,7 @@ title: "51: 14r"
 image: /assets/images/Folder_2_14r.jpg
 body_class: wide-page
 order: 27
+header: Publicación
 ---
 xiiii \[14\] 
 

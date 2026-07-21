@@ -4,6 +4,7 @@ title: "40: 8v"
 image: /assets/images/Folder_2_8v.jpg
 body_class: wide-page
 order: 16
+header: Audiencia
 ---
 1. e despues de lo susod\[ic\]ho en la d\[ic\]ha çiudad de t\[oled\](o) 
 2. quatorze dias del mes de mayo de mile y q\[uinient\](o)s

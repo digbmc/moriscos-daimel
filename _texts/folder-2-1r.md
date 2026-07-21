@@ -4,6 +4,7 @@ title: "25: 1r"
 image: /assets/images/Folder_2_1r.jpg
 body_class: wide-page
 order: 1
+header: Petición
 ---
 1. muy r\[everen\](dos) s\[eñore\]s 
 2. el bachiller pedro ortiz promotor fiscal en el sancto officio de 

@@ -4,6 +4,7 @@ title: "42: 9v"
 image: /assets/images/Folder_2_9v.jpg
 body_class: wide-page
 order: 18
+header: Acusación
 ---
 1. [^1]~iten que la d\[ic\]ha mayor g\[a\]r\[ç\]ía con la afficion q\[ue\] ha tenido y tiene d\[e\] la secta de
 2. mahoma no ha comido ni come toçíno y sabe d\[e\] otra persona o p\[er\]sonas

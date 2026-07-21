@@ -4,6 +4,7 @@ title: "62: 19v"
 image: /assets/images/Folder_2_19v.jpg
 body_class: wide-page
 order: 38
+header: Invocato
 ---
 1. como por las leyes y pragmaticas d\[e\] estos reinos e instru
 2. ciones del s\[an\](to) offi\[çi\](o) de la inq\[uisiçi\](on) y mandamos a la d\[ic\]ha

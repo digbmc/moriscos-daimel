@@ -4,6 +4,7 @@ title: "58: 17v"
 image: /assets/images/Folder_2_17v.jpg
 body_class: wide-page
 order: 34
+header: Sentencia
 ---
 1. ante nos\[otros\] en n\[uest\]ra audiencia / y respondiendo a ella y
 2. en las examinaciones que por nos\[otros\] le fueron fechas

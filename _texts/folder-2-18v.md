@@ -4,6 +4,7 @@ title: "60: 18v"
 image: /assets/images/Folder_2_18v.jpg
 body_class: wide-page
 order: 36
+header: Sentencia
 ---
 1. concluyo todo lo qual visto y lo demas en el presente p\[ro\]ce
 2. sso h\[ec\]ho hasta la fin del e sobre todo avida n\[uest\]ra delibera

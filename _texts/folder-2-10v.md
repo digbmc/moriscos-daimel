@@ -4,6 +4,7 @@ title: "44: 10v"
 image: /assets/images/Folder_2_10v.jpg
 body_class: wide-page
 order: 20
+header: Respuesta oral
 ---
 1. primero dixo q\[ue\] no se acuerda de mas de q\[ue\] po 
 2. [^1]dra aver seis años poco mas / o menos q\[ue\] esta\[n\] 

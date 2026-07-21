@@ -4,6 +4,7 @@ title: "55: 16r"
 image: /assets/images/Folder_2_16r.jpg
 body_class: wide-page
 order: 31
+header: Sentencia
 ---
 xvi \[16\] 
  

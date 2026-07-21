@@ -4,6 +4,7 @@ title: "36: 6v"
 image: /assets/images/Folder_2_6v.jpg
 body_class: wide-page
 order: 12
+header: Audiencia
 ---
 1. ~dixo la d\[ic\]ha mayor señor q\[ue\]deme ansy 
 2. q\[ue\] no lo crey del todo / 

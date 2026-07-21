@@ -4,6 +4,7 @@ title: "66: 21v"
 image: /assets/images/Folder_2_21v.jpg
 body_class: wide-page
 order: 42
+header: Noticia
 ---
 1. en la ç\[i\]udad de toledo en la audi\[ençi\](a) d\[e\] la s\[an\]ta ynq\[uisiçi\](on) e\[n\]
 2. honze dias del mes de jullio de mile e q\[ui\]ni\[ento\](s) e çinq(u)\[en\]ta

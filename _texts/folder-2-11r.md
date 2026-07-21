@@ -4,6 +4,7 @@ title: "45: 11r"
 image: /assets/images/Folder_2_11r.jpg
 body_class: wide-page
 order: 21
+header: Respuesta oral
 ---
 xi \[11\] 
 

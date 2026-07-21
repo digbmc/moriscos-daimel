@@ -7,6 +7,14 @@ nav_order: 2
 ---
 <h1 id="titulo" style="margin-left:1.5rem;">El proceso de Mayor García: transcripción del manuscrito</h1>
 
+<div style="margin-left:1.5rem;margin-bottom:1rem;">
+  <a href="{{site.baseurl}}/criterios-transcripcion/">
+    <div class="box">
+      <span class="caption">Normas de edición</span>
+    </div>
+  </a>
+</div>
+
 <div id="toc" class="gallery">
     {% assign sorted_texts = site.texts | sort: "order" %}
     {% for text in sorted_texts %}
@@ -19,6 +27,7 @@ nav_order: 2
         <a href="#"
             onclick="showText('{{ text.order }}'); return false;">
       -->
+        {{ text.header }}
         <a href="{{ site.baseurl }}{{ text.url }}">
             <img src="{{ site.baseurl}}{{ text.image }}" alt="Manuscript page: {{ text.title }}" class="thumbnail">
             {{ text.title }}
@@ -27,9 +36,11 @@ nav_order: 2
     {% endfor %}
 </div>
 <br><br>
+<!--
 <div style="margin-left:1.5rem">
   <a href="{{ site.baseurl }}/criterios-transcripcion/">Los criterios de la transcripción</a>
 </div>
+-->
 <div class="citation">
   <br>
   <hr>

@@ -4,6 +4,7 @@ title: "32: 4v"
 image: /assets/images/Folder_2_4v.jpg
 body_class: wide-page
 order: 8
+header: Audiencia
 ---
 1. ~luego dixo q\[ue\] piensa q\[ue\] la madre d\[e\] su padre 
 2. murio x\[ristia\](na) no se acuerda como se llamava 
