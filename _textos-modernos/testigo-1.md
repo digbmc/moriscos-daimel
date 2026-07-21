@@ -23,7 +23,7 @@ Y después de lo susodicho en /[enc]/ el /[enc]/ audiencia de la santa Inquisici
 
 /[nota_3]/ Ratificada  
 
-/[enc_1]/ "para hacer distinción de artículos o capítulos en una escritura u otro instrumento, o como señal de adición." (RAE).
+/[enc_1]/ "para hacer distinción de artículos o capítulos en una escritura u otro instrumento, o como señal de adición" (RAE).
 
 /[enc_2]/ estando poniéndole  
 
