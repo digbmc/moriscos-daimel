@@ -5,7 +5,7 @@ hide_title: true
 nav_order: 3
 ---
 <!--<h1 class="title_columned">Transcripciones facsimilares</h1>-->
-<h1 id="titulo">El proceso de MG: La edición moderna</h1>
+<h1 id="titulo">El proceso de Mayor García: la edición moderna</h1>
 <div id="toc" class="toc">
   <ul>
     <li>
