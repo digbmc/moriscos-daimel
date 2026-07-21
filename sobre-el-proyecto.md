@@ -2,6 +2,7 @@
 layout: page
 title: El proyecto y equipo
 nav_order: 1
+hide_title: true
 ---
 
 # El proyecto 
