@@ -18,26 +18,24 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 ## Dirección del proyecto
 
-&nbsp; **Kathryn Phipps** Directora <br>
-&nbsp; **Nicholas Caraballo** (Classics, posgraduado) Coordinador del proyecto y desarrollador web, traductor del latín.
+- **Kathryn Phipps** Directora
+- **Nicholas Caraballo** (Classics) Coordinador del proyecto y desarrollador web, traductor del latín.
 <br> <br>
 ## Asistentes de investigación
 <!--Digital Scholarship Project Assistants:-->
 
-&nbsp; **Alejandre Lamas-Nemec** <br>
-&nbsp; **Sarah Kurth** (BMC ‘28 History of Art and Spanish)
+- **Alejandre Lamas-Nemec** (BMC '29)
+- **Sarah Kurth** (BMC ‘28 History of Art and Spanish)
 <br><br>
 ## Asistentes de transcripción
 
-&nbsp; **Madeleine Buergel** (BMC '29) <br>
-&nbsp; **Nora Cleary** (BMC ‘28 Biology, Geology, Spanish Minor) <br>
-&nbsp; **Brynne Dixon-Kruijf** (BMC ‘28 History of Art)
+- **Madeleine Buergel** (BMC '29) 
+- **Nora Cleary** (BMC ‘28 Biology, Geology, Spanish Minor) 
+- **Brynne Dixon-Kruijf** (BMC ‘28 History of Art)
 <br><br>
 ## Coordinación técnica con Library & Information Technology Services (LITS), Bryn Mawr College 
-
-&nbsp; **Alice McGrath** Senior Digital Scholarship Specialist <br>
-&nbsp; **Sean M. Keenan** Educational Technology Specialist
-<br>
+- **Alice McGrath** Senior Digital Scholarship Specialist <br>
+- **Sean M. Keenan** Educational Technology Specialist
 <hr>
 
 ### Se agradecen a los siguientes programas por su apoyo:
@@ -49,7 +47,7 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 ### Agradecimientos adicionales 
 
-&nbsp; **María Pañuelo Hoyos** (Posgraduado, Princeton, Department of Spanish) por su apoyo con el árabe del proceso.
+- **María Pañuelo Hoyos** (Posgraduado, Princeton, Department of Spanish) por su apoyo con el árabe del proceso.
 
 
 
