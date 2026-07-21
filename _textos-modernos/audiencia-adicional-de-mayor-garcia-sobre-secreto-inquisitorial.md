@@ -3,9 +3,9 @@ layout: post
 title: Audiencia adicional de Mayor García sobre secreto inquisitorial
 order: 15
 ---
-## 22 de septiembre, 1550  
-
 [65: 21r]  
+
+## 22 de septiembre, 1550  
 
 En la ciudad de Toledo en la audiencia de la Santa Inquisición en veinte y dos días del dicho mes de septiembre de mil y quinientos y cincuenta años el muy reverendo señor el doctor Alonso Pérez inquisidor mandó sacar ante sí a la dicha Mayor García de la cual recibió juramento en forma de derecho  
 

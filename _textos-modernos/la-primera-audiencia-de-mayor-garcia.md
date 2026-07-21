@@ -3,9 +3,9 @@ layout: post
 title: La primera audiencia de Mayor García  
 order: 5
 ---
-## 16 de abril 1550  
-
 [31: 4r]  
+
+## 16 de abril 1550  
 
 /[nota]/ En la ciudad de Toledo diez y seis días del mes de abril de mil y quinientos y cincuenta años ante el muy reverendo y magnífico señor el licenciado de Valtodano inquisidor estando en la audiencia de la Santa Inquisición y por su mandado fue traída  
 
@@ -21,13 +21,13 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 ~dijo el Ave María y Pater Noster. No supo el credo, ni la salve.  
 
-Padres  
+### Padres  
 
 ~Juan García de Agraz labrador difunto  
 
 ~Juana Goncales su mujer difunta vecinos de Daimiel  
 
-Abuelos  
+### Abuelos  
 
 ~Dijo que no conoció abuelo ni abuela de ninguna parte ni sabe si murieron cristianos  
 
@@ -43,17 +43,17 @@ Abuelos
 
 ~Luego dijo que piensa que la madre de su padre murió cristiana no se acuerda como se llamaba  
 
-Tíos hermanos de su padre  
+### Tíos hermanos de su padre  
 
 ~Dijo que tuvo un tío hermano de su padre no se acuerda cómo se llamó  
 
-Tíos hermanos de su madre.  
+### Tíos hermanos de su madre.  
 
 ~La de Juan López Enrreda no sabe cómo se llamó.  
 
 ~Otra que fue casada con un calderero vecina de Daimiel no se acuerda como se llamó  
 
-Hermanos de esta declarante  
+### Hermanos de esta declarante  
 
 ~Francisco Agraz que estuvo preso en esta Inquisición y ahora vive en Murcia  
 
@@ -61,7 +61,7 @@ Hermanos de esta declarante
 
 ~Mari Hernández mujer de Juan de Alegria /[enc]/ Bracero /[enc]/ vecinos de Daimiel.  
 
-Hijos de esta declarante  
+### Hijos de esta declarante  
 
 ~Mari Henández mujer de Gonzalo Peral hijo de Francisco Peral reconciliado vecinos de Daimiel.  
 

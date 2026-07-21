@@ -3,9 +3,9 @@ layout: post
 title: Orden de encarcelamiento
 order: 3
 ---
-## 14 marzo, 1550  
-
 [29: 3r]  
+
+## 14 marzo, 1550  
 
 Para prender a Mayor mujer de Sebastián Carretero  
 
@@ -19,7 +19,12 @@ Agustín Illán notario
 
 Yo Alonso de Cadahalso jurado de Toledo por virtud de este mandado de los señores inquisidores cometo y encargo a vos Benito Fernández a Juan Hernández vecinos [de] Daimiel que ejecutéis este mandamiento como en él se contiene hecho en Daimiel a xxiiii [14] de marzo de mdl [1550] años va entre renglones donde dice Benito Hernández Vala  
 
-Alonso de Cadahalso 		Luis Guerrero notario  
+Alonso de Cadahalso
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Luis Guerrero notario  
 
 /[enc_1]/ Error de género.  
 

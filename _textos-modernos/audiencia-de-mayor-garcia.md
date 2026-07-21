@@ -3,6 +3,8 @@ layout: post
 title: Audiencia de Mayor Garcia
 order: 8
 ---
+[46: 11v]  
+
 # Cuarta audiencia de Mayor García  
 
 ## 4 de junio 1550  

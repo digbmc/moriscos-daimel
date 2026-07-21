@@ -28,6 +28,7 @@ hide_in_nav: true
             {% for seccion in secciones %}
                 {% assign pagina = nil %} <!--En: Keeps the page number; Es: Guarda el número de página-->
                 {% assign subtitulo = nil %}
+                {% assign testigo = nil %}
                 {% assign fecha = nil %}
                 {% assign sum_notas = 0 %} <!--En: The number of notes in the section; Es: La suma de notas en la sección-->
                 {% assign sum_enc = 0 %}
@@ -44,22 +45,43 @@ hide_in_nav: true
                     {% if bloque_p contains "</h2>" %}
                         {% assign fechas = bloque_p | split: "</h2>" %}
                         {% assign fecha = fechas[0] | strip_html | strip %}
+                        <!--EN: bloque_p is in case an <h3> follows; ES: bloque_p es en el case de que <h3> siga-->
+                        {% assign bloque_p = fechas[1] %}
                         {% assign parrafo = fechas[1] | strip_html | strip %}
                     {% else %}
                         {% assign parrafo = bloque_p | strip_html | strip %}
+                    {% endif %}
+                    {% if bloque_p contains "</h3>" %}
+                        {% assign testigos = bloque_p | split: "</h3>" %}
+                        {% assign testigo = testigos[0] | strip_html | strip %}
+                        {% assign parrafo = testigos[1] | strip_html | strip %}
                     {% endif %}
                     {% assign primera = parrafo | slice: 0 %}{% assign ultima = parrafo | slice: -1 %}
                     {% assign agarrar = parrafo | slice: -2 %}
                     {% if primera == "[" and ultima == "]" and agarrar != "." %}
                         {% assign pagina = parrafo %}
                     {% else %}
+                        {% if bloque contains "</h1>" or bloque contains "</h2>" %}
+                            <div class="row">
+                                <div class = "margen">
+                                    <p></p>
+                                </div>
+                                <div class="parrafo">
+                                    {% if subtitulo != nil %}
+                                        <h1>{{ subtitulo }}</h1>
+                                        {% assign subtitulo = nil %}
+                                    {% endif %}
+                                    {% if fecha != nil %}
+                                        <h2>{{ fecha }}</h2>
+                                        {% assign fecha = nil %}
+                                    {% endif %}
+                                </div>
+                            </div>
+                        {% endif %}
                         <div class="row">
                             <div class="margen">
                             <!--EN: If the block has headings, it aligns the margin notes with the heading instead of the main text-->
                             <!--ES: Si el bloque tiene encabezados, se alinean las notas del margen con los encabezados en vez del texto principal-->
-                                {% if bloque contains "</h1>" or bloque contains "</h2>" or bloque contains "</h3>" %}
-                                    <p></p>
-                                {% endif %}
                                 {% if pagina != nil %}
                                     {% assign partes = pagina | split: ':' %}
                                     {% assign mitad = partes[0] | split: '[' %}
@@ -70,7 +92,7 @@ hide_in_nav: true
                                     {% assign pagina = nil %}
                                 {% endif %}
                                 {% if parrafo == "[Folio blanco.]" %}
-                                    <p><i>Folio blanco.</i></p>
+                                    <p><em>Folio blanco.</em></p>
                                 {% elsif parrafo contains "[nota]" %}
                                     {% assign notas = parrafo | split: "[nota]" %}
                                     {% assign suma = notas.size | minus: 1 %}
@@ -81,13 +103,9 @@ hide_in_nav: true
                                 {% endif %}
                             </div>
                             <div class="parrafo">
-                                {% if subtitulo != nil %}
-                                    <h1>{{ subtitulo }}</h1>
-                                    {% assign subtitulo = nil %}
-                                {% endif %}
-                                {% if fecha != nil %}
-                                    <h2>{{ fecha }}</h2>
-                                    {% assign fecha = nil %}
+                                {% if testigo != nil %}
+                                    <h3 style="text-align:center;">{{ testigo }}</h3>
+                                    {% assign testigo = nil %}
                                 {% endif %}
                                 {% if parrafo != "[Folio blanco.]" %}
                                     {% if parrafo contains "[nota]" %}
