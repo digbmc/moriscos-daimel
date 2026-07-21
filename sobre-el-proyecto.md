@@ -50,7 +50,6 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 - **María Pañuelo Hoyos** (Posgraduado, Princeton, Department of Spanish) por su apoyo con el árabe del proceso.
 
 
-
 <br>
 <br>
 <hr>
