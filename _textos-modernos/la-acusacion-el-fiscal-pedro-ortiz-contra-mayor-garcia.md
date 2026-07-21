@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La acusación: El fiscal Pedro Ortiz contra Mayor García"
+title: "La peticion para el encarcelamiento de Mayor García"
 body_class: wide-page
 order: 1
 ---
