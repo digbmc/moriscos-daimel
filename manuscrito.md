@@ -36,13 +36,12 @@ nav_order: 2
     {% endfor %}
 </div>
 <br><br>
-<!--
+{% comment %}
 <div style="margin-left:1.5rem">
   <a href="{{ site.baseurl }}/criterios-transcripcion/">Los criterios de la transcripción</a>
 </div>
--->
+{% endcomment %}
 <div class="citation">
-  <br>
   <hr>
   <p>
   Cómo citar la transcripción del manuscrito: Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. El proceso de Mayor García: la transcripción del manuscrito. Bryn Mawr College, 2026. Web.<br><br>

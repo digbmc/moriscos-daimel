@@ -4,7 +4,7 @@ title: "43: 10r"
 image: /assets/images/Folder_2_10r.jpg
 body_class: wide-page
 order: 19
-order: Acusación
+header: Acusación
 ---
 x \[10\]
 

@@ -13,7 +13,15 @@ hide_in_nav: true
         <!--En: This <div> keeps the data of each file together-->
         <!--Es: Este <div> guarda juntos los datos de cada archivo-->
         <div id="{{ texto.order }}" class="contenido">
-            <h1 style="margin-left: 6rem;">{{ texto.title }}</h1><br>
+            <!--<div><h1 style="margin-left:16rem;text-align:center;">{{ texto.title }}</h1></div><br>-->
+            <div class="row">
+                <div class="margen">
+                    <p></p>
+                </div>
+                <div class="parrafo">
+                    <h1 style="text-align: center;">{{ texto.title }}</h1>
+                </div>
+            </div>
             <!--En: Because chapters are not organized by page, but manuscripts are, a marker is used to divide the chapter into sections-->
             <!--Es: Dado que los capítulos no se organizan por página como los manuscritos, se utiliza un marcador para dividir el capítulo en secciones-->
             {% assign secciones = texto.content | split: "<!-- SPLIT -->" %}
@@ -49,11 +57,8 @@ hide_in_nav: true
                             <div class="margen">
                             <!--EN: If the block has headings, it aligns the margin notes with the heading instead of the main text-->
                             <!--ES: Si el bloque tiene encabezados, se alinean las notas del margen con los encabezados en vez del texto principal-->
-                                {% if bloque contains "</h1>" %}
-                                    <br><br>
-                                {% endif %}
-                                {% if bloque contains "</h2>" %}
-                                    <br><br>
+                                {% if bloque contains "</h1>" or bloque contains "</h2>" or bloque contains "</h3>" %}
+                                    <p></p>
                                 {% endif %}
                                 {% if pagina != nil %}
                                     {% assign partes = pagina | split: ':' %}
