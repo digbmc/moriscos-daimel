@@ -1,8 +1,11 @@
 ---
 layout: post
-title: La apelación y la conmutación de la sentencia
+title: Apelaciones adicionales
 order: 14
 ---
+
+## La apelación y la conmutación de la sentencia
+
 ### 13 enero 1551  
 
 [63: 20r]  
