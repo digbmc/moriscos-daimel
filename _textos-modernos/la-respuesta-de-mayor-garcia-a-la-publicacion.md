@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La respuesta de Mayor García a la publicación
+title: La repuesta de Mayor García a la publicación
 order: 10
 ---
 ## 3 de julio 1550  
