@@ -24,8 +24,11 @@ nav_order: 3
 
 <br>
 <hr>
-Cómo citar la edición moderna:<br>
-Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
+<em>Cómo citar la edición moderna:</em> <br>
+  <ul>
+    <li>Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
+ </li>
+  </ul>
 
 <!--
 <script>
