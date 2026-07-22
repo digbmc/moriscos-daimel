@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Orden de encarcelamiento
+title: El encarcelamiento de Mayor García 
 order: 3
 ---
 [29: 3r]  
+
+## Orden de encarcelamiento
 
 ### 14 marzo, 1550  
 
