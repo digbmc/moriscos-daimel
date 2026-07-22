@@ -5,10 +5,22 @@ body_class: wide-page
 hide_title: true
 hide_in_nav: true
 ---
+{% assign txts_ordenados = site.textos-modernos | sort: "order" %}
+<div id="toc" class="toc">
+    <p>Tabla de contenidos</p>
+    <ul>
+        {% for texto in txts_ordenados %}
+            <li>
+                <a href="#{{ texto.order }}">
+                    {{ texto.title }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
 <article>
     <!--En: First loop goes through all the .md files in textos-modernos (organized by chapter) in order-->
     <!--Es: El primer bucle revisa todos los archivos .md en textos-modernos (organizados por capítulo) en orden-->
-    {% assign txts_ordenados = site.textos-modernos | sort: "order" %}
     {% for texto in txts_ordenados %}
         <!--En: This <div> keeps the data of each file together-->
         <!--Es: Este <div> guarda juntos los datos de cada archivo-->
@@ -70,11 +82,11 @@ hide_in_nav: true
                                 </div>
                                 <div class="parrafo">
                                     {% if subtitulo != nil %}
-                                        <h1>{{ subtitulo }}</h1>
+                                        <h1 id="{{ subtitulo }}">{{ subtitulo }}</h1>
                                         {% assign subtitulo = nil %}
                                     {% endif %}
                                     {% if fecha != nil %}
-                                        <h2>{{ fecha }}</h2>
+                                        <h2 id="{{ fecha }}">{{ fecha }}</h2>
                                         {% assign fecha = nil %}
                                     {% endif %}
                                 </div>
