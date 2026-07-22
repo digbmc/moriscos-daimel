@@ -44,6 +44,8 @@ Luis Guerrero notario
 
 [30: 3v]  
 
+## Confirmacion del encarcelamiento
+
 ### 2 de abril, 1550  
 
 Miércoles en la noche a dos de abril año de mdl [1550] me entregaron presa a Mayor mujer de Sabastian Caretera morisca vecina de Daimiel la cual yo el alcaide metí en la cárcel.  
