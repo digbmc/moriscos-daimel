@@ -39,3 +39,13 @@ Luis Guerrero notario
 /[enc_6]/ cualquiera  
 
 /[enc_7]/ bajo pena de
+
+<!-- SPLIT -->
+
+[30: 3v]  
+
+### 2 de abril, 1550  
+
+Miércoles en la noche a dos de abril año de mdl [1550] me entregaron presa a Mayor mujer de Sabastian Caretera morisca vecina de Daimiel la cual yo el alcaide metí en la cárcel.  
+
+Bartolome Cabello notario  
