@@ -45,3 +45,29 @@ Dijo que no.
 ~Y luego el señor inquisidor dijo que mandaba y mandó a la dicha Mayor García que confiese todas las tres pascuas del año y comulgue cuando manda la Iglesia y que todos los domingos y fiestas que estuviere en la cárcel perpetua vaya a misa y a los sermones con los otros penitentes a la iglesia de San Pedro mártir y todas las veces que saliere de la cárcel perpetua lleve sobre todas sus vestiduras el sanbenito e no salga de la cárcel perpetua sin licencia del alcaide de ella lo cual cumpla so pena de impenitente  
 
 ~Y luego fue entregada a Alonso de Magán alcaide de la cárcel perpetua y la llevó consigo. Paso ante mi Agustín Illán notario.  
+
+<!-- SPLIT -->
+
+## Una noticia final: una reconciliación previa 
+
+### 11 de julio, 1551  
+
+[66: 21v]  
+
+En la ciudad de Toledo en la audiencia de la Santa Inquisición en once días del mes de julio de mil y quinientos y cincuenta y un años los señores inquisidores el doctor Alonso Pérez el licenciado Cristóbal Hernandes de Valtodano dijeron que declaraban que la dicha Mayor* García mujer de Sebastián Carretero ncomenzó a cometer y cometió los crímenes y delitos de herejía porque fue reconciliado y sus bienes confiscados desde el mes de mayo de mil y quinientos y treinta y siete años acá lo cual paso ante mi Agustín Illán notario  
+
+*digo Mayor García  
+
+Diose esta fe al rector Pedro de Arguello once de junio de mil y quinientos y cincuenta y tres años  
+
+<!--SPLIT -->
+
+[67: 22r]  
+
+[Folio blanco.]  
+
+<!-- SPLIT -->
+
+[68: 22v]  
+
+[Folio blanco.] 
