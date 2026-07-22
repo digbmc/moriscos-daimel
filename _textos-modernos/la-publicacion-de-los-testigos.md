@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La publicación de los testigos
-order: 9
+order: 7
 ---
 ### 3 de julio 1550  
 
