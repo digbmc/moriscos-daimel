@@ -1,11 +1,11 @@
 ---
 layout: ed-moderna
-title: La acusación del fiscal contra Mayor García 
+title: La acusación
 order: 6
 ---
 [41: 9r]  
 
-## 2 de junio 1550  
+### 2 de junio 1550  
 
 Publicada en 2 de junio 1550    Mayor García mujer de Sebastián Carretero  
 
