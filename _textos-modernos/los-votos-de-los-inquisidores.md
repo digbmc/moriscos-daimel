@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Los votos y la sentencia
-order: 11
+order: 8
 ---
 [53: 15r]  
 
