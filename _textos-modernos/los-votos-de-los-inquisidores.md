@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los votos de los inquisidores
+title: Los votos y la sentencia
 order: 11
 ---
 [53: 15r]  
