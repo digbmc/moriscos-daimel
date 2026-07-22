@@ -80,7 +80,7 @@ primero dijo que no se acuerda de más de que /[nota]/ podrá haber seis años p
 
 ii. Al capítulo ii [2] dijo que así es verdad que la de Marcos Manglano que ambos son difuntos le dijo a esta confesante las palabras contenidas en este capítulo como lo tiene confesado.  
 
-iii. Al capi[tul](o) iii [3] dijo que la verdad es que esta declarante no ha comido tocino porque como ha dicho, /[nota]/ el Botijoso le dijo que era vedado en la ley de los moros  
+iii. Al capi\[tul\](o) iii [3] dijo que la verdad es que esta declarante no ha comido tocino porque como ha dicho, /[nota]/ el Botijoso le dijo que era vedado en la ley de los moros  
 
 /[nota_1]/ la mujer de Alonso Bermejo.  
 
