@@ -3,7 +3,7 @@ layout: post
 title: La apelación y la conmutación de la sentencia
 order: 14
 ---
-## 13 enero 1551  
+### 13 enero 1551  
 
 [63: 20r]  
 
