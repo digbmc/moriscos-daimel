@@ -1,9 +1,11 @@
 ---
 layout: post
-title: La primera audiencia de Mayor García  
+title: Las audiencias iniciales de Mayor García  
 order: 5
 ---
 [31: 4r]  
+
+## La primera audiencia: el discurso de la vida y las moniciones
 
 ## 16 de abril 1550  
 
@@ -126,9 +128,7 @@ Fuele encargado mucho lo que toca al descargo de su conciencia y fue mandada vol
 /[enc_2]/ NTLEE: "f.m. Es lo milmo que Abadéjo en el fignificado de Cantáridas, de cuyo término ufan los Albéitares. Veafe Abadéjo. Lat. Canthárides."  
 
 <!-- SPLIT -->
-
-# Segunda audiencia de Mayor García  
-
+ 
 ## 6 de mayo 1550
 
 En la dicha ciudad de Toledo seis días del mes de mayo de mil y quinientos y cincuenta años ante el dicho señor inquisidor el licenciado Valtodano y por su mandado fue traída de su cárcel la dicha Mayor García porque el alcaide ha dicho que pide audiencia y como fue presente preguntada qué es lo que quiere pues ha dicho el alcaide que pide audiencia  
@@ -240,8 +240,6 @@ Fui presente yo Alonso de León notario.
 /[enc_1]/ Latín, "hasta aquí"  
 
 <!-- SPLIT -->
-
-# Tercera audiencia de Mayor García  
 
 ## 2 de junio 1550  
 
