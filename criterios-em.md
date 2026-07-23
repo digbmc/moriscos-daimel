@@ -6,23 +6,23 @@ hide_in_nav: true
 <div id="criterios">
 <p>
 El propósito de esta edición es promover la lectura fluida del proceso en su totalidad, tanto para los estudiantes como para el campo del estudio sobre los moriscos.  
-<br>
+<br><br>
     
-**ORTOGRAFÍA Y SINTAXIS** <br>
+**ORTOGRAFÍA Y SINTAXIS** <br><br>
 
 Por lo general, se estandariza la ortografía, la separación de palabras, la acentuación y el uso de mayúsculas según su uso actual.  
-<br>
+<br><br>
 Se modernizan las conjugaciones antiguas de verbos típicos sin otra indicación, especialmente, las formas, «vido» y «porná», las cuales se modernizan a «vio» y «pondrá» respectivamente.
- <br>
+ <br><br>
 Sin embargo, se respeta el uso de vocabulario anticuado y de tiempos verbales antiguos, como el futuro del subjuntivo (tuviere, supiere, etc.) y el imperfecto del subjuntivo (tuviese, estuviese, etc.). Por lo general, no se edita la sintaxis para preservar las particularidades del estilo inquisitorial y se preservan las colocaciones originales de los pronombres.  
-<br> 
+<br><br>
 Los pocos errores menores del notario, como la repetición de una palabra, se corrigen sin otra indicación. Se mantienen los errores que pueden indicar cambios significativos en el uso del lenguaje, particularmente cuando se trata de la transcripción de un vocablo arábigo en castellano. Por ejemplo, «el alheña» en vez de su forma actual, «la alheña».  
 
-<br>
+<br><br>
     
- **ENUMERACIÓN Y FORMATO** <br>
+ **ENUMERACIÓN Y FORMATO** <br><br>
 
-En los márgenes se encuentra el número de la imagen digitalizada por Kislak, seguido por el folio del manuscrito. Por ejemplo, [25: 1r] corresponde a la imagen 25 en la colección digital y es el recto del primer folio del proceso.  <br>
+En los márgenes se encuentra el número de la imagen digitalizada por Kislak, seguido por el folio del manuscrito. Por ejemplo, [25: 1r] corresponde a la imagen 25 en la colección digital y es el recto del primer folio del proceso.  <br><br>
     
 Por lo general, se preservan los párrafos y la (falta de) puntuación con las excepciones siguientes:       
     <ul> 
