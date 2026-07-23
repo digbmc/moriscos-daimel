@@ -10,40 +10,21 @@ El propósito de esta edición es promover la lectura fluida del proceso en su t
     
 **ORTOGRAFÍA Y SINTAXIS** <br>
 
-<ul> 
-    <li>
 Por lo general, se estandariza la ortografía, la separación de palabras, la acentuación y el uso de mayúsculas según su uso actual.  
-</li>
-    </ul>
-<ul> 
-    <li>
+<br>
 Se modernizan las conjugaciones antiguas de verbos típicos sin otra indicación, especialmente, las formas, «vido» y «porná», las cuales se modernizan a «vio» y «pondrá» respectivamente.
-    </li>
-    </ul>
-    <ul> 
-    <li>
+ <br>
 Sin embargo, se respeta el uso de vocabulario anticuado y de tiempos verbales antiguos, como el futuro del subjuntivo (tuviere, supiere, etc.) y el imperfecto del subjuntivo (tuviese, estuviese, etc.). Por lo general, no se edita la sintaxis para preservar las particularidades del estilo inquisitorial y se preservan las colocaciones originales de los pronombres.  
-</li>
-    </ul>
-    <ul> 
-    <li>
+<br> 
 Los pocos errores menores del notario, como la repetición de una palabra, se corrigen sin otra indicación. Se mantienen los errores que pueden indicar cambios significativos en el uso del lenguaje, particularmente cuando se trata de la transcripción de un vocablo arábigo en castellano. Por ejemplo, «el alheña» en vez de su forma actual, «la alheña».  
-</li>
-    </ul>
+
 <br>
     
  **ENUMERACIÓN Y FORMATO** <br>
 
-<ul> 
-    <li>
-En los márgenes se encuentra el número de la imagen digitalizada por Kislak, seguido por el folio del manuscrito. Por ejemplo, [25: 1r] corresponde a la imagen 25 en la colección digital y es el recto del primer folio del proceso.   
-</li>
-    </ul>        
-<ul> 
-    <li>
-Por lo general, se preservan los párrafos y la (falta de) puntuación con las excepciones siguientes:
-</li>
-    </ul>        
+En los márgenes se encuentra el número de la imagen digitalizada por Kislak, seguido por el folio del manuscrito. Por ejemplo, [25: 1r] corresponde a la imagen 25 en la colección digital y es el recto del primer folio del proceso.  <br>
+    
+Por lo general, se preservan los párrafos y la (falta de) puntuación con las excepciones siguientes:       
     <ul> 
         <li>
     Para facilitar el entendimiento de las transiciones entre las voces del texto, se introducen comillas «» cuando es evidente que una voz cita a otra.
@@ -58,12 +39,9 @@ Por lo general, se preservan los párrafos y la (falta de) puntuación con las e
     <li>
     Cuando una palabra está dividida entre dos folios, se escribe la palabra completa en el folio en el cual empieza.
 </li>
-    </ul>        
-<ul> 
-    <li>
+    </ul> 
 Las notas de pie que siguen una enumeración con numerales arabigos (1, 2, 3 etc.) corresponden a las notas marginales del manuscrito y aparecen en una aproximación de su ubicación en el manuscrito. Las que aparecen con letras (a. b. c. etc.) reflejan nuestros comentarios editoriales para aportar contexto lingüístico y/o histórico. Las traducciones del latín provienen de Nicholas Caraballo. Le agradecemos a María Alejandra Peñuela Hoyos por su apoyo con las transcripciones y traducciones del árabe. 
-</li>
-    </ul>
+
 </p>
 </div>
 
