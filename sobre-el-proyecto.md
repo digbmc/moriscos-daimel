@@ -34,7 +34,7 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 - **Brynne Dixon-Kruijf** (BMC ‘28, History of Art)
 <br><br>
 ## Coordinación técnica con Library & Information Technology Services (LITS), Bryn Mawr College 
-- **Alice McGrath** Senior Digital Scholarship Specialist <br>
+- **Alice McGrath** Senior Digital Scholarship Specialist
 - **Sean M. Keenan** Educational Technology Specialist
 <hr>
 
@@ -47,6 +47,8 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 ### Agradecimientos adicionales 
 
+- **John Pollack** Curator of Research Services (Kislak Center), University of Pennsylvania
+- **Dot Porter** Schoenberg Institute for Manuscript Studies Curator of Digital Humanities, University of Pennsylvania
 - **María Alejandra Pañuelo Hoyos** (Princeton, Department of Spanish) por su apoyo con el árabe.
 
 <hr>
