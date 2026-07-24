@@ -2,6 +2,8 @@
 layout: post
 title: Los votos y la sentencia
 order: 8
+subtitulos: [La sentencia de los Inquisidores, "La sentencia: christi nomine invocato"]
+fechas: [[], "21 de septiembre, 1550"]
 ---
 [53: 15r]  
 

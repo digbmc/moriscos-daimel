@@ -18,6 +18,41 @@ nav_order: 3
                 <a href="#{{ texto.order }}">
                     {{ texto.title }}
                 </a>
+                {% if texto.subtitulos %}
+                    <ul>
+                    {% for subtitulo in texto.subtitulos %}
+                    {% assign ind = forloop.index | minus: 1 %}
+                        {% if subtitulo == "nil" %}
+                            {% for fecha in texto.fechas[ind] %}
+                                <li>
+                                    <a href="#{{ fecha }}">{{ fecha }}</a>
+                                </li>
+                            {% endfor %}
+                        {% else %}
+                            <li>
+                                <a href="#{{ subtitulo }}">{{ subtitulo }}</a>
+                                {% if texto.fechas %}
+                                    <ul>
+                                    {% for fecha in texto.fechas[ind] %}
+                                        <li>
+                                            <a href="#{{ fecha }}">{{ fecha }}</a>
+                                        </li>
+                                    {% endfor %}
+                                    </ul>
+                                {% endif %}
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                    </ul>
+                {% elsif texto.fechas %}
+                    <ul>
+                    {% for fecha in texto.fechas %}
+                        <li>
+                            <a href="#{{ fecha }}">{{ fecha }}</a>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
             </li>
         {% endfor %}
     </ul>

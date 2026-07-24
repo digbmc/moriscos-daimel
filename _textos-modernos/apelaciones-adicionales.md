@@ -2,6 +2,8 @@
 layout: post
 title: Apelaciones adicionales
 order: 9
+subtitulos: [La apelación y comutación de la sentencia, "Audiencia adicional: el secreto inquisitorial", "Una noticia final: una reconciliación previa"]
+fechas: [13 enero 1551, "22 de septiembre, 1550", "11 de julio, 1551"]
 ---
 
 ## La apelación y la conmutación de la sentencia

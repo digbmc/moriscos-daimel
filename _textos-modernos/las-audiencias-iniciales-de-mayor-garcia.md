@@ -2,6 +2,8 @@
 layout: post
 title: Las audiencias iniciales de Mayor García  
 order: 4
+subtitulos: "La primera audiencia: el discurso de la vida y las moniciones"
+fechas: [[16 de abril 1550, 6 de mayo 1550, 2 de junio 1550]]
 ---
 [31: 4r]  
 

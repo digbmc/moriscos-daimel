@@ -2,6 +2,8 @@
 layout: ed-moderna
 title: La acusación
 order: 5
+subtitulos: [nil, La respuesta a la acusación]
+fechas: [2 de junio 1550]
 ---
 [41: 9r]  
 
