@@ -14,7 +14,7 @@ El bachiller Pedro Ortiz
 
 /[enc_1]/ prenderle, o sea, detenerle.  
 
-/[enc_2]/ RAE. "secresto. m. desus. Acción y efecto de secrestar." sinónimo: secuestro.  
+/[enc_2]/ RAE. "Secresto. m. desus. Acción y efecto de secrestar." sinónimo: secuestro.  
 
 /[enc_3]/ Entiénda, Emiendo, vid Entender.
 
