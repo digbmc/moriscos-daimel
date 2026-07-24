@@ -34,6 +34,8 @@ xix \[19\]
 24. de aq\[ue\]llas / q\[ue\] son prohibidas y vedadas a los reconcilia
 25. dos del delicto y crimen de la heregia ansi por d\[e\]re\[ch\](o)
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: hecho las d\[ic\]has cer\[i\]mo\[ni\](as) 

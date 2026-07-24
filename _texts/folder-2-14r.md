@@ -36,6 +36,8 @@ xiiii \[14\]
 26. ansy le co\[n\]viene
 27. ~dixo la d\[ic\]ha mayor g\[arçi\](a) q\[ue\] no se acuerda / q\[ue\] ya ella 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: t\[estig\](o) 

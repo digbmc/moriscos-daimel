@@ -34,6 +34,8 @@ header: Audiencia
 26. ~el s\[eñ\](or) ynq\[uisid\](or) la torno a des\[ir\] q\[ue\] dexe ahora lo de la hazie\[n\] 
 27. da / y hable en lo q\[ue\] toca al d\[e\]scargo de su conçiençia
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: .ii. mo\[nici\](on)

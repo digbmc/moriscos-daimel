@@ -36,6 +36,8 @@ vii \[7\]
 26. [^4]la qual degollo delante d\[e\] esta t\[estig\](o) y le atraveso
 27. el pescueço a modo de moros / y como esta d\[eclarant\](e) 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: ju\[an\] toledano

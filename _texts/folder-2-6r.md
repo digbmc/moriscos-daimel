@@ -34,6 +34,8 @@ vi \[6\]
 22. y q\[ue\] no le dixo / mas / y esta declar\[ant\](e) creyo algo 
 23. d\[e\] ello / preg\[unta\](da) q\[ue\] es eso algo q\[ue\] dize q\[ue\] creyo /
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: marcos manglano 

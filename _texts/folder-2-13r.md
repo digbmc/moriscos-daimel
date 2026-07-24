@@ -36,6 +36,8 @@ xiii \[13\]
 26. saber y alcançar la v\[er\]dad en este negoçio a lo q\[ua\]l
 27. fuy presente yo alonsso de leo\[n\] notario 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: ap\[rueb\](a) 

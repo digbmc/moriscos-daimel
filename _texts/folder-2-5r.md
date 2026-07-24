@@ -36,6 +36,8 @@ sar
 25. bolver a su carçel e fuy presente yo alonsso 
 26. de leo\[n\] notario 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: .i. moni\[c\]i(on)

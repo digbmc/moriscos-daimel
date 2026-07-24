@@ -31,6 +31,8 @@ xi \[11\]
 21. [^3]mandada bolver a su carçel a lo q\[ua\]l fuy
 22. presente yo alonsso de leon notario 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: yseo

@@ -28,6 +28,8 @@ header: Respuesta a publicación
 20. [^2]~en la çiudad de toledo tress dias del mes de julio
 21. de mile y q\[ui\]nientos y çinquenta años / estando 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: c\[ontenid\](o) el reo 

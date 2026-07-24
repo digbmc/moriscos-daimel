@@ -35,6 +35,8 @@ xii \[12\]
 25. se bien en lo q\[ue\] toca al d\[e\]scargo de su conçiençia
 26. y co\[n\]fiesse entera y claramente todo aq\[ue\]llo q\[ue\] 
 
+<!-- FOOTNOTES -->
+
 <hr>
  
 [^1]: di\[eg\](o) sanchez botijoso 

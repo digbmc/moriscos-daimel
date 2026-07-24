@@ -37,6 +37,8 @@ ix \[9\]
 28. q\[ue\] hera mejor la ley d\[e\] los moros q\[ue\] no la d\[e\] los xpianos / y q\[ue\] la d\[ic\]ha mayor
 29. g\[a\]r\[ç\]ia lo creyo assi con la creençia d\[e\] la secta de mahoma q\[ue\] ha tenido y tiene
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: 1 

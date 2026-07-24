@@ -33,6 +33,8 @@ header: Audiencia
 25. bolver a su carçel a lo qual fuy presente yo 
 26. alonsso de leo\[n\] notario 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: di\[eg\]o botijoso el viejo 

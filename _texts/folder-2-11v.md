@@ -34,6 +34,8 @@ header: Audiencia
 26. la d\[ic\]ha mari hern\[ande\]s delante d\[e\] ella para le mos
 27. trar como lo abia de hazer e de(s)\[ir\] / y ansy esta c\[onfesan\](te)
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: la muger de al\[ons\](o) bermejo 

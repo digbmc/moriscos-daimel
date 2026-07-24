@@ -29,6 +29,8 @@ header: Audiencia
 21. d\[e\]zir v\[er\]dad
 22. aq\[ui\] la acusa\[çi\](on)
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: vsq/[u/]e hac

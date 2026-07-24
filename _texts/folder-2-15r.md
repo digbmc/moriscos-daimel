@@ -26,6 +26,8 @@ xv \[15\]
 16. año / o menos lo q\[ue\] pareçiere a los s\[eñore\]s ynq\[ui\]sidor\[e\]s
 17. a lo qual fuy presente yo alonsso de leo\[n\] nota\[ri\](o) 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: v\[oto\]s 

@@ -34,6 +34,8 @@ iv \[4\]
 24. ~dixo q\[ue\] no conoçio ahuelo ny ahuela de ning\[un\](a) 
 25. p\[ar\]te ny sabe sy muriero\[n\] xpianos 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: i. mayor g\[arci\]a 

@@ -19,7 +19,9 @@ layout: default
             </div>
             <div class="column-right">
                 {% assign texto-principal = content | split: "<!-- FOOTNOTES -->" %}
-                {% assign lineas = texto-principal[0] | split: "</li>" %}
+                <!--{% assign numero_p = nil %}-->
+                {% assign lineas = texto-principal[0] | remove: "<ol>" %}{% assign lineas = lineas| remove: "</ol>" %}
+                {% assign lineas = lineas | split: "</li>" %}
                 {% for linea in lineas %}
                     {% assign linea_p = linea | remove: "</li>" %} {% assign linea_p = linea_p | remove: "<li>" %}
                     <div class="row">
@@ -37,6 +39,9 @@ layout: default
                 {% endfor %}
             </div>
         </div>
+    </div>
+    <div style="max-width: 34rem; margin-left: auto; margin-right: auto;">
+        <p>{{ texto-principal[1] }}</p>
     </div>
 </article>
 

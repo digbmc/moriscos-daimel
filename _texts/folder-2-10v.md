@@ -34,6 +34,8 @@ header: Respuesta oral
 26. no ha comido toçino por q\[ue\] como ha d\[ic\]ho / el bo
 27. [^6]tijoso le dixo q\[ue\] hera vedado en la ley de los moros
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: la muger de a\[lons\](o) berme

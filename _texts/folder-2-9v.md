@@ -37,6 +37,8 @@ header: Acusación
 29. [^7]~iten pongo por acusácion a la d\[ic\]ha mayor g\[a\]r\[ç\]ia todos los mas delictos
 30. q\[ue\] contra ella ay en el s\[anc\](to) offi\[çi\]o d\[e\] la inq\[uisiçi\](on) de q\[ue\] no va aqui acusada o no 
 
+<!-- FOOTNOTES -->
+
  <hr>
 
 [^1]: iii \[3\] 

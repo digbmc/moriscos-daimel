@@ -32,6 +32,8 @@ header: Audiencia
 24. bolver a su carçel a lo qual fuy presente
 25. yo alonsso de leon notario 
 
+<!-- FOOTNOTES -->
+
 <hr>
 
 [^1]: la muger de fran\[cis\](co) botijoso 
