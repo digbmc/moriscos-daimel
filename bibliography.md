@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bibliografia
 title: Bibliografía
 nav_order: 5
 ---

@@ -5,6 +5,7 @@ body_class: wide-page
 hide_title: true
 hide_in_nav: true
 ---
+<h1 id="titulo" class="container">El proceso de Mayor García: la edición moderna</h1>
 {% assign txts_ordenados = site.textos-modernos | sort: "order" %}
 <div id="toc" class="toc">
     <p>Tabla de contenidos</p>
@@ -49,13 +50,13 @@ hide_in_nav: true
                 {% assign parrafos = seccion | split: "</p>" %}
                 {% for bloque in parrafos %}
                     {% assign bloque_p = bloque %}
-                    {% if bloque_p contains "</h1>" %}
-                        {% assign subtitulos = bloque_p | split: "</h1>" %}
+                    {% if bloque_p contains "</h2>" %}
+                        {% assign subtitulos = bloque_p | split: "</h2>" %}
                         {% assign subtitulo = subtitulos[0] | strip_html | strip %}
                         {% assign bloque_p = subtitulos[1] %}
                     {% endif %}
-                    {% if bloque_p contains "</h2>" %}
-                        {% assign fechas = bloque_p | split: "</h2>" %}
+                    {% if bloque_p contains "</h3>" %}
+                        {% assign fechas = bloque_p | split: "</h3>" %}
                         {% assign fecha = fechas[0] | strip_html | strip %}
                         <!--EN: bloque_p is in case an <h3> follows; ES: bloque_p es en el case de que <h3> siga-->
                         {% assign bloque_p = fechas[1] %}
@@ -63,8 +64,8 @@ hide_in_nav: true
                     {% else %}
                         {% assign parrafo = bloque_p | strip_html | strip %}
                     {% endif %}
-                    {% if bloque_p contains "</h3>" %}
-                        {% assign testigos = bloque_p | split: "</h3>" %}
+                    {% if bloque_p contains "</h4>" %}
+                        {% assign testigos = bloque_p | split: "</h4>" %}
                         {% assign testigo = testigos[0] | strip_html | strip %}
                         {% assign parrafo = testigos[1] | strip_html | strip %}
                     {% endif %}
@@ -75,18 +76,18 @@ hide_in_nav: true
                     {% else %}
                         <!--EN: This mini container is meant to give headings their own place and keep certain margin notes from separate-->
                         <!--ES: Este envase es para dar a los encabezados un lugar propio y mantener ciertas notas marginales separados-->
-                        {% if bloque contains "</h1>" or bloque contains "</h2>" %}
+                        {% if bloque contains "</h2>" or bloque contains "</h3>" %}
                             <div class="row">
                                 <div class = "margen">
                                     <p></p>
                                 </div>
                                 <div class="parrafo">
                                     {% if subtitulo != nil %}
-                                        <h1 id="{{ subtitulo }}">{{ subtitulo }}</h1>
+                                        <h2 id="{{ subtitulo }}">{{ subtitulo }}</h2>
                                         {% assign subtitulo = nil %}
                                     {% endif %}
                                     {% if fecha != nil %}
-                                        <h2 id="{{ fecha }}">{{ fecha }}</h2>
+                                        <h3 id="{{ fecha }}">{{ fecha }}</h3>
                                         {% assign fecha = nil %}
                                     {% endif %}
                                 </div>
@@ -119,7 +120,7 @@ hide_in_nav: true
                             </div>
                             <div class="parrafo">
                                 {% if testigo != nil %}
-                                    <h3 style="text-align:center;">{{ testigo }}</h3>
+                                    <h4 style="text-align:center;">{{ testigo }}</h4>
                                     {% assign testigo = nil %}
                                 {% endif %}
                                 {% if parrafo != "[Folio blanco.]" %}
@@ -133,7 +134,7 @@ hide_in_nav: true
                                                 {% assign remainder = forloop.index0 | modulo: 2 %}
                                                 {% if remainder == 1 %}
                                                     {% assign sum_enc = sum_enc | plus: 1 %}
-                                                    <span class="tooltip">
+                                                    <span class="tooltip" tabindex="0">
                                                         {{ parte | strip }}
                                                         <span class="tooltiptext" id="{{ texto.order }}_{{ num_sec }}_enc_{{ sum_enc }}">
                                                             ENC.
@@ -226,12 +227,16 @@ hide_in_nav: true
                     {% endif %}
                 {% endfor %}
             {% endfor %}
-            <!--{{sum_notas}}-->
         </div>
     {% endfor %}
 </article>
-
-<script>
-    //Código es para esconder el texto de un archivo de prueba.
-    document.getElementById("100").style.display = 'none';
-</script>
+<br>
+<hr>
+<div class="container">
+    <em>Cómo citar la edición moderna:</em>
+    <ul>
+        <li>
+            Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
+        </li>
+    </ul>
+</div>

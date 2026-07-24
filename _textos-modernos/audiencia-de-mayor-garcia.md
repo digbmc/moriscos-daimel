@@ -5,7 +5,7 @@ order: 6
 ---
 [46: 11v]   
 
-## 4 de junio 1550  
+### 4 de junio 1550  
 
 [46: 11v]  
 
@@ -57,7 +57,7 @@ El señor inquisidor encargó todavía a la dicha Mayor García que piense en lo
 
 Quinta Audiencia de Mayor García  
 
-## 9 de junio  
+### 9 de junio  
 
 Y después de lo susodicho en la dicha ciudad de Toledo nueve días del mes de junio de mil y quinientos y cincuenta años ante el dicho señor inquisidor el licenciado Valtodano estando en la audiencia de la Santa Inquisición y por su mandado fue traída de su cárcel la dicha Mayor García presente su  
 

@@ -6,7 +6,7 @@ body_class: wide-page
 order: 3
 header: Testigo 1
 ---
-ii \[2\]
+ii \[2\]  
 
 1. contra mayor rodriguez muger de Sebastian carretero v\[e\]z\[in\](a) de daimiel  
 2. [^1]~en la çiudad de t\[oled\](o) en la audien\[çi\](a) d\[e\] la s\[anc\](ta) inq\[uisiçi\](on) en seis dias del mes 
@@ -43,6 +43,8 @@ ii \[2\]
 33. en ello se ratificaba e ratifico e si neçessario es lo dize de nuevo a lo qual 
 34. estaua\[n\] prese\[n\]tes por p\[er\]sonas honestas los r\[everen\](dos) p\[edr\](o) de farmas e a\[lons\](o) de nodarilagos pres 
 35. bi\[ter\]os capellanes de este s\[anc\](to) offi\[çi\](o) de lo qual doy fee yo julian d\[e\] alpache not\[ari\](o)
+
+<!-- FOOTNOTES -->
 
 <hr>
 
