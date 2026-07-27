@@ -49,10 +49,18 @@ layout: default
 {% assign anter_pg = site.texts | where: "order", anter | first %}
 {% assign prox_pg = site.texts | where: "order", prox | first %}
 <div class="bottom_buttons">
-    {% if anter_pg %}<a href="{{ site.baseurl }}{{ anter_pg.url }}">&#8656 Anterior</a>
+    {% if anter_pg %}
+    <div class="box">
+        <a href="{{ site.baseurl }}{{ anter_pg.url }}"><span style="font-size: x-large;">&#8678</span> Anterior</a>
+    </div>
     {% else %}<span></span>{% endif %}
-    <a href="{{ site.baseurl }}/manuscrito"> Volver a la table de contenidos</a>
-    {% if prox_pg %} <a href="{{ site.baseurl }}{{ prox_pg.url }}"> Siguiente &#8680</a>
+    <div class="box">
+        <a href="{{ site.baseurl }}/manuscrito"> Volver a la table de contenidos</a>
+    </div>
+    {% if prox_pg %}
+    <div class="box">
+        <a href="{{ site.baseurl }}{{ prox_pg.url }}"> Siguiente <span style="font-size: x-large;">&#8680</span></a>
+    </div>
     {% else %}<span></span>{% endif %}
 </div>
 <div class="jump_container">

@@ -68,7 +68,7 @@ body {
 */
 
 .wrap {
-  position: relative;
+  position: sticky;
   width: 100%;
 }
 
@@ -843,13 +843,15 @@ div.editions a {
   height: 15em;
   width: 15em;
   */
+  border-radius: 25px;
   height: 50px;
-  width: 250px;
+  min-width: 250px;
+  padding: 10px;
   background-color: yellow;
   color: white;
 }
 .box span {
-  color: black;
+  color: #ac4142;
   font-size: 1em;
   text-align: center;
 }
@@ -884,11 +886,6 @@ div.editions a {
   float: left;
   width: 40%;
 }
-@media (max-width: 768px) {
-  .column-left {
-    width: 100%;
-  }
-}
 .contenido {
   margin-left: 2.5rem;
   margin-right: 3rem;
@@ -913,6 +910,19 @@ div.editions a {
 @media (max-width: 768px) {
   .column-right {
     width: 100%;
+  }
+  .column-left {
+    width: 100%;
+  }
+  .contenido {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .margen {
+    width: 20%;
+  }
+  .parrafo {
+    width: 75%;
   }
 }
 .hidden {

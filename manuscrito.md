@@ -9,7 +9,7 @@ nav_order: 2
 
 <div style="margin-left:1.5rem;margin-bottom:1rem;">
   <a href="{{site.baseurl}}/criterios-transcripcion/">
-    <div class="box">
+    <div class="box" style="max-width: 250px;">
       <span class="caption">Normas de edición</span>
     </div>
   </a>
