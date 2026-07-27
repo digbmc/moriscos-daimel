@@ -9,7 +9,7 @@ header: Audiencia
 iv \[4\] 
 
 1. [^1]~en la çiudad de toledo diez y seys dias 
-2. del mes de abril de mile y quinientos y çi\[n\]que\[n\]ta 
+2. del mes de abril de mill y quinientos y çi\[n\]que\[n\]ta 
 3. años ante el muy re\[veren\](do) y mag\[nifi\](co) señor el liçen\[çia\](do) de 
 4. valtodano ynq\[uisid\](or) estando en la audi\[ençi\](a) de la 
 5. sancta ynq\[uisiçi\](on) y por su mandado fue trahida 
@@ -38,4 +38,4 @@ iv \[4\]
 
 <hr>
 
-[^1]: i. mayor g\[arci\]a 
+[^1]: i\[1\]. mayor g\[arci\]a 
