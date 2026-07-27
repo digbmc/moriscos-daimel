@@ -13,8 +13,8 @@ header: Noticia
 5. q\[ue\] la d\[ic\]ha mayor gar\[çi\]a mug\[e\]r de sebastian carr\[e\]tero encomen
 6. ço a comer\[ter\] e cometio los crimenes e delitos de heregia
 7. porq\[ue\] fue reconç\[i\]liado e sus bienes confiscados desde
-8. el mes de mayo de mile e q\[ui\]ni\[ent\](o)s e treynta e siete años
+8. el mes de mayo de mill e q\[ui\]ni\[ent\](o)s e treynta e siete años
 9. aca lo qual paso ante mi agustin yllan not\[ari\](o)
 10. digo mayor g\[a\]r\[çi\]a
 11. ~diose esta fee al rector p\[edr\](o) de arguello o\[n\]ze de junio de
-12. mile y qui\[nient\](o)s y cinq\[uen\](ta) y tres años 
+12. mill y qui\[nient\](o)s y cinq\[uen\](ta) y tres años 
