@@ -7,7 +7,7 @@ order: 26
 header: Audiencia
 ---
 1. ~e d\[e\]spues de lo susod\[ic\]ho en la d\[ic\]ha çiudad de t\[oled\](o)
-2. quatorze dias de junio de mile y quinientos
+2. quatorze dias de junio de mill y quinientos
 3. y cinquenta años ante el d\[ic\]ho señor inq\[uisid\](or)
 4. el liçen\[çia\](do) valtodaño y por su mandado fue
 5. trahída de su carçel la d\[ic\]ha mayor garçia
