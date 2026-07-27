@@ -7,7 +7,7 @@ order: 22
 header: Audiencia
 ---
 1. despues de lo susod\[ic\]ho en la d\[ic\]ha çiudad de toledo
-2. quatro dias del mes de junio de mile e qui\[nient\](o)s
+2. quatro dias del mes de junio de mill e qui\[nient\](o)s
 3. y çinquenta años ante el d\[ic\]ho señor ynq\[uisid\](or) esta\[n\]
 4. do en la audiençia de la sancta ynq\[uisiçi\](on) y por su
 5. mandado fue trahída de su carçel la d\[ic\]ha ma
