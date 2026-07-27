@@ -54,6 +54,9 @@ nav_order: 5
             <em>Nuevo Tesoro Lexicográfico de la Lengua Española,</em> "Hanega," accessed July 23, 2026, <a href="https://apps2.rae.es/ntlle/SrvltGUIMenuNtlle?cmd=Lema&sec=1.9.0.0.0.">https://apps2.rae.es/ntlle/SrvltGUIMenuNtlle?cmd=Lema&sec=1.9.0.0.0.</a> 
         </li>
         <li>
+            <em>Nuevo Tesoro Lexicográfico de la Lengua Española,</em>em> "Lexía," accessed July 27, 2026, <a href="https://apps2.rae.es/ntlle/SrvltGUIMenuNtlle?cmd=Lema&sec=1.0.0.0.0.">https://apps2.rae.es/ntlle/SrvltGUIMenuNtlle?cmd=Lema&sec=1.0.0.0.0.</a> 
+        </li>   
+        <li>
             <em>Nuevo Tesoro Lexicográfico de la Lengua Española,</em> "Ogaño," accessed July 23, 2026, <a href="https://apps2.rae.es/ntlle/SrvltGUIMenuNtlle?cmd=Lema&sec=1.1.0.0.0.">https://apps2.rae.es/ntlle/SrvltGUIMenuNtlle?cmd=Lema&sec=1.1.0.0.0.</a> 
         </li>
         <li>
