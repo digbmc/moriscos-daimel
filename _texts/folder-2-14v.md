@@ -26,7 +26,7 @@ header: Respuesta a publicación
 18. da bolver a su carçel, a lo qual fuy p\[r\](e)sente
 19. yo alonsso de leo\[n\] nota\[ri\](o)
 20. [^2]~en la çiudad de toledo tress dias del mes de julio
-21. de mile y q\[ui\]nientos y çinquenta años / estando 
+21. de mill y q\[ui\]nientos y çinquenta años / estando 
 
 <!-- FOOTNOTES -->
 
