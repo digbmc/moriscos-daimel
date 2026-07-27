@@ -28,9 +28,9 @@ Y después de lo susodicho en /[enc]/ el /[enc]/ audiencia de la santa Inquisici
 
 /[enc_2]/ "Para hacer distinción de artículos o capítulos en una escritura u otro instrumento, o como señal de adición" (DLR).
 
- /[enc_3]/ "adj. indef. pl. desus. ambos" (DLR).
+ /[enc_3]/ "Adj. indef. pl. desus. ambos" (DLR).
 
-/[enc_4]/ "adv. desus. De allí; de él o de ella; desde allí. U. c. vulg." (DRL).  
+/[enc_4]/ "Adv. desus. De allí; de él o de ella; desde allí. U. c. vulg." (DRL).  
 
 /[enc_5]/ La concordancia aquí corresponde a la del manuscrito.  
 
