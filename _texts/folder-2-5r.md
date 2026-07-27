@@ -1,4 +1,4 @@
----
+sebastian de diez / o d[o]ze años / y q[ue] no tiene mas ---
 layout: manuscrito
 title: "33: 5r"
 image: /assets/images/Folder_2_5r.jpg
@@ -29,15 +29,15 @@ v \[5\]
 19. aya yncurrido / y lo contrario haziendo sera 
 20. / oydo el fiscal y ella y se hara just\[izia\] 
 21. la d\[ic\]ha mayor garcia dixo q\[ue\] ella dira la v\[er\]dad 
-22. pues ha venido a esta s\[an\]ta casa / y q\[ue\] lo q\[ui\]ere pen 
-sar 
-23. ~el señor ynq\[uisid\](or) le encargo mucho q\[ue\] lo piense 
-24. bye\[n\] / y diga la v\[er\]dad en todo / y fue mandada 
-25. bolver a su carçel e fuy presente yo alonsso 
-26. de leo\[n\] notario 
+22. pues ha venido a esta s\[an\]ta casa / y q\[ue\] lo q\[ui\]ere pen
+23. sar 
+24. ~el señor ynq\[uisid\](or) le encargo mucho q\[ue\] lo piense 
+25. bye\[n\] / y diga la v\[er\]dad en todo / y fue mandada 
+26. bolver a su carçel e fuy presente yo alonsso 
+27. de leo\[n\] notario 
 
 <!-- FOOTNOTES -->
 
 <hr>
 
-[^1]: .i. moni\[c\]i(on)
+[^1]: .i.\[1\] moni\[c\]i(on)
