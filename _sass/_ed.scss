@@ -907,29 +907,6 @@ div.editions a {
   float: left;
   width: 60%;
 }
-@media (max-width: 768px) {
-  .column-right {
-    width: 100%;
-  }
-  .column-left {
-    width: 100%;
-  }
-  .contenido {
-    margin-left: 0;
-    margin-right: 0;
-  }
-  .margen {
-    width: 20%;
-  }
-  .parrafo {
-    width: 75%;
-  }
-  .box {
-    display: inline-block;
-    min-width: none;
-    width: fit-content;
-  }
-}
 .hidden {
     visibility: hidden;
 }
@@ -1096,4 +1073,39 @@ html {
 .back-to-top:hover {
     opacity: 1;
     background: rgba(255, 255, 255, 0.2);
+}
+@media (max-width: 768px) {
+  .column-right {
+    width: 100%;
+  }
+  .column-left {
+    width: 100%;
+  }
+  .contenido {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .margen {
+    width: 20%;
+  }
+  .parrafo {
+    width: 75%;
+  }
+  .box {
+    min-width: auto;
+    height: 45px;
+  }
+}
+@media (max-width: 480px) {
+  .box {
+    min-width: 90%;
+    height: auto;
+    padding: 12px;
+  }
+  .box span {
+    font-size: .5rem;
+  }
+  .bottom_buttons {
+    display: inline-block;
+  }
 }
