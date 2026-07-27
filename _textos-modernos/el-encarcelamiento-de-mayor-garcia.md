@@ -33,9 +33,9 @@ Luis Guerrero notario
 
 /[enc_1]/ "Tr. desus. Recoger, recaudar, guardar" (DLR).  
 
-/[enc_2]/ "f. Bien inmueble, finca, tierra, edificio, etc. U. m. en pl" (DRL).  
+/[enc_2]/ "F. Bien inmueble, finca, tierra, edificio, etc. U. m. en pl" (DRL).  
 
-/[enc_3]/ Pena: "f. Castigo impuesto conforme a la ley por los jueces o tribunales a los responsables de un delito o falta" (DRL).
+/[enc_3]/ "F. Castigo impuesto conforme a la ley por los jueces o tribunales a los responsables de un delito o falta" (DRL).
 
 <!-- SPLIT -->
 
