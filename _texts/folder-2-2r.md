@@ -24,7 +24,7 @@ ii \[2\]
 14. de daymiel e la d\[ic\]ha mayor se puso alheña en entramas manos 
 15. e estandole poniendo a esta declarante la d\[ic\]ha alheña le dixo la 
 16. dicha su aguela / q\[ue\] bonica mora / y q\[ue\] bie\[n\] te paresçe essa alheña 
-17. e la d\[ic\]ha mayor mug\[e\]r de vastian carret\[e\]r(o) le dixo lo mismo e 
+17. e la d\[ic\]ha mayor mug\[e\]r de \[se\]vastian carret\[e\]r(o) le dixo lo mismo e 
 18. la dicha su aguela e la d\[ic\]ha muger de vastian carretero le dixero\[n\] 
 19. q\[ue\] se ponian ellas aq\[ue\]lla alheña por q\[ue\] estava\[n\] moras e por esso se 
 20. la ponia e\[n\] su aguela se puso entonçes alheña e\[n\] los dedos e e\[n\] 
