@@ -236,7 +236,7 @@ Fui presente yo Alonso de León notario.
 
 /[nota_1]/ /[enc]/ vsq[ue] hac /[enc]/  
 
-/[enc_1]/ Traducción de Latín: "hasta aquí"  
+/[enc_1]/ Traducción de latín: "hasta aquí"  
 
 <!-- SPLIT -->
 
