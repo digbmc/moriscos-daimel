@@ -925,7 +925,9 @@ div.editions a {
     width: 75%;
   }
   .box {
-    width: auto;
+    display: inline-block;
+    min-width: none;
+    width: fit-content;
   }
 }
 .hidden {
