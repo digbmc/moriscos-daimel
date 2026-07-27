@@ -18,7 +18,7 @@ header: Invocato
 10. a\[lons\](o) perez pe\[dro\] valtodano blas ortiz
 11. ~dada y pronun\[çia\](da) fue la d\[ic\]ha s\[ente\]n\[ç\]ia por los dichos señores
 12. inq\[uisido\](res) q\[ue\] en ella cofirmaron d\[e\] sus nombres e\[n\] la d\[ic\]ha çiudad d\[e\]
-13. toledo a veinte y un dias del mes de septiembre de mile e qui\[nient\](o)s
+13. toledo a veinte y un dias del mes de septiembre de mill e qui\[nient\](o)s
 14. y çinq\[uen\](ta) años estando pro tribunali sedendo en un cadahalso
 15. e\[n\] la s\[an\](ta) ygl\[es\]ia d\[e\] esta çiudad / y en otro la d\[ic\]ha mayor g\[a\]r\[ç\]ia q\[ue\] abjuro
 16. como le fue man\[da\](do) e\[n\] la d\[ic\]ha s\[ente\]n\[ç\]ia a lo qual fueron prese\[n\]tes y
