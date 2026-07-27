@@ -25,7 +25,7 @@ ii \[2\]
 15. e estandole poniendo a esta declarante la d\[ic\]ha alheña le dixo la 
 16. dicha su aguela / q\[ue\] bonica mora / y q\[ue\] bie\[n\] te paresçe essa alheña 
 17. e la d\[ic\]ha mayor mug\[e\]r de \[se\]vastian carret\[e\]r(o) le dixo lo mismo e 
-18. la dicha su aguela e la d\[ic\]ha muger de vastian carretero le dixero\[n\] 
+18. la dicha su aguela e la d\[ic\]ha muger de \[se\]vastian carretero le dixero\[n\] 
 19. q\[ue\] se ponian ellas aq\[ue\]lla alheña por q\[ue\] estava\[n\] moras e por esso se 
 20. la ponia e\[n\] su aguela se puso entonçes alheña e\[n\] los dedos e e\[n\] 
 21. las palmas de las manos e le dijeron entonçes su aguela e la 
@@ -34,7 +34,7 @@ ii \[2\]
 24. ha tenido e\[n\] \[el\] caraçon aq\[ue\]lla ley d\[e\] los moros fuy presente yo 
 25. agustin yllan not\[ari\](o) / 
 26. ~e despues de lo susod\[ic\]ho en el audien\[çi\](a) de la s\[anc\](ta) inq\[uisiçi\](on) de la d\[ic\]ha çiudad d\[e\] t\[oled\](o) veint\[e\] y seis dias 
-27. del mes de junyo de mile y qui\[nient\](o)s e cinq\[uen\](ta) años ante el d\[ic\]ho s\[eñ\](or) inq\[uisid\](or) valtodano e por su 
+27. del mes de junyo de mill y qui\[nient\](o)s e cinq\[uen\](ta) años ante el d\[ic\]ho s\[eñ\](or) inq\[uisid\](or) valtodano e por su 
 28. man\[da\](do) fue trayda maria la canbila mug\[e\]r de a\[lons\](o) parro\[n\] capat\[er\](o) v\[eçin\](a) de daimiel por a\[lons\](o) maga\[n\] alc\[a\]id\[e\] 
 29. de la carçel perpetua / de la q\[u\]al el d\[ic\]ho s\[eñ\](or) inq\[uisid\](or) r\[eçibi\](o) jurame\[n\]to e\[n\] forma de vida de der\[ech\](o) 
 30. e p\[r\](o)metio de de(s)\[ir\] verdad so cargo del qual le fue pregun\[tan\](do) si hera v(e)\[r\]dad lo con\[teni\](do) en un dicho que 
@@ -48,7 +48,7 @@ ii \[2\]
 
 <hr>
 
-[^1]: sacado del pr[oç]esso 
+[^1]: sacado del pr\[oç\]esso 
 
 [^2]: de m\[ari\](a) la cabila mug\[e\]r d\[e\] 
 
