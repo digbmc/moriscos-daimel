@@ -53,7 +53,7 @@ nav_order: 2
 <div>
 
 
-<!-- ----------------------------------------------------------------------------------------------------------------- 
+{% comment %} ----------------------------------------------------------------------------------------------------------------- 
 
     En: A TON of original JavaScript-based code blocked out
     This would enable the viewing of each manuscript with its transcription on the same page (i.e., no redirecting to
@@ -200,4 +200,4 @@ nav_order: 2
       }
   });
 </script>
--->
+{% endcomment %}
