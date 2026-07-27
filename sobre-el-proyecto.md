@@ -49,6 +49,7 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 - **John Pollack** Curator of Research Services (Kislak Center), University of Pennsylvania
 - **Dot Porter** Schoenberg Institute for Manuscript Studies Curator of Digital Humanities, University of Pennsylvania
+- **Spanish Department,** Bryn Mawr College
 - **María Alejandra Pañuelo Hoyos** (Princeton, Department of Spanish) por su apoyo con el árabe.
 
 <hr>
