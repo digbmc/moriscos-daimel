@@ -12,18 +12,18 @@ iii \[3\]
 2. ~nos los inq\[uisido\](res) contra la heretica prauedad e aspostasía en esta muy noble çi\[u\]dad 
 3. e\[n\] \[el\] arçob\[is\]pado d\[e\] t\[oled\](o) e su partido etc mandamos a vos el honrrado al\[ons\](o) de cadahal 
 4. so jurado d\[e\] esta d\[ic\]ha çiudad q\[ue\] prendais el cuerpo de mayor mug\[e\]r de bastian 
-5. carretero vez\[in\](a) de daimiel a doquier q\[ue\] la hallaredes aunq\[ue\] sea en igl\[es\]ia o monest\[e\]r\[i\](o) 
+5. carretero vez\[in\](a) de daimiel a do\[nde\]quier\[a\] q\[ue\] la hallaredes aunq\[ue\] sea en igl\[es\]ia o monest\[e\]r\[i\](o) 
 6. o lugar sagrado o privilegiado e ansi presas e a buen recab\[a\]do la tened y entregad 
 7. a b\[artolo\]m(e) cabello alcayde de la carçeles de \[e\]ste s\[anc\](to) offi\[çi\](o) e otro si la secrestad todos e 
 8. qualesquier b\[ien\]e(s) ansi muebles como rayzes e semovientes / oro e plata e din\[er\](o)s 
 9. e joyas e otras qualesquier cosas q\[ue\] tuviere e assi hecho el d\[ic\]ho secresto po 
 10. ned los d\[ic\]hos b\[ien\]e(s) en poder e de magnifiesto de una o dos p\[er\]sonas llanas e a 
 11. bonadas a los quales y a cada uno de \[e\]llos mandamos en v\[ir\]tud d\[e\] esta 
-12. / obedien\[çi\](a) e so p\[en\](a) de ex\[comunica\](c\[i\]on) ma\[y\](or) e de diez mile m\[a\]r\[avedi\]s pa\[ra\] gustos ex\[t\](ra)hordinarios de 
+12. / obedien\[çi\](a) e so p\[en\](a) de ex\[comunica\](c\[i\]on) ma\[y\](or) e de diez mill m\[a\]r\[avedi\]s pa\[ra\] gustos ex\[t\](ra)hordinarios de 
 13. este offi\[çi\](o) q\[ue\] seyendo por vos nombrados açebten el d\[ic\]ho cargo y reçiban 
 14. los d\[ic\]hos b\[ien\]e(s) en secresto e no andan co\[n\] ellos ni co\[n\] cosa alg\[un\](a) ni p\[ar\]te d\[e\] ellas / sin 
 15. n\[uest\]ra licen\[çi\](a) y expresso man\[da\](do) h\[e\]cho en t\[oled\](o) en la sala de n\[uest\]ra audien\[çi\](a) / a xix \[19\] 
-16. del mes d\[e\] março de mile y qui\[nient\](o)s y çinq\[uen\](ta) años 
+16. del mes d\[e\] março de mill y qui\[nient\](o)s y çinq\[uen\](ta) años 
 17. el licen\[çia\](do)  
 18. pe\[dro\] valtodano 
 19. por m\[anda\](do) del señor ynq\[uisid\](or) 
