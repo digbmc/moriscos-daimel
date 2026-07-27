@@ -8,10 +8,10 @@ header: Acusación
 ---
 ix \[9\] 
 
-1. p\[ublica\](da) en 2 de junio 1550 muy r\[everen\](dos) señores maior garcia muger de bastia\[n\] carretero
+1. p\[ublica\](da) en 2 de junio 1550 muy r\[everen\](dos) señores maior garcia muger de \[se\]bastia\[n\] carretero
 2. el b\[achille\]r p\[edr\](o) ortiz promotor fiscal en el s\[an\](to) offi\[çi\](o) de la inq\[uisiçi\](on) d\[e\] esta çiudad y arcob\[is\]pado
 3. de t\[oled\](o) y su partido ante v\[uestras\] m\[erçede\]s parezco en la mejor via forma y manera q\[ue\] puedo
-4. y de der\[ech\](o) deuo y denunçio y acuso a mayor garcia muger de bastian carretero morisca
+4. y de der\[ech\](o) deuo y denunçio y acuso a mayor garcia muger de \[se\]bastian carretero morisca
 5. v\[e\]z\[in\](o) de daimiel presa en las carceles d\[e\] este s\[an\](to) offi\[çi\](o) q\[ue\] p\[rese\]nte esta por herege apostata
 6. de n\[uest\]ra s\[an\](ta) fee catho\[li\](ca) incubridora y participante de heregos y sus heregias
 7. excomulgada perjura porq\[ue\] estando en nombre y possesion de xp\[ia\](na) y por tal
@@ -21,7 +21,7 @@ ix \[9\]
 11. xpiana postpuesto el themor de dios y la saluaçio\[n\] d\[e\] su anima heretico y a
 12. postato de y contra n\[uest\]ra s\[an\](ta) ffe catho\[li\](ca) y lei evangelica teniendo y creye\[n\]do
 14. [^1]la dañada y reprouada secta d\[e\] mahoma y esp\[eçi\](a)lmente e\[n\] las cosas y casos sig\[uiente\](s)
-15. Primeramente q\[ue\] estando presente la d\[ic\]ha mayor garcia una persona xpiana n\[uev\](a)
+15. primeramente q\[ue\] estando presente la d\[ic\]ha mayor garcia una persona xpiana n\[uev\](a)
 16. de mora alheño las manos otra morisca y des\[pues\] q\[ue\] se las ovo alheñado dixo q\[ue\]
 17. bonica mora y q\[ue\] bien te pareçe essa alheña / y q\[ue\] la d\[ic\]ha mayor g\[a\]r\[ç\]ia le dixo las
 18. mismas palabras despues de se aver ella alheñado las manos / y q\[ue\] la d\[ic\]ha
