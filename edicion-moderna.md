@@ -55,6 +55,9 @@ nav_order: 3
                 {% endif %}
             </li>
         {% endfor %}
+        <li>
+            <a href="#citacion">Cómo citar la edición moderna</a>
+        </li>
     </ul>
 </div>
 <article>
@@ -309,10 +312,7 @@ nav_order: 3
 <br>
 <hr>
 <div style="max-width:38rem;margin-left:auto;margin-right:auto;">
-    <em>Cómo citar la edición moderna:</em>
-    <ul>
-        <li>
-            Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
-        </li>
-    </ul>
+    <p id="citacion">
+    <em>Cómo citar la edición moderna:</em> Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
+    </p>
 </div>
