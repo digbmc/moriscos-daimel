@@ -7,7 +7,7 @@ order: 42
 header: Noticia
 ---
 1. en la ç\[i\]udad de toledo en la audi\[ençi\](a) d\[e\] la s\[an\]ta ynq\[uisiçi\](on) e\[n\]
-2. honze dias del mes de jullio de mile e q\[ui\]ni\[ento\](s) e çinq(u)\[en\]ta
+2. honze dias del mes de jullio de mill e q\[ui\]ni\[ento\](s) e çinq(u)\[en\]ta
 3. e un años los señores ynq\[ui\]sidores el doctor a\[lons\](o) pe\[re\]s el liçen\[çia\](do)
 4. x\[ri\]p\[t\]oval hernandes de valtodano dixeron q\[ue\] declaravan
 5. q\[ue\] la d\[ic\]ha mayor gar\[çi\]a mug\[e\]r de sebastian carr\[e\]tero encomen
