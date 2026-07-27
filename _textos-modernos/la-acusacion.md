@@ -78,7 +78,7 @@ Y así presentada y leída la dicha acusación la dicha Mayor García respondien
 
 [44: 10v]  
 
-primero dijo que no se acuerda de más de que /[nota]/ podrá haber seis años poco más o menos que estando en casa de Alonso Bermejo vecino de Daimiel difunto estaba allí la mujer del dicho Alonso Bermejo que también es difunta. Una Mari Henández la segoviana cristiana vieja vecina de Daimiel mujer de un pastor, había lavado en casa de esta declarante y porque se había /[enc]/ encentado /[enc]/ las manos la dicha segoviana con la lexía pidió a esta confesante que le buscase un poco de alheña para se poner en las /[enc]/ encentaduras /[enc]/ de las manos, y esta confesante fue a casa del Alonso Bormejo que la envío a llamar /[nota]/ para que se pusiese esta confesante y ella alheña en las manos, y le dijo la dicha de Alonso Bermejo a esta confesante que las moras se ponían alheña en las  manos por bien parecer, y así esta confesante y la dicha de Alonso Bermejo se pusieron alheña en las uñas y dedos de las manos y que no pasó otra cosa, y que estaban solas esta confesante y la de Alonso Bermejo difunta.  
+primero dijo que no se acuerda de más de que /[nota]/ podrá haber seis años poco más o menos que estando en casa de Alonso Bermejo vecino de Daimiel difunto estaba allí la mujer del dicho Alonso Bermejo que también es difunta. Una Mari Henández la segoviana cristiana vieja vecina de Daimiel mujer de un pastor, había lavado en casa de esta declarante y porque se había /[enc]/ encentado /[enc]/ las manos la dicha segoviana con la /[enc]/ lexía /[enc]/ pidió a esta confesante que le buscase un poco de alheña para se poner en las /[enc]/ encentaduras /[enc]/ de las manos, y esta confesante fue a casa del Alonso Bormejo que la envío a llamar /[nota]/ para que se pusiese esta confesante y ella alheña en las manos, y le dijo la dicha de Alonso Bermejo a esta confesante que las moras se ponían alheña en las  manos por bien parecer, y así esta confesante y la dicha de Alonso Bermejo se pusieron alheña en las uñas y dedos de las manos y que no pasó otra cosa, y que estaban solas esta confesante y la de Alonso Bermejo difunta.  
 
 ii. Al capítulo ii [2] dijo que así es verdad que la de Marcos Manglano que ambos son difuntos le dijo a esta confesante las palabras contenidas en este capítulo como lo tiene confesado.  
 
@@ -92,7 +92,9 @@ iii. Al capi\[tul\](o) iii [3] dijo que la verdad es que esta declarante no ha c
 
 /[enc_1]/ "De encetar, con epéntesis de la segunda n, por infl. de comenzar." "tr. Comenzar, empezar" (Covarrubias).
 
-/[enc_2]/ Encentadura: "setting a broach, Delibatio" (Covarrubias).
+/[enc_2]/ "Die to wash with, lixiuium" (Covarius).
+
+/[enc_3]/ Encentadura: "setting a broach, Delibatio" (Covarrubias).
 
 <!-- SPLIT -->
 
