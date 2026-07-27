@@ -51,7 +51,7 @@ iv. Ítem pongo por acusación a la dicha Mayor García todos los más delitos q
 
 /[enc_1]/ "Délto,outre ce,oltre a cio" (Covarrubias).  
 
-/[enc_2]/ se vea
+/[enc_2]/ Se vea
 
 <!-- SPLIT -->
 
