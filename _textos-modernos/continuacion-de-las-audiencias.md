@@ -30,7 +30,7 @@ se lavó las manos y la cara y los pies delante de la dicha Mari Hernándes y di
 
 ~Ítem dijo que esta confesante ha dejado de comer tocino porque es vedado a los moros en /[nota]/ su ley y así se lo dijo el dicho Diego Sánchez Botijoso.  
 
-~Ítem dijo que habrá dos años poco más o menos /[nota]/ que estando en casa de este declarante un Juan de Carmoña Herrero vecino de Daimiel morisco que mora en barrio nuevo. El cual avía entrado en la dicha casa a comprar media /[enc]/ fanega /[enc]/ de trigo tenía esta declarante en aquella sazón en su casa uno de /[enc]/ Yebenes /[enc]/ que se decía Andrés Rodríguez, que había ido allí a comprar trigo el cual entró en casa de esta declarante con un pedazo de tocino que traía comprado y lo dio a esta declarante para que se lo guisase, y el dicho Juan de Carmoña se llegó a esta declarante, y le dijo «no lo comería por la vida» y esta declarante le dijo «por qué» y el dicho Juan de Carmoña respondió «porque está vedado a los moros» lo cual no oyó el dicho Andrés Rodríguez y que ahora no se acuerda de otra cosa esta declarante.  
+~Ítem dijo que habrá dos años poco más o menos /[nota]/ que estando en casa de este declarante un Juan de Carmoña Herrero vecino de Daimiel morisco que mora en barrio nuevo. El cual avía entrado en la dicha casa a comprar media /[enc]/ hanega /[enc]/ de trigo tenía esta declarante en aquella sazón en su casa uno de /[enc]/ Yebenes /[enc]/ que se decía Andrés Rodríguez, que había ido allí a comprar trigo el cual entró en casa de esta declarante con un pedazo de tocino que traía comprado y lo dio a esta declarante para que se lo guisase, y el dicho Juan de Carmoña se llegó a esta declarante, y le dijo «no lo comería por la vida» y esta declarante le dijo «por qué» y el dicho Juan de Carmoña respondió «porque está vedado a los moros» lo cual no oyó el dicho Andrés Rodríguez y que ahora no se acuerda de otra cosa esta declarante.  
 
 El señor inquisidor encargó mucho a esta declarante que piense bien en lo que toca al descargo de su conciencia y confiese entera y claramente todo aquello que  
 
@@ -38,9 +38,9 @@ El señor inquisidor encargó mucho a esta declarante que piense bien en lo que 
 
 /[nota_2]/ Juan de Carmoña Herrero  
 
-/[enc_1]/ NTLEE: "Vide Hanega." DEL: "f. Medida de capacidad para áridos que, según el marco de Castilla, tiene 12 celemines y equivale a 55,5 l, pero es muy variable según las diversas regiones de España."  
+/[enc_1]/ "Vide Hanega" (Covarrubias). "F. Medida de capacidad para áridos que, según el marco de Castilla, tiene 12 celemines y equivale a 55,5 l, pero es muy variable según las diversas regiones de España" (DRL).  
 
-/[enc_2]/ Es una región en las afueras de Toledo.  
+/[enc_2]/ Una región en las afueras de Toledo.  
 
 <!-- SPLIT -->
 
