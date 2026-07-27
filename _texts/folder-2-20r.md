@@ -17,12 +17,12 @@ xx \[20\]
 7. m\[erçe\]d por serviçio de dios que por que ella tiene marido y
 8. hijos y andan descarriados que el tienpo que le resta
 9. por cunplir v\[ues\]tra m\[erçe\]d como lo suelen hazer con otros
-10. los dispense con ella el tienpo que le queda por con
+10. ~~los~~ dispense con ella el tienpo que le queda por con
 11. plir que su marido dara y pagara lo que v\[uest\]ra m\[erçe\]d fuere
 12. servido en lo qual se la hara gran bien y limosna
 13. ~el s\[eñ\](or) inq\[uisid\](or) doctor a\[lons\](o) pe\[re\]z comuto a la d\[ic\]ha mayor gar\[çi\]a
 14. al t\[iem\]po que le q\[ue\]da de estar en la carçel p\[er\]petua en quatr(o)
-15. dias para ayuda a hedificar el cadahalgo y le quito
+15. d\[ucad\](o)s para ayuda a hedificar el cadahalso y le quito
 16. el habito y mand\[o\] a la d\[ic\]ha mayor garçia q\[ue\] confies\[e\]
 17. las tres pasquas del año y comulgue la pasqua de
 18. resurrection, y q\[ue\] vaya a misa pa\[ra\] los sermones todos
