@@ -12,9 +12,9 @@ El bachiller Pedro Ortiz promotor fiscal en el santo oficio de la inquisición d
 
 El bachiller Pedro Ortiz
 
-/[enc_1]/ prenderle, o sea, detenerle.  
+/[enc_1]/ Prenderle, o sea, detenerle.  
 
-/[enc_2]/ RAE. "Secresto. m. desus. Acción y efecto de secrestar." sinónimo: secuestro.  
+/[enc_2]/ "Secresto. m. desus. Acción y efecto de secrestar." (DRL). sinónimo: secuestro.  
 
 /[enc_3]/ Entiénda, Emiendo, vid Entender.
 
