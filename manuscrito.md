@@ -54,14 +54,14 @@ nav_order: 2
 
 
 {% comment %} ----------------------------------------------------------------------------------------------------------------- 
-
-    En: A TON of original JavaScript-based code blocked out
+<!--
+    En: A TON of original JavaScript-based code blocked out.
     This would enable the viewing of each manuscript with its transcription on the same page (i.e., no redirecting to
-    some other web page)
-    Es: Un montón de código previo de JavaScript bloqueado
+    some other web page).
+    Es: Un montón de código previo de JavaScript bloqueado.
     Esto activaría la visita de cada manuscrito con sendas trascripciones en la misma página (i.e., no se dirige a
-    otra página de Internet)
-
+    otra página de Internet).
+-->
 <div class="row">
   <div id="content">
     {% for text in site.texts %}
