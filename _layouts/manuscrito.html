@@ -74,8 +74,8 @@ layout: default
         {% endfor %}
     </select>
 </div>
-<!--{% assign ed-mod = site.textos-modernos | where: "order", page.order | first %}-->
-<a href="{{ site.baseurl }}/prueba-em/#{{ page.order }}" style="margin-left: 2.5rem;">Ver la edición moderna</a>
+{% assign num_pagina = page.order | plus: 24 %}
+<a href="{{ site.baseurl }}/edicion-moderna/#{{ num_pagina }}" style="margin-left: 2.5rem;">Ver la edición moderna</a>
 <script>
 document.getElementById("cambio").addEventListener("change", function () {
     if (this.value) {

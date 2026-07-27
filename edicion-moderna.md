@@ -25,17 +25,17 @@ nav_order: 3
                         {% if subtitulo == "nil" %}
                             {% for fecha in texto.fechas[ind] %}
                                 <li>
-                                    <a href="#{{ fecha }}">{{ fecha }}</a>
+                                    <a href="#{{ texto.order }}-{{ fecha }}">{{ fecha }}</a>
                                 </li>
                             {% endfor %}
                         {% else %}
                             <li>
-                                <a href="#{{ subtitulo }}">{{ subtitulo }}</a>
+                                <a href="#{{ texto.order }}-{{ subtitulo }}">{{ subtitulo }}</a>
                                 {% if texto.fechas %}
                                     <ul>
                                     {% for fecha in texto.fechas[ind] %}
                                         <li>
-                                            <a href="#{{ fecha }}">{{ fecha }}</a>
+                                            <a href="#{{ texto.order }}-{{ fecha }}">{{ fecha }}</a>
                                         </li>
                                     {% endfor %}
                                     </ul>
@@ -48,7 +48,7 @@ nav_order: 3
                     <ul>
                     {% for fecha in texto.fechas %}
                         <li>
-                            <a href="#{{ fecha }}">{{ fecha }}</a>
+                            <a href="#{{ texto.order }}-{{ fecha }}">{{ fecha }}</a>
                         </li>
                     {% endfor %}
                     </ul>
@@ -159,11 +159,11 @@ nav_order: 3
                                 </div>
                                 <div class="parrafo">
                                     {% if subtitulo != nil %}
-                                        <h2 id="{{ subtitulo }}">{{ subtitulo }}</h2>
+                                        <h2 id="{{ texto.order }}-{{ subtitulo }}">{{ subtitulo }}</h2>
                                         {% assign subtitulo = nil %}
                                     {% endif %}
                                     {% if fecha != nil %}
-                                        <h3 id="{{ fecha }}">{{ fecha }}</h3>
+                                        <h3 id="{{ texto.order }}-{{ fecha }}">{{ fecha }}</h3>
                                         {% assign fecha = nil %}
                                     {% endif %}
                                 </div>
@@ -180,7 +180,7 @@ nav_order: 3
                                     {% assign num_pagina = mitad[1] %}
                                     {% assign orden = num_pagina | minus: 24 %}
                                     {% assign transc = site.texts | where: "order", orden | first %}
-                                    <a href="{{ site.baseurl }}{{ transc.url }}">{{ pagina }}</a>
+                                    <a href="{{ site.baseurl }}{{ transc.url }}" id="{{ num_pagina }}">{{ pagina }}</a>
                                     {% assign pagina = nil %}
                                 {% endif %}
                                 {% if parrafo == "[Folio blanco.]" %}

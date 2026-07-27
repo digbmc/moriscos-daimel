@@ -2,12 +2,12 @@
 layout: post
 title: La publicación de los testigos
 order: 7
-subtitulos: [nil, La repuesta a la publicación de los testigos, La communicación con su letrado]
+subtitulos: [nil, La respuesta a la publicación de los testigos, La comunicación con su letrado]
 fechas: [3 de julio 1550]
 ---
-### 3 de julio 1550  
-
 [51: 14r]  
+
+### 3 de julio 1550  
 
 Publicación de los testigos del fiscal contra Mayor García xiiii [14] mujer de Sebastián Carretero  
 

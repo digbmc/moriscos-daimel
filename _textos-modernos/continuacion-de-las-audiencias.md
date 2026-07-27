@@ -4,11 +4,9 @@ title: Continuación de las audiencias
 order: 6
 fechas: [4 de junio 1550, 9 de junio]
 ---
-[46: 11v]   
+[46: 11v]  
 
 ### 4 de junio 1550  
-
-[46: 11v]  
 
 Después de lo susodicho en la dicha ciudad de Toledo cuatro días del mes de junio de mil y quinientos y cincuenta años ante el dicho señor inquisidor estando en la audiencia de la Santa Inquisición y por su mandado fue traída de su cárcel la dicha Mayor porque ella ha pedido audiencia, y como fue presente preguntada que es lo que quiere  
 

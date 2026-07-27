@@ -62,10 +62,9 @@ Ante nosotros en nuestra audiencia, y respondiendo a ella y en las examinaciones
 /[enc_2]/ Sinónimo de "confesante".
 
 <!-- SPLIT -->
+[59: 18r]  
 
 ## La sentencia de los Inquisidores
-
-[59: 18r]  
 
 creyó lo que la dicha persona le dijo, y que ayunó algunos jueves como mora, no comiendo en todo el día hasta la noche, y a la noche comía carne o pescado o lo que tenía, y que otra cosa no se acordaba que pudiese decir para descargo de su conciencia y habiendo la dicha Mayor García comunicado con su letrado y dándole parte de este su negocio con su parecer y consejo dijo que ella ha confesado la verdad de todo lo que en su noticia era, de lo cual pedía y pidió perdón a Dios nuestro señor y a nosotros penitencia con misericordia, y lo demás contendió en la dicha acusación negaba y negó, y pidió complimiento de justicia y concluyó, y el dicho promotor fiscal dijo que afirmándose en lo por el dicho y acusado, negándolo perjudicial y aceptando las confesiones hechas por la dicha Mayor Díaz en cuanto por el hacen y para en prueba de su intención concluía y concluyó y pidió ser recibido a la prueba que le conviniese hacer, y nosotros con ambas las partes concluimos y los recibimos a prueba en forma con cierto término. El cual pasado fue hecha publicación de la probanza del dicho promotor fiscal contra la dicha Mayor García en esta causa presentada y respondiendo a ella dijo que hacía bueno lo en la dicha publicación contenido, y que ya ella había dicho todo lo que sabia y era a cargo en que hubiese ofendido a nuestra santa fe católica y que no tenía más que decir, ni que allegar en su defensa de pedir a Dios nuestro señor perdón como dijo que lo pedía y a nosotros penitencia y con parecer de su letrado  
 

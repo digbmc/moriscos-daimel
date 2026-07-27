@@ -1,5 +1,5 @@
 ---
-layout: ed-moderna
+layout: post
 title: La acusación
 order: 5
 subtitulos: [nil, La respuesta a la acusación]
@@ -54,9 +54,9 @@ iv. Ítem pongo por acusación a la dicha Mayor García todos los más delitos q
 /[enc_2]/ Se vea
 
 <!-- SPLIT -->
-
-## La respuesta a la acusación 
 [43: 10r]  
+
+## La respuesta a la acusación  
 
 tan enteramente como a mi derecho conviene, que le protestó alegar en la prosecución de esta causa cada y cuando que me convenga, porque aceptando las confesiones hechas por la dicha Mayor García en lo que por mi hacen y no en más a Vuestras Mercedes pido que /[enc]/ habiendo /[enc]/ mi religión por verdadera por su sentencia definitiva pronuncien y declaren a la dicha Mayor García haber sido y ser hereje apostata de nuestra santa fe católica encubridora y participante de herejes y sus herejías excomulgadas perjura y haber caído e incurrido en confiscación y perdimiento de todos sus bienes y hacienda declarándolos haber pertenecidos y pertenecer a la cámara y fisco real de su majestad desde el día que cometió los dichos delitos de herejía acá, relajándole la persona a la justicia y brazo seglar. Declarando así mismo su posteridad y descendencia ser privada e inhabilitada de y para todos oficios y beneficios públicos y de honra eclesiásticos y seglares conforme a derecho canónico y civil leyes fueros y pragmáticas de estos reinos y de lo arbitrario según intenciones uso y estilo del Santo Oficio de la Inquisición  
 
