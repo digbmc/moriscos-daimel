@@ -113,6 +113,6 @@ Dada y pronunciada fue la dicha sentencia por los dichos señores inquisidores q
 
 Agustín Illán notario  
 
-/[enc_1]/ Traducción de Latín: "ante el tribunal que preside"  
+/[enc_1]/ Traducción de latín: "ante el tribunal que preside"  
 
-/[enc_2]/ Traducción de Latín: "ante el tribunal que preside" 
+/[enc_2]/ Traducción de latín: "ante el tribunal que preside" 
