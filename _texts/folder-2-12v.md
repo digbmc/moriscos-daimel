@@ -26,7 +26,7 @@ header: Audiencia
 18. bolver a su carçel a lo qual fuy p\[r\](e)sente yo alonsso
 19. de leo\[n\] notario
 20. ~e despues de lo susodicho en la d\[ic\]ha çiudad de t\[oled\](o)
-21. nueve dias del mes de junio de mile y quinientos
+21. nueve dias del mes de junio de mill y quinientos
 22. y çinquenta años ante el d\[ic\]ho s\[e\]ñor inq\[uisid\](or)
 23. el liçen\[çia\](do) valtodano estando en la audi\[ençi\](a) de la
 24. sancta ynq\[uisiçi\](on) y por su mandado fue trahida
