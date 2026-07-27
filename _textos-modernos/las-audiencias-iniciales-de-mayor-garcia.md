@@ -37,9 +37,9 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 /[nota_1]/ i. Mayor García  
 
-/[enc_1]/ "hogaño"; "aducrbio de tiempo ezno" "this yeere, Hornus, hoc anno" (Covarrubias).  
+/[enc_1]/ "Hogaño"; "aducrbio de tiempo ezno" "this yeere, Hornus, hoc anno" (Covarrubias).  
 
-/[enc_2]/ o sea, no sabía cómo persignarse y decir "En el nombre del Padre, del Hijo y del Espíritu Santo. Amén."
+/[enc_2]/ O sea, no sabía cómo persignarse y decir "En el nombre del Padre, del Hijo y del Espíritu Santo. Amén."
 
 <!-- SPLIT -->
 
@@ -109,11 +109,10 @@ Después de lo susodicho diez y ocho días del dicho mes de abril ante el dicho 
 
 ~Dijo la dicha Mayor García mucho quería hacer por amor de Dios, pero aquella hacienda, cierto que si era que me la fiara y que no se vendiera.  
 
-~El señor inquisidor la tornó a decir que /[enc]/ deje ahora /[enc]/ lo de la hacienda, y hable en lo que toca al descargo de su conciencia  
+~El señor inquisidor la tornó a decir que deje afuera lo de la hacienda, y hable en lo que toca al descargo de su conciencia  
 
 /[nota_1]/ ii. monición  
-
-/[enc_2]/ que deje afuera lo de  
+ 
 
 <!-- SPLIT -->
 
@@ -198,7 +197,7 @@ lo vio le dijo al dicho Juan de Alexo por qué has degollado así a uso de moros
 
 /[nota_3]/ intención  
 
-/[nota_4]/ iv [4] monición  
+/[nota_4]/ iv monición  
 
 <!-- SPLIT -->
 
@@ -237,7 +236,7 @@ Fui presente yo Alonso de León notario.
 
 /[nota_1]/ /[enc]/ vsq[ue] hac /[enc]/  
 
-/[enc_1]/ Traducción de latín: "hasta aquí"  
+/[enc_1]/ Traducción de Latín: "hasta aquí"  
 
 <!-- SPLIT -->
 
