@@ -28,7 +28,7 @@ x \[10\]
 18. mayor g\[a\]r\[ç\]ia a q\[ue\] sin consejo de letrado ni de otra p\[er\]sona alguna
 19. diga y magnifieste la verdad e intençio\[n\] q\[ue\] tuvo acerca de lo
 20. susod\[ic\]ho y en todo lo demas excepto e\[n\] lo q\[ue\] claramente
-21. tiene confessado e si neçessario fuera sea puesta aquistion de
+21. tiene confessado ~~e si~~ neçessario fuera sea puesta aquistion de
 22. torme\[n\]to / y para ello y e\[n\] lo neçessario el s\[an\](to) y muy r\[everen\](do) offi\[çi\](o) de
 23. v\[uestras\] m\[erçedes\] imploro
 24. el bachiller
