@@ -37,7 +37,7 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 /[nota_1]/ i. Mayor García  
 
-/[enc_1]/ "hogaño"; NTLEE: "aducrbio de tiempo ezno" "this yeere, Hornus, hoc anno"  
+/[enc_1]/ "hogaño"; "aducrbio de tiempo ezno" "this yeere, Hornus, hoc anno" (Covarrubias).  
 
 /[enc_2]/ o sea, no sabía cómo persignarse y decir "En el nombre del Padre, del Hijo y del Espíritu Santo. Amén."
 
@@ -75,7 +75,7 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 /[enc_1]/ DHLE: s. m. y f. Persona que trabaja con el azadón.  
 
-/[enc_2]/ NTLEE "el que mucho tíra torofus.(a um)"
+/[enc_2]/ "El que mucho tíra torofus.(a um)" (Covarrubias).
 
 <!-- SPLIT -->
 
@@ -121,13 +121,12 @@ Después de lo susodicho diez y ocho días del dicho mes de abril ante el dicho 
 
 porque esto es lo que le conviene hacer  
 
-~Dijo la dicha Mayor que ella ha hecho siempre obras buenas y /[enc]/ tractado /[enc]/ la verdad con todos así con /[enc]/ abades /[enc]/ como con la cristiandad vieja pero que ella se verá en lo que su merced le dice.  
+~Dijo la dicha Mayor que ella ha hecho siempre obras buenas y tractado la verdad con todos así con /[enc]/ abades /[enc]/ como con la cristiandad vieja pero que ella se verá en lo que su merced le dice.  
 
 Fuele encargado mucho lo que toca al descargo de su conciencia y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario  
+  
 
-/[enc_1]/ o tractar o tratar  
-
-/[enc_2]/ NTLEE: "f.m. Es lo milmo que Abadéjo en el fignificado de Cantáridas, de cuyo término ufan los Albéitares. Veafe Abadéjo. Lat. Canthárides."  
+/[enc_1]/ "F.m. Es lo milmo que Abadéjo en el fignificado de Cantáridas, de cuyo término ufan los Albéitares. Veafe Abadéjo. Lat. Canthárides" (Covarrubias).  
 
 <!-- SPLIT -->
  
@@ -213,7 +212,7 @@ En la dicha ciudad de Toledo trece días del dicho mes de mayo y año ya dichos 
 
 ~Dijo que no  
 
-~Le fue dicho que hay información que esta declarante vio como una persona morisca ponía alheña a otra en las manos y le dijo, «que bonica mora» cómo le está /[enc]/ el alheña, /[enc]/ y que otras personas que estaban presentes se alheñaron las manos y /[enc]/ tractaron /[enc]/ de como las moras se ponen alheña y como es buena la ley de los moros.  
+~Le fue dicho que hay información que esta declarante vio como una persona morisca ponía alheña a otra en las manos y le dijo, «que bonica mora» cómo le está /[enc]/ el alheña, /[enc]/ y que otras personas que estaban presentes se alheñaron las manos y tractaron de como las moras se ponen alheña y como es buena la ley de los moros.  
 
 ~Dijo que de tal cosa no se acuerda.  
 
@@ -225,7 +224,6 @@ Le fue mandado que lo piense bien y fue mandada volver a su cárcel.
 
 /[enc_1]/ La concordancia aquí refleja el manuscrito y corresponde con el uso del artículo masculino para la alheña en el siglo XVI-XVII. Véase Covarrubias "alheña."  
 
-/[enc_2]/ trataron
 
 <!-- SPLIT -->
 
@@ -239,7 +237,7 @@ Fui presente yo Alonso de León notario.
 
 /[nota_1]/ /[enc]/ vsq[ue] hac /[enc]/  
 
-/[enc_1]/ Latín, "hasta aquí"  
+/[enc_1]/ Traducción de latín: "hasta aquí"  
 
 <!-- SPLIT -->
 
