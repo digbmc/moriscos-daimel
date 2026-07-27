@@ -31,11 +31,11 @@ header: Audiencia
 23. ~dixo la d\[ic\]ha mayor g\[arçi\](a) mucho querria hazer 
 24. por amor de dios, pero aq\[ue\]lla hazienda çierto q\[ue\] si era 
 25. q\[ue\] me la fiara y q\[ue\] no se vendiera / 
-26. ~el s\[eñ\](or) ynq\[uisid\](or) la torno a des\[ir\] q\[ue\] dexe ahora lo de la hazie\[n\] 
+26. ~el s\[eñ\](or) ynq\[uisid\](or) la torno a des\[ir\] q\[ue\] dexe afu\[e\]ra lo de la hazie\[n\] 
 27. da / y hable en lo q\[ue\] toca al d\[e\]scargo de su conçiençia
 
 <!-- FOOTNOTES -->
 
 <hr>
 
-[^1]: .ii. mo\[nici\](on)
+[^1]: .ii. \[2\] mo\[nici\](on)
