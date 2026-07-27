@@ -10,7 +10,7 @@ xxi \[21\]
  
 1. ~en la ç\[i\]udad de toledo en la audiençia d\[e\] la santa
 2. ynq\[ui\]siçion en veynte e dos dias del d\[ic\]ho mes de se\[p\]tie\[n\]
-3. bre de mile e quini\[ent\](o)s e çinquenta años el muy r\[eve\]r\[en\](do)
+3. bre de mill e quini\[ent\](o)s e çinquenta años el muy r\[eve\]r\[en\](do)
 4. señor el do\[ct\]or alonso peres ynq\[uisid\](or) mando sacar
 5. ante si a la d\[ic\]ha mayor gar\[çi\]a de la qual resçibio ju
 6. ramen\[t\]o en forma de der\[ech\](o)
