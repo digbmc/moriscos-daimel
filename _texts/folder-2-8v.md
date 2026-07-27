@@ -7,7 +7,7 @@ order: 16
 header: Audiencia
 ---
 1. e despues de lo susod\[ic\]ho en la d\[ic\]ha çiudad de t\[oled\](o) 
-2. quatorze dias del mes de mayo de mile y q\[uinient\](o)s
+2. quatorze dias del mes de mayo de mill y q\[uinient\](o)s
 3. y çinquenta años ante el d\[ic\]ho señor ynq\[uisid\](or)
 4. el liçen\[çia\](do) valtodano / y por su mandado fue
 5. trahida de su carçel la d\[ic\]ha mayor garçia
@@ -21,7 +21,7 @@ header: Audiencia
 13. [^1]ya este negoçio fuy presente yo alonsso
 14. de leo\[n\] notario
 15. ~en la d\[ic\]ha çiudad de toledo, dos dias de junio de
-16. mile y quinientos y cinquenta años ante el d\[ic\]ho señor
+16. mill y quinientos y cinquenta años ante el d\[ic\]ho señor
 17. ynq\[ui\]sydor el liçen\[çia\](do) valtodano / y por su man\[da\](do)
 18. fue trahída de su carçel la d\[ic\]ha mayor g\[arçi\](a) e
 19. presento el fiscal contra ella la acusaçion
@@ -33,4 +33,4 @@ header: Audiencia
 
 <hr>
 
-[^1]: vsq/[u/]e hac
+[^1]: vsq\[u\]e hac
