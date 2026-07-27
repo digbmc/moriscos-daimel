@@ -9,7 +9,7 @@ header: Audiencia
 vii \[7\] 
 
 1. e despues de lo susod\[ic\]ho en la d\[ic\]ha çiudad de
-2. toledo / ocho dias del mes de mayo de mile y
+2. toledo / ocho dias del mes de mayo de mill y
 3. quinientos y çinquenta años ante el d\[ic\]ho
 4. señor ynq\[uisid\](or) y por su mandado fue trahi
 5. da de su carçel la d\[ic\]ha mayor garçia / porq\[ue\]
