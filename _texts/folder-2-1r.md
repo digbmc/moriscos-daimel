@@ -14,8 +14,8 @@ header: Petición
 6. muger de sebastian carretero morisco vez\[i\](no) de daymiel por here 
 7. je apostata de n\[uest\]ra sancta fe catholica excomulgado segun pa 
 8. reçe por los libros y registros y d\[ic\]hos de testigos que contra el ay 
-9. el sancto offiçio de la inq\[uisiçi\](on) de que no va aq\[ui\] acusado o no tan 
-10. enterame\[n\]te en lo que por mi hazen y no en mas hago p\[re\]se\[n\] 
+9. el sancto offiçio de la inq\[uisiçi\](on) de que ~~no va aq\[ui\] acusado o no tan~~ 
+10. ~~enterame\[n\]te~~ en lo que por mi hazen y no en mas hago p\[re\]se\[n\] 
 11. taçion / porque a v\[uestras\] m\[erçedes\] (pido) manden proceder y proceda contra la 
 12. d\[ic\]ha maior garçia como contra tal hereje apostata de n\[uest\]ra s\[anc\](ta) 
 13. fe catholica excomulgada mandando dar y dando su mandam\[ien\](to) para 
