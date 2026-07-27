@@ -18,7 +18,7 @@ vi \[6\]
 8. carçel a lo q\[ua\]l fuy presente yo alonsso de  
 9. leo\[n\] nota\[ri\](o) 
 10. en la d\[ic\]ha çiudad de toledo seis dias del mes de 
-11. mayo de mile y quinientos y çinquenta a\[ñ\](o)s 
+11. mayo de mill y quinientos y çinquenta a\[ñ\](o)s 
 12. ante el d\[ic\]ho s\[e\]ñor ynq\[uisid\](or) el liçen\[çia\](do) valtodano y 
 13. por su mandad\[o\] fue trahida de su carç\[e\]l la d\[ic\]ha 
 14. mayor garçia por q\[ue\] el alcayde ha d\[ic\]ho q\[ue\] pide audi\[ençi\](a) 
