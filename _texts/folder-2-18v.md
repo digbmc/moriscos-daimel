@@ -9,7 +9,7 @@ header: Sentencia
 1. concluyo todo lo qual visto y lo demas en el presente p\[ro\]ce
 2. sso h\[ec\]ho hasta la fin del e sobre todo avida n\[uest\]ra delibera
 3. cion y acuerdo con personas de letras y conciencia etc
-4. ~xpi nomine invocato:
+4. ~xpi\[sti\] nomine invocato:
 5. ~hallamos el dicho promotor fiscal aver prouado
 6. su intencion tan bien y tan cumplidamente /
 7. como prouarle convino en la presente causa contra
