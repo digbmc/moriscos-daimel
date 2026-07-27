@@ -13,7 +13,7 @@ fechas: ["14 marzo, 1550,", "2 de abril, 1550"]
 
 Para prender a Mayor mujer de Sebastián Carretero  
 
-Nos los inquisidores contra la herética pravedad y apostasía en esta muy noble ciudad en el arzobispado de Toledo y su partido etc. mandamos a vos el honrado Alonso de Cadahalso jurado de esta dicha ciudad que prendáis el cuerpo de Mayor mujer de Sebastián Carretero /[enc]/ vecina /[enc]/ de Daimiel a /[enc]/ doquier /[enc]/ que la hallaredes aunque sea en iglesia o monesterio o lugar sagrado o privilegiado y así presas y a buen /[enc]/ recabado /[enc]/ la tened y entregad a Bartolome Cabello alcaide de las cárceles de este Santo Oficio y otro si la /[enc]/ secrestad todos y cualesquier bienes /[enc]/ así muebles como /[enc]/ raíces y semovientes /[enc]/ oro y plata y dineros y joyas y otras /[enc]/ cualesquier /[enc]/ cosas que tuviere y así hecho el dicho secresto poned los dichos bienes en poder y de manifiesto de una o dos personas llanas y abonadas a los cuales y a cada uno de ellos mandamos en virtud de esta obediencia y /[enc]/ so pena de /[enc]/ excomunicación mayor y de diez mil maravedís para gustos extraordinarios de este oficio que se yendo por vos nombrados acepten el dicho cargo y reciban los dichos bienes en secresto y no andan con ellos ni con cosa alguna ni parte de ellas, sin nuestra licencia y expreso mandado. Hecho en Toledo en la sala de nuestra audiencia, a xix [19] del mes de marzo de mil y quinientos y cincuenta años.  
+Nos los inquisidores contra la herética pravedad y apostasía en esta muy noble ciudad en el arzobispado de Toledo y su partido etc. mandamos a vos el honrado Alonso de Cadahalso jurado de esta dicha ciudad que prendáis el cuerpo de Mayor mujer de Sebastián Carretero vecina de Daimiel a dondequiera que la hallaredes aunque sea en iglesia o monesterio o lugar sagrado o privilegiado y así presas y a buen /[enc]/ recabado /[enc]/ la tened y entregad a Bartolome Cabello alcaide de las cárceles de este Santo Oficio y otro si la ecrestad todo y cualquier bienes así muebles como /[enc]/ raíces /[enc]/ y semovientes oro y plata y dineros y joyas y otras cualquiera cosas que tuviere y así hecho el dicho secresto poned los dichos bienes en poder y de manifiesto de una o dos personas llanas y abonadas a los cuales y a cada uno de ellos mandamos en virtud de esta obediencia y so /[enc]/ pena /[enc]/ de excomunicación mayor y de diez mil maravedís para gustos extraordinarios de este oficio que se yendo por vos nombrados acepten el dicho cargo y reciban los dichos bienes en secresto y no andan con ellos ni con cosa alguna ni parte de ellas, sin nuestra licencia y expreso mandado. Hecho en Toledo en la sala de nuestra audiencia, a xix [19] del mes de marzo de mil y quinientos y cincuenta años.  
 
 El licenciado Pedro Valtodano  
 
@@ -29,20 +29,13 @@ Alonso de Cadahalso
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Luis Guerrero notario  
+ 
 
-/[enc_1]/ Error de género.  
+/[enc_1]/ "Tr. desus. Recoger, recaudar, guardar" (DLR).  
 
-/[enc_2]/ dondequiera que la hallesen  
+/[enc_2]/ "f. Bien inmueble, finca, tierra, edificio, etc. U. m. en pl" (DRL).  
 
-/[enc_3]/ tr. desus. Recoger, recaudar, guardar.  
-
-/[enc_4]/ secuestrad todo y cualquier bienes  
-
-/[enc_5]/ f. Bien inmueble, finca, tierra, edificio, etc. U. m. en pl. RAE  
-
-/[enc_6]/ cualquiera  
-
-/[enc_7]/ bajo pena de
+/[enc_3]/ Pena: "f. Castigo impuesto conforme a la ley por los jueces o tribunales a los responsables de un delito o falta" (DRL).
 
 <!-- SPLIT -->
 
