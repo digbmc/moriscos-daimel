@@ -8,7 +8,7 @@ header: Testigo 1
 ---
 ii \[2\]  
 
-1. contra mayor rodriguez muger de Sebastian carretero v\[e\]z\[in\](a) de daimiel  
+1. contra mayor rodriguez muger de sebastian carretero v\[e\]z\[in\](a) de daimiel  
 2. [^1]~en la çiudad de t\[oled\](o) en la audien\[çi\](a) d\[e\] la s\[anc\](ta) inq\[uisiçi\](on) en seis dias del mes 
 3. [^2]d\[e\] hebrero d\[e\] mile y qui\[nient\](o)s y cinq\[uen\](ta) años ante el señor inq\[uisid\](or) 
 4. [^3]valtodano y por su man\[da\](do) fue sacada la d\[ic\]ha maria la canbila e 
