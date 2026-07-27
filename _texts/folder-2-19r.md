@@ -29,7 +29,7 @@ xix \[19\]
 19. ttido el d\[ic\]ho crimen y delicto de heregia y q\[ue\] este en la
 20. carçel perpetua d\[e\] esta inq\[uisiçi\](on) por espacio y t\[iem\]po de medio
 21. año / y mas lo q\[ue\] fuere n\[uest\]ra voluntad / esto attento a
-22. su hedad confessio\[n\] y por otras causas q\[ue\] nos mueven
+22. su ~~hedad~~ confessio\[n\] y por otras causas q\[ue\] nos mueven
 23. y declaramos q\[ue\] no puede usar ni gozar de cosa alguna
 24. de aq\[ue\]llas / q\[ue\] son prohibidas y vedadas a los reconcilia
 25. dos del delicto y crimen de la heregia ansi por d\[e\]re\[ch\](o)
