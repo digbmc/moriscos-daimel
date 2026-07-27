@@ -29,7 +29,7 @@ santa Iglesia nuestra madre con escándalo y menosprecio del pueblo católico y 
 
 ~Primeramente que la dicha Mayor García no comía tocino ni bebía vino por ser prohibido a los moros en su ley y por guarda de la secta de Mahoma, como mora y  
 
-/[enc_1]/ intr. desus. Sostener con pertinacia una herejía. rae
+/[enc_1]/ "Intr. desus. Sostener con pertinacia una herejía" (DRL).
 
 <!-- SPLIT -->
 
@@ -49,7 +49,7 @@ Y que aliende de lo susodicho la dicha Mayor García había hecho dicho y cometi
 
 el dicho promotor fiscal las confesiones hechas por la dicha Mayor García ante nosotros en nuestro juicio en cuanto por él y para en prueba de su intención hacían, nos pidió y requirió declarásemos la dicha Mayor García haber sido hereje apostata de nuestra santa fe católica encubridora y participante de herejes y sus herejías, y por ello haber caído en confiscación y perdimiento de todos sus bienes y hacienda, declarándolos haber pertenecido y pertenecer a la cámara y fisco real de su majestad desde el día que cometió los dichos delitos de herejía acá, relajando su persona a la justicia y /[enc]/ brazo seglar/[enc]/—y su posteridad y descendencia ser privada e inhabilitada de y para todos oficios y beneficios públicos y de honra eclesiásticos y seglares conforme a derecho canónico y civil, leyes fueros y pragmáticas de estos reinos y de lo arbitrario según instrucciones uso y estilo del Santo Oficio de la Inquisición y sobre todo pidió serle hecho entero cumplimiento de justicia, según que lo susodicho y otras cosas más largamente en la dicha su acusación se contiene a que nos referimos la cual fue leída y notificada a la dicha Mayor García.  
 
-/[enc_1]/ el brazo secular, o sea, el estado
+/[enc_1]/ El brazo secular, o sea, el estado.
 
 <!-- SPLIT -->
 
@@ -91,7 +91,7 @@ a la justicia y brazo seglar a la dicha Mayor García por haber /[nota]/ y haber
 
 /[nota_1]/ Hecho las dichas ceremonias  
 
-/[enc_1]/ NTLEE: "arte, action, unfaict fignalé." DEL" 1. m. En la Edad Media y en el Renacimiento, pieza dramática de breves dimensiones basada en temas religiosos o profanos. 2. m. Der. Resolución judicial motivada que decide cuestiones secundarias, previas, incidentales o de ejecución, para las que nose requiere sentencia."  
+/[enc_1]/ "Arte, action, unfaict fignalé." (Covarrubias). "1. m. En la Edad Media y en el Renacimiento, pieza dramática de breves dimensiones basada en temas religiosos o profanos. 2. m. Der. Resolución judicial motivada que decide cuestiones secundarias, previas, incidentales o de ejecución, para las que nose requiere sentencia" (DRL).  
 
 /[enc_2]/ Un sambenito es una vestidura penitencial que los herejes llevaban.
 
@@ -113,6 +113,6 @@ Dada y pronunciada fue la dicha sentencia por los dichos señores inquisidores q
 
 Agustín Illán notario  
 
-/[enc_1]/ Latín: ante el tribunal que preside  
+/[enc_1]/ Traducción de Latín: "ante el tribunal que preside"  
 
-/[enc_2]/ Latín: ante el tribunal que preside 
+/[enc_2]/ Traducción de Latín: "ante el tribunal que preside" 
