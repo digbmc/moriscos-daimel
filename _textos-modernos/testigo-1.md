@@ -24,11 +24,11 @@ Y después de lo susodicho en /[enc]/ el /[enc]/ audiencia de la santa Inquisici
 
 /[nota_3]/ Ratificada  
 
-/[enc 1]/ "Preposición. sub. infra" (Covarrubias).
+/[enc_1]/ "Preposición. sub. infra" (Covarrubias).
 
 /[enc_2]/ "Para hacer distinción de artículos o capítulos en una escritura u otro instrumento, o como señal de adición" (DLR).
 
- /[enc 3]/ "adj. indef. pl. desus. ambos" (DLR).
+ /[enc_3]/ "adj. indef. pl. desus. ambos" (DLR).
 
 /[enc_4]/ "adv. desus. De allí; de él o de ella; desde allí. U. c. vulg." (DRL).  
 
