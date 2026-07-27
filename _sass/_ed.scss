@@ -1095,6 +1095,13 @@ html {
     min-width: auto;
     height: 45px;
   }
+  .wide-page .container,
+  .wide-page .wrapper,
+  .wide-page .content {
+    max-width: none;
+    width: 98%;
+    margin-left: .5rem;
+  }
 }
 @media (max-width: 480px) {
   .box {
