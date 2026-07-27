@@ -29,7 +29,7 @@ xiii \[13\]
 19. ~e luego el d\[ic\]ho promotor fisc\[a\]l dixo q\[ue\] haze presenta\[çi\](on)
 20. de las co\[n\]fesyones hechas por la d\[ic\]ha mayor diaz
 21. en lo q\[ue\] en su favor e para en prueba de su yntençio\[n\]
-22. haze\[n\] / y de toda la otra provança q\[ue\] ay en el sa\[n\]to
+22. haze\[n\] / y de toda la otra provança q\[ue\] ay en el sa\[nc\]to
 23. offi\[çi\](o) contra la susad\[ic\]ha / e pidio al d\[ic\]ho señor inq\[uisid\](or) q\[ue\] ma\[n\]
 24. de ratificar los t\[estigo\]s y hazer d\[e\] ellos pu\[blicaçi\](on) y todas
 25. las / otras dilligençias q\[ue\] co\[n\]venga hazerse para
