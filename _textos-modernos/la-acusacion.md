@@ -27,7 +27,7 @@ que era mejor la ley de los moros que no la de los cristianos, y que la dicha Ma
 
 García lo creyó así con la creencia de la secta de Mahoma que ha tenido y tiene  
 
-/[enc_1]/ DEL: adv. desus. De allí; de él o de ella; desde allí. U. c. vulg.
+/[enc_1]/ "Adv. desus. De allí; de él o de ella; desde allí. U. c. vulg" (DRL).
 
 <!-- SPLIT -->
 
@@ -49,7 +49,7 @@ viii. Ítem que la dicha Mayor García por razón de lo susodicho cayó y se ha 
 
 iv. Ítem pongo por acusación a la dicha Mayor García todos los más delitos que contra ella hay en el Santo Oficio de la Inquisición de que no va aquí acusada o no  
 
-/[enc_1]/ NTLEE: "délto,outre ce,oltre a cio."  
+/[enc_1]/ "Délto,outre ce,oltre a cio" (Covarrubias).  
 
 /[enc_2]/ se vea
 
@@ -68,7 +68,7 @@ Pedro Ortiz
 
 /[enc_1]/ teniendo  
 
-/[enc_2]/ NTLEE: "compufer inciter, prefscr, forcer mamre, monnoir, e mounow, contraindre, poulfer."
+/[enc_2]/ "Compufer inciter, prefscr, forcer mamre, monnoir, e mounow, contraindre, poulfer" (Covarrubias).
 
 <!-- SPLIT -->
 
@@ -78,7 +78,7 @@ Y así presentada y leída la dicha acusación la dicha Mayor García respondien
 
 [44: 10v]  
 
-primero dijo que no se acuerda de más de que /[nota]/ podrá haber seis años poco más o menos que estando en casa de Alonso Bermejo vecino de Daimiel difunto estaba allí la mujer del dicho Alonso Bermejo que también es difunta. Una Mari Henández la segoviana cristiana vieja vecina de Daimiel mujer de un pastor, había lavado en casa de esta declarante y porque se había encentado las manos la dicha segoviana con la lexía pidió a esta confesante que le buscase un poco de alheña para se poner en las encentaduras de las manos, y esta confesante fue a casa del Alonso Bormejo que la envío a llamar /[nota]/ para que se pusiese esta confesante y ella alheña en las manos, y le dijo la dicha de Alonso Bermejo a esta confesante que las moras se ponían alheña en las  manos por bien parecer, y así esta confesante y la dicha de Alonso Bermejo se pusieron alheña en las uñas y dedos de las manos y que no pasó otra cosa, y que estaban solas esta confesante y la de Alonso Bermejo difunta.  
+primero dijo que no se acuerda de más de que /[nota]/ podrá haber seis años poco más o menos que estando en casa de Alonso Bermejo vecino de Daimiel difunto estaba allí la mujer del dicho Alonso Bermejo que también es difunta. Una Mari Henández la segoviana cristiana vieja vecina de Daimiel mujer de un pastor, había lavado en casa de esta declarante y porque se había /[enc]/ encentado /[enc]/ las manos la dicha segoviana con la lexía pidió a esta confesante que le buscase un poco de alheña para se poner en las /[enc]/ encentaduras /[enc]/ de las manos, y esta confesante fue a casa del Alonso Bormejo que la envío a llamar /[nota]/ para que se pusiese esta confesante y ella alheña en las manos, y le dijo la dicha de Alonso Bermejo a esta confesante que las moras se ponían alheña en las  manos por bien parecer, y así esta confesante y la dicha de Alonso Bermejo se pusieron alheña en las uñas y dedos de las manos y que no pasó otra cosa, y que estaban solas esta confesante y la de Alonso Bermejo difunta.  
 
 ii. Al capítulo ii [2] dijo que así es verdad que la de Marcos Manglano que ambos son difuntos le dijo a esta confesante las palabras contenidas en este capítulo como lo tiene confesado.  
 
@@ -88,7 +88,11 @@ iii. Al capi\[tul\](o) iii [3] dijo que la verdad es que esta declarante no ha c
 
 /[nota_2]/ su mujer  
 
-/[nota_3]/ el Botijoso  
+/[nota_3]/ el Botijoso 
+
+/[enc_1]/ "De encetar, con epéntesis de la segunda n, por infl. de comenzar." "tr. Comenzar, empezar" (Covarrubias).
+
+/[enc_2]/ Encentadura: "setting a broach, Delibatio" (Covarrubias).
 
 <!-- SPLIT -->
 
