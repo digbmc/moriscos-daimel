@@ -7,12 +7,14 @@ nav_order: 3
 ---
 {% assign txts_ordenados = site.textos-modernos | sort: "order" %}
 <div id="toc" class="toc">
-    <h1 id="titulo">El proceso de Mayor García: la edición moderna</h1>
-    <p>Tabla de contenidos</p>
-    <ul>
+    <h1 id="titulo" style="font-size: 1.8rem;">El proceso de Mayor García (1550): la edición moderna</h1>
+    <h1>Tabla de contenidos</h1>
+    <ol type="i">
         <li>
-            <a href="#criterios">Los criterios de la edición moderna</a>
+            <a href="#criterios">Introducción a la edición moderna</a>
         </li>
+    </ol>
+    <ol type="I">
         {% for texto in txts_ordenados %}
             <li>
                 <a href="#{{ texto.order }}">
@@ -58,15 +60,15 @@ nav_order: 3
         <li>
             <a href="#citacion">Cómo citar la edición moderna</a>
         </li>
-    </ul>
+    </ol>
 </div>
 <article>
     <div id="criterios" style="max-width:48rem;margin-left:auto;margin-right:auto;">
-        <h1>Los criterios de la edición moderna</h1>
+        <h1>Introducción a la edición moderna</h1>
         <p>
             El propósito de esta edición es promover la lectura fluida del proceso en su totalidad, tanto para los estudiantes como para el campo del estudio sobre los moriscos.  
             <br><br>  
-            **ORTOGRAFÍA Y SINTAXIS** <br><br>
+            <b>ORTOGRAFÍA Y SINTAXIS</b> <br>
             Por lo general, se estandariza la ortografía, la separación de palabras, la acentuación y el uso de mayúsculas según su uso actual.  
             <br><br>
             Se modernizan las conjugaciones antiguas de verbos típicos sin otra indicación, especialmente, las formas, «vido» y «porná», las cuales se modernizan a «vio» y «pondrá» respectivamente.
@@ -75,7 +77,7 @@ nav_order: 3
             <br><br>
             Los pocos errores menores del notario, como la repetición de una palabra, se corrigen sin otra indicación. Se mantienen los errores que pueden indicar cambios significativos en el uso del lenguaje, particularmente cuando se trata de la transcripción de un vocablo arábigo en castellano. Por ejemplo, «el alheña» en vez de su forma actual, «la alheña».  
             <br><br>                
-            **ENUMERACIÓN Y FORMATO** <br><br>
+            <b>ENUMERACIÓN Y FORMATO</b> <br>
             En los márgenes se encuentra el número de la imagen digitalizada por Kislak, seguido por el folio del manuscrito. Por ejemplo, [25: 1r] corresponde a la imagen 25 en la colección digital y es el recto del primer folio del proceso.  <br><br>          
             Por lo general, se preservan los párrafos y la (falta de) puntuación con las excepciones siguientes:       
                 <ul> 
@@ -96,8 +98,13 @@ nav_order: 3
             Las notas de pie que siguen una enumeración con numerales arabigos (1, 2, 3 etc.) corresponden a las notas marginales del manuscrito y aparecen en una aproximación de su ubicación en el manuscrito. Las que aparecen con letras (a. b. c. etc.) reflejan nuestros comentarios editoriales para aportar contexto lingüístico y/o histórico. Las traducciones del latín provienen de Nicholas Caraballo. Le agradecemos a María Alejandra Peñuela Hoyos por su apoyo con las transcripciones y traducciones del árabe. 
         </p>
     </div>
+    <br>
+    <hr>
+    <br>
     <!--En: First loop goes through all the .md files in textos-modernos (organized by chapter) in order-->
     <!--Es: El primer bucle revisa todos los archivos .md en textos-modernos (organizados por capítulo) en orden-->
+    <h1 id="titulo" style="max-width: 48rem; margin: auto; font-size:1.8rem;">El proceso de Mayor García (1550): la edición moderna</h1>
+    <br>
     {% for texto in txts_ordenados %}
         <!--En: This <div> keeps the data of each file together-->
         <!--Es: Este <div> guarda juntos los datos de cada archivo-->
@@ -105,10 +112,15 @@ nav_order: 3
             <!--<div><h1 style="margin-left:16rem;text-align:center;">{{ texto.title }}</h1></div><br>-->
             <div class="row">
                 <div class="margen">
-                    <p></p>
+                    {% if texto.order == 1 %}
+                        <p style="font-size:1rem;"><br>Haz click aquí para ver el manuscrito <br> &#8681;</p>
+                    {% else %}
+                        <p></p>
+                    {% endif %}
                 </div>
                 <div class="parrafo">
-                    <h1 style="text-align: center;">{{ texto.title }}</h1>
+                    <h1>{{ texto.title }}</h1>
+                    <br>
                 </div>
             </div>
             <!--En: Because chapters are not organized by page, but manuscripts are, a marker is used to divide the chapter into sections-->
@@ -163,7 +175,7 @@ nav_order: 3
                                         {% assign subtitulo = nil %}
                                     {% endif %}
                                     {% if fecha != nil %}
-                                        <h3 id="{{ texto.order }}-{{ fecha }}">{{ fecha }}</h3>
+                                        <h3 id="{{ texto.order }}-{{ fecha }}"><em>{{ fecha }}</em></h3>
                                         {% assign fecha = nil %}
                                     {% endif %}
                                 </div>

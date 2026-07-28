@@ -18,21 +18,24 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 ## Dirección del proyecto
 
-- **Kathryn Phipps** (Profesora, Department of Spanish, BMC) Directora
+- **Kathryn Phipps** (Assistant Professor, Department of Romance Languages, Hunter College) Directora
 - **Nicholas Caraballo** (Department of Greek, Latin, and Classical Studies, BMC) Coordinador del proyecto y desarrollador web, traductor del latín.
 <br> <br>
+
 ## Asistentes de investigación
 <!--Digital Scholarship Project Assistants:-->
 
 - **Alejandre Lamas-Nemec** (BMC '29)
 - **Sarah Kurth** (BMC ‘28, History of Art and Spanish)
 <br><br>
+
 ## Asistentes de transcripción
 
 - **Madeleine Buergel** (BMC '29) 
 - **Nora Cleary** (BMC ‘28, Biology, Geology, Spanish Minor) 
 - **Brynne Dixon-Kruijf** (BMC ‘28, History of Art)
 <br><br>
+
 ## Coordinación técnica con Library & Information Technology Services (LITS), Bryn Mawr College 
 - **Alice McGrath** Senior Digital Scholarship Specialist
 - **Sean M. Keenan** Educational Technology Specialist
@@ -54,14 +57,14 @@ La edición del manuscrito ofrece una transcripción precisa de la paleografía 
 
 <hr>
 
- *Cómo citar el proyecto:*
-  - Equipo Moriscos Daimiel. Los moriscos de Daimiel. Bryn Mawr College, 2026. Web.
+ *Cómo citar el proyecto:*  
+  Equipo Moriscos Daimiel. Los moriscos de Daimiel. Bryn Mawr College, 2026. Web.
 
- *La transcripción del manuscrito:*
-  - Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. El proceso de Mayor García: la transcripción del manuscrito. Bryn Mawr College, 2026. Web.
+ *La transcripción del manuscrito:*  
+  Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. El proceso de Mayor García: la transcripción del manuscrito. Bryn Mawr College, 2026. Web.
  
-*La edición moderna:* 
- - Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
+*La edición moderna:*  
+ Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
     
- *Las imagenes:* 
-  - Digital images of the Henry Charles Lea Collection of Inquisition Manuscripts, 1533-1866. Images 25–68, (Ms. Coll. 728). Kislak Center for Special Collections, Rare Books and Manuscripts, University of Pennsylvania.
+ *Las imagenes:*  
+  Digital images of the Henry Charles Lea Collection of Inquisition Manuscripts, 1533-1866. Images 25–68, (Ms. Coll. 728). Kislak Center for Special Collections, Rare Books and Manuscripts, University of Pennsylvania.

@@ -13,7 +13,9 @@ layout: default
                     style="max-width:95%;height:auto;margin:10px 0;">
                     </a>
                     <figcaption>
-                        <em>El proceso de Mayor Garcia: {{ page.title }}</em>
+                        <em>El proceso de Mayor Garcia: {{ page.title }}</em><br>
+                        {% assign num_pagina = page.order | plus: 24 %}
+                        <a href="{{ site.baseurl }}/edicion-moderna/#{{ num_pagina }}">Ver la edición moderna</a>
                     </figcaption>
                 </figure>
             </div>
@@ -74,8 +76,6 @@ layout: default
         {% endfor %}
     </select>
 </div>
-{% assign num_pagina = page.order | plus: 24 %}
-<a href="{{ site.baseurl }}/edicion-moderna/#{{ num_pagina }}" style="margin-left: 2.5rem;">Ver la edición moderna</a>
 <script>
 document.getElementById("cambio").addEventListener("change", function () {
     if (this.value) {

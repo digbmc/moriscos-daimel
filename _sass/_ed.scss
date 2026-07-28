@@ -132,7 +132,7 @@ h3, h4, h5, h6 {
 }
 
 h3 {
-  margin-top: 1.5rem;
+  /*margin-top: 1.5rem;*/
 }
 
 
@@ -540,7 +540,7 @@ div.narrative,
 }
 
 div.toc {
-  max-width: 34rem;
+  max-width: 48rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -843,15 +843,15 @@ div.editions a {
   height: 15em;
   width: 15em;
   */
-  border-radius: 25px;
   height: 50px;
   min-width: 250px;
   padding: 10px;
-  background-color: yellow;
+  background-color: #ac4142;
+  outline: solid #ac4142;
   color: white;
 }
 .box span {
-  color: #ac4142;
+  color: white;
   font-size: 1em;
   text-align: center;
 }
