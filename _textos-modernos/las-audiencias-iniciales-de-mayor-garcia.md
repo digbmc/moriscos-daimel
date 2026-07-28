@@ -124,7 +124,7 @@ porque esto es lo que le conviene hacer
 Fuele encargado mucho lo que toca al descargo de su conciencia y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario  
   
 
-/[enc_1]/ "La Prelada ò Superiora de alguna Comunidad, o Convento de Religiofas" (Ibarra 1726, "abadessa").  
+/[enc_1]/ "La Prelada ò Superiora de alguna Comunidad, o Convento de Religiofas" (Real Academia Española 1726, "abadessa").  
 
 <!-- SPLIT -->
  
