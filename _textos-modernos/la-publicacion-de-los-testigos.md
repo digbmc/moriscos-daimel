@@ -17,7 +17,7 @@ El licenciado Pedro Valtodano
 
 /[nota_1]/ testigo  
 
-/[enc_1]/ "Adv. desus. De allí; de él o de ella; desde allí. U. c. vulg" (DRL).  
+/[enc_1]/ desde  
 
 <!-- SPLIT -->
 
