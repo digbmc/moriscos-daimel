@@ -18,7 +18,7 @@ Después de lo susodicho en la dicha ciudad de Toledo cuatro días del mes de ju
 
 /[nota_2]/ Mari Henández Yseo  
 
-/[enc_1]/ Tipo de oración.  
+/[enc_1]/ tipo de oración.  
 
 <!-- SPLIT -->
 
@@ -36,9 +36,9 @@ El señor inquisidor encargó mucho a esta declarante que piense bien en lo que 
 
 /[nota_2]/ Juan de Carmoña Herrero  
 
-/[enc_1]/ "Vide Hanega" (Covarrubias). "F. Medida de capacidad para áridos que, según el marco de Castilla, tiene 12 celemines y equivale a 55,5 l, pero es muy variable según las diversas regiones de España" (DRL).  
+/[enc_1]/ fanega  
 
-/[enc_2]/ Una región en las afueras de Toledo.  
+/[enc_2]/ una región en las afueras de Toledo  
 
 <!-- SPLIT -->
 
