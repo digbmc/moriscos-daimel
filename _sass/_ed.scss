@@ -907,6 +907,12 @@ div.editions a {
   float: left;
   width: 60%;
 }
+.right-margen {
+  width: 5%;
+}
+.right-text {
+  width: 90%;
+}
 .hidden {
     visibility: hidden;
 }
@@ -1104,14 +1110,45 @@ html {
   }
 }
 @media (max-width: 480px) {
-  .box {
-    min-width: 90%;
-    height: auto;
-    padding: 12px;
+  .right-margen {
+    width: 8%;
   }
-  .box span {
+  .right-text {
+    width: 87%;
+  }
+  .box {
+    width: 90%;
+    height: 55px;
+    //padding: 12px;
+  }
+  .jump_container {
+    margin-top: 2rem;
+  }
+  .anterior, .siguiente {
+    visibility: hidden;
+    position: relative;
+  }
+  .anterior:after {
+    visibility: visible;
+    position: absolute;
+    content:"\21E6";
+    font-size: x-large;
+    top: 25%;
+    left: 25%;
+  }
+  .siguiente:after {
+    visibility: visible;
+    position: absolute;
+    content: "\21E8";
+    font-size: x-large;
+    top: 25%;
+    right: 25%;
   }
   .bottom_buttons {
-    display: inline-block;
+    clear: both;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    //height: 50px;
   }
 }

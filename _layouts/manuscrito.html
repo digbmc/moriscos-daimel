@@ -27,14 +27,14 @@ layout: default
                 {% for linea in lineas %}
                     {% assign linea_p = linea | remove: "</li>" %} {% assign linea_p = linea_p | remove: "<li>" %}
                     <div class="row">
-                        <div style="width: 5%;">
+                        <div class="right-margen">
                             {% assign remainder = forloop.index | modulo: 5 %}
                             {% if remainder == 0 and forloop.index < lineas.size %}
                                 <span>{{ forloop.index }}. </span>
                             {% else %}
                             {% endif %}
                         </div>
-                        <div style="width: 95%;">
+                        <div class="right-text">
                             <span>{{linea_p }}</span>
                         </div>
                     </div>
@@ -53,7 +53,11 @@ layout: default
 <div class="bottom_buttons">
     {% if anter_pg %}
         <a href="{{ site.baseurl }}{{ anter_pg.url }}">
-            <div class="box"><span><span style="font-size: x-large;">&#8678</span> Anterior</span></div>
+            <div class="box">
+                <span class="anterior">
+                    <span style="font-size: x-large;">&#8678</span> Anterior
+                </span>
+            </div>
         </a>
     {% else %}<span></span>{% endif %}
         <a href="{{ site.baseurl }}/manuscrito">
@@ -61,7 +65,11 @@ layout: default
         </a>
     {% if prox_pg %}
         <a href="{{ site.baseurl }}{{ prox_pg.url }}">
-            <div class="box"><span> Siguiente <span style="font-size: x-large;">&#8680</span></span></div>
+            <div class="box">
+                <span class="siguiente"> Siguiente 
+                    <span style="font-size: x-large;">&#8680</span>
+                </span>
+            </div>
         </a>
     {% else %}<span></span>{% endif %}
 </div>
