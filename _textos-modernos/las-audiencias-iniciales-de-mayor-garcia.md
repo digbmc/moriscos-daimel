@@ -119,12 +119,12 @@ Después de lo susodicho diez y ocho días del dicho mes de abril ante el dicho 
 
 porque esto es lo que le conviene hacer  
 
-~Dijo la dicha Mayor que ella ha hecho siempre obras buenas y tractado la verdad con todos así con /[enc]/ abades /[enc]/ como con la cristiandad vieja pero que ella se verá en lo que su merced le dice.  
+~Dijo la dicha Mayor que ella ha hecho siempre obras buenas y tractado la verdad con todos así con /[enc]/ abadesa /[enc]/ como con la cristiandad vieja pero que ella se verá en lo que su merced le dice.  
 
 Fuele encargado mucho lo que toca al descargo de su conciencia y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario  
   
 
-/[enc_1]/ "F.m. Es lo milmo que Abadéjo en el fignificado de Cantáridas, de cuyo término ufan los Albéitares. Veafe Abadéjo. Lat. Canthárides" (Covarrubias).  
+/[enc_1]/ "La Prelada ò Superiora de alguna Comunidad, o Convento de Religiofas" (Ibarra 1726, "abadessa").  
 
 <!-- SPLIT -->
  
@@ -235,7 +235,7 @@ Fui presente yo Alonso de León notario.
 
 /[nota_1]/ /[enc]/ vsq[ue] hac /[enc]/  
 
-/[enc_1]/ Traducción de latín: "hasta aquí"  
+/[enc_1]/ hasta aquí  
 
 <!-- SPLIT -->
 
