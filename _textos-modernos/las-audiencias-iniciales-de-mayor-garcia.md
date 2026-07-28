@@ -37,9 +37,9 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 /[nota_1]/ i. Mayor García  
 
-/[enc_1]/ "Hogaño"; "aducrbio de tiempo ezno" "this yeere, Hornus, hoc anno" (Covarrubias).  
+/[enc_1]/ "En el año presente" (DLE 2024, "hogaño). 
 
-/[enc_2]/ O sea, no sabía cómo persignarse y decir "En el nombre del Padre, del Hijo y del Espíritu Santo. Amén."
+/[enc_2]/ O sea, que no sabía persignarse y decir "En el nombre del Padre, del Hijo y del Espíritu Santo. Amén."
 
 <!-- SPLIT -->
 
@@ -61,9 +61,9 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 ~Francisco Agraz que estuvo preso en esta Inquisición y ahora vive en Murcia  
 
-~Juan García de Agraz difunto y casó con Leonor hija de Carabaco Ganadero con el /[enc]/ azadón /[enc]/ vecina de Almagro  
+~Juan García de Agraz difunto y casó con Leonor hija de Carabaco ganadero con el azadón vecina de Almagro  
 
-~Mari Hernández mujer de Juan de Alegria /[enc]/ Bracero /[enc]/ vecinos de Daimiel.  
+~Mari Hernández mujer de Juan de Alegria /[enc]/ bracero /[enc]/ vecinos de Daimiel.  
 
 #### Hijos de esta declarante  
 
@@ -72,10 +72,9 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 ~Diego Hernandes labrador desposado con una hija de Juana García luego dijo Diego García de la Brava vecinos de Daimiel que se llama Lucia que fue presa en esta Inquisición.  
 
 ~Mayor de ocho años, Alonso de trece años.  
+ 
 
-/[enc_1]/ DHLE: s. m. y f. Persona que trabaja con el azadón.  
-
-/[enc_2]/ "El que mucho tíra torofus.(a um)" (Covarrubias).
+/[enc_1]/ "Jornalero no cualificado que trabaja en el campo" (DLE 2024, "bracero")
 
 <!-- SPLIT -->
 
