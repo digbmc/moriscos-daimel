@@ -11,7 +11,7 @@ vi \[6\]
 1. por q\[ue\] esto es lo q\[ue\] le conviene hazer 
 2. ~dixo la d\[ic\]ha mayor q\[ue\] ella ha hecho sienp\[r\](e) 
 3. / obras buenas / y tractado la verdad co\[n\] todos 
-4. ansy co\[n\] abbades como con la xpianidad vieja 
+4. ansy co\[n\] abbades\[a\] como con la xpianidad vieja 
 5. pero q\[ue\] ella se vera en lo q\[ue\] su m\[erçe\]d le dize / 
 6. ~fuele enc\[a\]rgado mucho lo q\[ue\] toca al descargo 
 7. d\[e\] su conçiençia y fue mandada bolver a su 
