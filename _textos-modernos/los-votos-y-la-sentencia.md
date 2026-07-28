@@ -41,7 +41,7 @@ persona que estaba apartada de la creencia de nuestra santa fe católica y que c
 
 Y que aliende de lo susodicho la dicha Mayor García había hecho dicho y cometido otras muchas cosas y ceremonias de la dicha ley contra nuestra santa fe católica y lo mismo sabía de otras personas que maliciosamente callaba y encubría por se quedar la susodicha y las otras personas herejes, por razón de lo cual la dicha rea estaba puesta mucho tiempo había en sentencia de excomunión mayor, porque aceptado como aceptaba  
 
-/[enc_1]/ Oración arábiga.
+/[enc_1]/ oración arábiga
 
 <!-- SPLIT -->
 
@@ -49,7 +49,7 @@ Y que aliende de lo susodicho la dicha Mayor García había hecho dicho y cometi
 
 el dicho promotor fiscal las confesiones hechas por la dicha Mayor García ante nosotros en nuestro juicio en cuanto por él y para en prueba de su intención hacían, nos pidió y requirió declarásemos la dicha Mayor García haber sido hereje apostata de nuestra santa fe católica encubridora y participante de herejes y sus herejías, y por ello haber caído en confiscación y perdimiento de todos sus bienes y hacienda, declarándolos haber pertenecido y pertenecer a la cámara y fisco real de su majestad desde el día que cometió los dichos delitos de herejía acá, relajando su persona a la justicia y /[enc]/ brazo seglar/[enc]/—y su posteridad y descendencia ser privada e inhabilitada de y para todos oficios y beneficios públicos y de honra eclesiásticos y seglares conforme a derecho canónico y civil, leyes fueros y pragmáticas de estos reinos y de lo arbitrario según instrucciones uso y estilo del Santo Oficio de la Inquisición y sobre todo pidió serle hecho entero cumplimiento de justicia, según que lo susodicho y otras cosas más largamente en la dicha su acusación se contiene a que nos referimos la cual fue leída y notificada a la dicha Mayor García.  
 
-/[enc_1]/ El brazo secular, o sea, el estado.
+/[enc_1]/ el brazo secular; el estado
 
 <!-- SPLIT -->
 
@@ -57,9 +57,9 @@ el dicho promotor fiscal las confesiones hechas por la dicha Mayor García ante 
 
 Ante nosotros en nuestra audiencia, y respondiendo a ella y en las examinaciones que por nosotros le fueron hechas antes que le fuese puesta la dicha acusación dijo y confesó que <del>ella</del> habría trece o catorce años que hablando con cierta persona morisca, la cual a lo que pareció después: estaba en la creencia de la secta de Mahoma le dijo a esta Mayor García que le parecía que era mejor la ley de los moros que dejaron—que la de los cristianos que habían tomado, y que alabaría a Dios lavándose la cara y las manos hincada de rodillas diciendo /[enc]/ «alabado sea Dios, leyla hidalga, Mahoma de la cúrrala» /[enc]/ lo cual la dicha Mayor García hizo así hartas veces con intención de mora hasta que la trajeron presa a este Santo Oficio, y que así mismo le enseñó la dicha persona como había de hacer esta /[enc]/ confitente /[enc]/ el guado y lo hizo y cuando se lavaba y hacia el guado y decía «alhandurila haber alami» porque así lo decían y creían los moros y que se alheñaba las uñas de las manos con la intención que tenía de mora, porque le dijeron que las moras lo hacían así, y que otra persona morisca le dijo que el tocino era defendido en la ley de los moros y que no lo comiese ella, y que esta dicha Mayor García de ahí adelante dejó de comer hartas veces tocino porque  
 
-/[enc_1]/ Oración arábiga.  
+/[enc_1]/ oración arábiga
 
-/[enc_2]/ Sinónimo de "confesante".
+/[enc_2]/ Sinónimo de confesante
 
 <!-- SPLIT -->
 [59: 18r]  
@@ -90,9 +90,9 @@ a la justicia y brazo seglar a la dicha Mayor García por haber /[nota]/ y haber
 
 /[nota_1]/ Hecho las dichas ceremonias  
 
-/[enc_1]/ "Arte, action, unfaict fignalé." (Covarrubias). "1. m. En la Edad Media y en el Renacimiento, pieza dramática de breves dimensiones basada en temas religiosos o profanos. 2. m. Der. Resolución judicial motivada que decide cuestiones secundarias, previas, incidentales o de ejecución, para las que nose requiere sentencia" (DRL).  
+/[enc_1]/ "resolución judicial motivada que decide cuestiones secundarias, previas, incidentales o de ejecución, para las que nose requiere sentencia" (DLE 2024, auto).  
 
-/[enc_2]/ Un sambenito es una vestidura penitencial que los herejes llevaban.
+/[enc_2]/ un sambenito es una vestidura penitencial que los herejes llevaban
 
 <!-- SPLIT -->
 
@@ -108,10 +108,8 @@ El licenciado Pedro Valtodano
 
 El doctor Blas Ortiz  
 
-Dada y pronunciada fue la dicha sentencia por los dichos señores inquisidores que en ella confirmaron de sus nombres en la dicha ciudad de Toledo a veinte y un días del mes de septiembre de mil y quinientos y cincuenta años estando /[enc]/ protribunali sedendo /[enc]/ en un cadahalso en la santa Iglesia de esta ciudad, y en otro la dicha Mayor García que abjuró cómo le fue mandado en la dicha sentencia a lo cual fueron presentes y testigos los señores el licenciado Alonso de Soto Calderón alcaide mayor de Toledo y don Hernando Bacan y Sebastián de Soto canónigos y Álvaro de Salazar y don Carlos de Guevara regidores y otras muchas personas y los notarios del secreto de este Santo Oficio que aquí firmaron sus nombres  
+Dada y pronunciada fue la dicha sentencia por los dichos señores inquisidores que en ella confirmaron de sus nombres en la dicha ciudad de Toledo a veinte y un días del mes de septiembre de mil y quinientos y cincuenta años estando protribunali sedendo en un cadahalso en la santa Iglesia de esta ciudad, y en otro la dicha Mayor García que abjuró cómo le fue mandado en la dicha sentencia a lo cual fueron presentes y testigos los señores el licenciado Alonso de Soto Calderón alcaide mayor de Toledo y don Hernando Bacan y Sebastián de Soto canónigos y Álvaro de Salazar y don Carlos de Guevara regidores y otras muchas personas y los notarios del secreto de este Santo Oficio que aquí firmaron sus nombres  
 
 Agustín Illán notario  
 
-/[enc_1]/ Traducción de latín: "ante el tribunal que preside"  
-
-/[enc_2]/ Traducción de latín: "ante el tribunal que preside" 
+/[enc_1]/ ante el tribunal que preside 
