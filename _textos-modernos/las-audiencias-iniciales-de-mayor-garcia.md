@@ -82,7 +82,8 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 ~ Sebastián de diez o doce años, y que no tiene más hijos.  
 
-~ Preguntada si sabe la causa por qué ha sido mandada traer presa a este Santo Oficio. <br>  
+~ Preguntada si sabe la causa por qué ha sido mandada traer presa a este Santo Oficio.
+
 ~ Dijo que no la sabe.  
 
 ~ Le fue dicho por el dicho señor inquisidor que se le hacen /[nota]/ saber que ella ha sido traída presa a este Santo Oficio por haber hecho, dicho y cometido cosas contra nuestra Santa fe católica. Por tanto se le amonesta y encarga que diga y confiese todo aquello que ella hubiere hecho y dicho y visto decir y hacer que sea contra nuestra santa fe católica y lo que supiere de otras personas así vivas como difuntas, y absentes, y que haciéndolo así se usará con ella de la misericordia que lugar hubiere de derecho y pondrá en buen estado su causa para ser con brevedad despachada y poder ser absuelta de cualquier excomunión en que haya incurrido, y lo contrario haciendo será oído el fiscal y ella y se hará justicia la dicha Mayor García dijo que ella dirá la verdad pues ha venido a esta santa casa, y que lo quiere pensar.  
@@ -107,7 +108,7 @@ Después de lo susodicho diez y ocho días del dicho mes de abril ante el dicho 
 
 ~ Dijo la dicha Mayor García mucho quería hacer por amor de Dios, pero aquella hacienda, cierto que si era que me la fiara y que no se vendiera.  
 
-~ El señor inquisidor la tornó a decir que deje afuera lo de la hacienda, y hable en lo que toca al descargo de su conciencia.  
+~ El señor inquisidor la tornó a decir que deje afuera lo de la hacienda, y hable en lo que toca al descargo de su conciencia  
 
 /[nota_1]/ ii \[2\]. monición  
  
@@ -116,7 +117,7 @@ Después de lo susodicho diez y ocho días del dicho mes de abril ante el dicho 
 
 [35: 6r]  
 
-porque esto es lo que le conviene hacer.  
+porque esto es lo que le conviene hacer. 
 
 ~ Dijo la dicha Mayor que ella ha hecho siempre obras buenas y tratado la verdad con todos así con /[enc]/ abadesa /[enc]/ como con la cristiandad vieja pero que ella se verá en lo que su merced le dice.  
 
@@ -129,7 +130,6 @@ Le fue encargado mucho lo que toca al descargo de su conciencia y fue mandada vo
  
 ### 6 de mayo 1550
 
-En la dicha ciudad de Toledo seis días del mes de mayo de mil y quinientos y cincuenta años ante el dicho señor inquisidor el licenciado Valtodano y por su mandado fue traída de su cárcel la dicha Mayor García porque el alcaide ha dicho que pide audiencia y como fue presente preguntada qué es lo que quiere pues ha dicho el alcaide que pide audiencia.  
 
 ~ Dijo la dicha Mayor García que podrá haber trece o catorce años que estando en Daimiel a la puerta /[nota]/ de casa de Marcos Manglano que era vecina de esta testigo hablando con su mujer Yseo. Estaban ambas /[nota]/ solas antes que la dicha Yseo fuese presa en esta Inquisición la cual dijo a esta declarante, «paréceme que era mejor ley la de los moros que la que tomamos» y que no le dijo más, y esta declarante creyó algo de ello.  
 
@@ -145,7 +145,7 @@ Preguntada qué es eso algo que dice que creyó.
 
 ~ Dijo la dicha Mayor, «señor quédeme así que no lo creí del todo».  
 
-~ Y aunque le fue dicho que declare bien esto que dice y confiesa, y le fue encargado que diga la verdad.  
+~ Y aunque le fue dicho que declare bien esto que dice y confiesa, y le fue encargado que diga la verdad.
 
 ~ Dijo que no sabe más decir de lo que ha dicho.  
 
@@ -167,7 +167,7 @@ Preguntada qué es eso algo que dice que creyó.
 
 [37: 7r]  
 
-Y después de lo susodicho en la dicha ciudad de Toledo ocho días del mes de mayo de mil y quinientos y cincuenta años ante el dicho señor inquisidor y por su mandado fue traída de su cárcel la dicha Mayor García, porque el alcaide ha dicho que pide audiencia y como fue presente, preguntada qué es lo que quiere pues pide audiencia,  
+Y después de lo susodicho en la dicha ciudad de Toledo ocho días del mes de mayo de mil y quinientos y cincuenta años ante el dicho señor inquisidor y por su mandado fue traída de su cárcel la dicha Mayor García, porque el alcaide ha dicho que pide audiencia y como fue presente, preguntada qué es lo que quiere pues pide audiencia. 
 
 ~ Dijo la dicha Mayor García que habrá más de diez años o diez años poco más o menos /[nota]/ que un día esta declarante entró en casa de Juan Toledano morisco vecino de Daimiel en barrio nuevo que iba a buscar una pollina que se le había salido de casa. Y vio en casa del dicho Toledano a un Juan de Alexo que moraba la dicha casa y era hijo de Alexo Ramiro, y no era casado estaba amigado con una mujer que se llevó dicen que hacía Alcalá la real. Donde ahora está, no sabe si en Alcalá Real o por aquella tierra, aunque habrá un año que el dicho Juan de Alexo vino a Daimiel y dijo que estaba en Alcalá la Real, y que se quería volver a Daimiel porque no se hacía en aquella tierra, y como está declarante entró en la dicha casa del Toledano vio como el /[nota]/ dicho Juan de Alexo tenía en la mano una gallina /[nota]/ la cual degolló delante de esta testigo y le atravesó el pescuezo a modo de moros, y como esta declarante  
 
@@ -181,11 +181,11 @@ Y después de lo susodicho en la dicha ciudad de Toledo ocho días del mes de ma
 
 [38: 7v]  
 
-lo vio le dijo al dicho Juan de Alexo por qué has degollado así a uso de moros, a lo cual el dicho Juan de Alexo dijo a esta declarante así la degüello yo a uso de moros a lo cual estaba presente la dicha mujer la cual era mujer /[nota]/ de Francisco Botijoso y no hacía vida con su marido y estaba amigada con el dicho Juan de Alexo y se fue con él no sabe esta testigo si está con él  
+lo vio le dijo al dicho Juan de Alexo por qué has degollado así a uso de moros, a lo cual el dicho Juan de Alexo dijo a esta declarante así la degüello yo a uso de moros a lo cual estaba presente la dicha mujer la cual era mujer /[nota]/ de Francisco Botijoso y no hacía vida con su marido y estaba amigada con el dicho Juan de Alexo y se fue con él no sabe esta testigo si está con él.  
 
-~ Ítem dijo que se acuerda que cuando ésta confesante tiene dicho tie que habló con la dicha Yseo lo que ha declarado /[nota]/ le dijo la dicha Yseo que se lavase esta declarante la cara y las manos y se hincase de rodillas, y dijese alabado sea Dios Leyla hidalga, Mahoma de la curralla, y que con esto alabaría a Dios lo cual ha hecho así esta confesante hartas veces las que podía hasta ahora que la /[nota]/ trajeron presa. Lo cual hacía con intención de mora y por eso lo viene a confesar, y que ahora no se acuerda de otra cosa, que quería que le diese aclaración de algo.  
+~ Ítem dijo que se acuerda que cuando ésta confesante tiene dicho ~~tie~~ que habló con la dicha Yseo lo que ha declarado /[nota]/ le dijo la dicha Yseo que se lavase esta declarante la cara y las manos y se hincase de rodillas, y dijese alabado sea Dios Leyla hidalga, Mahoma de la curralla, y que con esto alabaría a Dios lo cual ha hecho así esta confesante hartas veces las que podía hasta ahora que la /[nota]/ trajeron presa. Lo cual hacía con intención de mora y por eso lo viene a confesar, y que ahora no se acuerda de otra cosa, que quería que le diese aclaración de algo.  
 
-~ Fuele dicho que lo piense bien y descargue su conciencia confesando la verdad enteramente /[nota]/ y así se lo amonesto y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario  
+~ Le fue dicho que lo piense bien y descargue su conciencia confesando la verdad enteramente /[nota]/ y así se lo amonesto y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario. 
 
 /[nota_1]/ la mujer de Francisco Botijoso  
 
@@ -193,25 +193,25 @@ lo vio le dijo al dicho Juan de Alexo por qué has degollado así a uso de moros
 
 /[nota_3]/ intención  
 
-/[nota_4]/ iv monición  
+/[nota_4]/ iv \[4\]. monición  
 
 <!-- SPLIT -->
 
 [39: 8r]  
 
-En la dicha ciudad de Toledo trece días del dicho mes de mayo y año ya dichos ante el dicho señor inquisidor el licenciado Valtodano y por su mandado fue traída de su cárcel la dicha Mayor García a la cual fue preguntado si se ha puesto esta declarante algunas veces alheña en las manos o en alguna parte de su cuerpo  
+En la dicha ciudad de Toledo trece días del dicho mes de mayo y año ya dichos ante el dicho señor inquisidor el licenciado Valtodano y por su mandado fue traída de su cárcel la dicha Mayor García a la cual fue preguntado si se ha puesto esta declarante algunas veces alheña en las manos o en alguna parte de su cuerpo 
 
-~ Dijo que no en sus días  
+~ Dijo que no en sus días. 
 
-~ Fue preguntada si ha visto que alguna persona se lo ponga  
+~ Fue preguntada si ha visto que alguna persona se lo ponga.
 
-~ Dijo que no  
+~ Dijo que no.  
 
-~ Le fue dicho que hay información que esta declarante vio como una persona morisca ponía alheña a otra en las manos y le dijo, «que bonica mora» cómo le está /[enc]/ el alheña, /[enc]/ y que otras personas que estaban presentes se alheñaron las manos y tractaron de como las moras se ponen alheña y como es buena la ley de los moros.  
+~ Le fue dicho que hay información que esta declarante vio como una persona morisca ponía alheña a otra en las manos y le dijo, «que bonica mora» cómo le está /[enc]/ el alheña, /[enc]/ y que otras personas que estaban presentes se alheñaron las manos y trataron de como las moras se ponen alheña y como es buena la ley de los moros.
 
 ~ Dijo que de tal cosa no se acuerda.  
 
-~ Le fue dicho que hay información que esta declarante fue una de las personas que se hallaron presentes al tiempo que pusieron alheña a la dicha persona y que dijo a la dicha persona que era buena la ley de los moros, y que estuviese en la dicha ley aquella persona a quien ponían el alheña.  
+~ Le fue dicho que hay información que esta declarante fue una de las personas que se hallaron presentes al tiempo que pusieron alheña a la dicha persona y que dijo a la dicha persona que era buena la ley de los moros, y que estuviese en la dicha ley aquella persona a quien ponían el alheña.
 
 ~ Dijo que no se acuerda de tal.  
 
@@ -230,7 +230,7 @@ Y después de lo susodicho en la dicha ciudad de Toledo catorce días del mes de
 
 Fui presente yo Alonso de León notario.  
 
-/[nota_1]/ /[enc]/ vsq[ue] hac /[enc]/  
+/[nota_1]/ /[enc]/ vsq\[ue\] hac /[enc]/  
 
 /[enc_1]/ hasta aquí  
 
@@ -238,6 +238,6 @@ Fui presente yo Alonso de León notario.
 
 ### 2 de junio 1550  
 
-~En la dicha ciudad de Toledo, dos días de junio de mil y quinientos y cincuenta años ante el dicho señor inquisidor el licenciado Valtodano, y por su mandado fue traída de su cárcel la dicha Mayor García y presentó el fiscal contra ella la acusación que se sigue y la dicha Mayor García juró de decir verdad.  
+~ En la dicha ciudad de Toledo, dos días de junio de mil y quinientos y cincuenta años ante el dicho señor inquisidor el licenciado Valtodano, y por su mandado fue traída de su cárcel la dicha Mayor García y presentó el fiscal contra ella la acusación que se sigue y la dicha Mayor García juró de decir verdad.  
 
 Aquí la acusación.
