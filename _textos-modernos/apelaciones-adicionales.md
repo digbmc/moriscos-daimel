@@ -11,7 +11,7 @@ fechas: [13 enero 1551, "22 de septiembre, 1550", "11 de julio, 1551"]
 
 ### 13 enero 1551  
 
-Publicada en xiii [13] de herero 1551 muy reverendo y magnifico señor  
+Publicada en xiii \[13\] de herero 1551 muy reverendo y magnifico señor  
 
 Mayor García vecina de Daimiel digo que yo fui admitida a reconciliación en el auto que se hizo en esta Santo Oficio por septiembre prójimo pasado y está en la cárcel perpetua por mando de Vuestra Merced por medio año y por ser vieja y enferma padece mucho trabajo pido y suplico a Vuestra Merced por servicio de Dios que porque ella tiene marido e hijos y andan descarriados que el tiempo que le resta por cumplir Vuestra Merced como lo suelen hacer con otros los dispense con ella el tiempo que le queda por cumplir que su marido dará y pagará lo que Vuestra Merced fuere servido en lo cual se la hará gran bien y limosna.  
 
@@ -47,7 +47,7 @@ En la ciudad de Toledo en la audiencia de la Santa Inquisición en veinte y dos 
 
 ~ Y luego fue entregada a Alonso de Magán alcaide de la cárcel perpetua y la llevó consigo. 
 
-Paso ante mí, Agustín Illán notario.  
+Paso ante mi Agustín Illán notario.  
 
 <!-- SPLIT -->
 
@@ -57,7 +57,7 @@ Paso ante mí, Agustín Illán notario.
 
 ### 11 de julio, 1551  
 
-En la ciudad de Toledo en la audiencia de la Santa Inquisición en once días del mes de julio de mil y quinientos y cincuenta y un años los señores inquisidores el doctor Alonso Pérez el licenciado Cristóbal Hernandes de Valtodano dijeron que declaraban que la dicha Mayor* García mujer de Sebastián Carretero ncomenzó a cometer y cometió los crímenes y delitos de herejía porque fue reconciliado y sus bienes confiscados desde el mes de mayo de mil y quinientos y treinta y siete años acá lo cual paso ante mí, Agustín Illán notario. 
+En la ciudad de Toledo en la audiencia de la Santa Inquisición en once días del mes de julio de mil y quinientos y cincuenta y un años los señores inquisidores el doctor Alonso Pérez el licenciado Cristóbal Hernandes de Valtodano dijeron que declaraban que la dicha Mayor* García mujer de Sebastián Carretero ncomenzó a cometer y cometió los crímenes y delitos de herejía porque fue reconciliado y sus bienes confiscados desde el mes de mayo de mil y quinientos y treinta y siete años acá lo cual paso ante mi Agustín Illán notario. 
 
 /[enc]/ *digo Mayor García /[enc]/ 
 
