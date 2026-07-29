@@ -8,6 +8,8 @@ fechas: [[], "21 de septiembre, 1550"]
 
 /[nota]/ En la ciudad de Toledo tres días del mes de julio de mil y quinientos y cincuenta años, estando
 
+/[nota_1]/ votos
+
 <!-- SPLIT -->
 
 [53: 15r]  
