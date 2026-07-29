@@ -17,7 +17,7 @@ Nos los inquisidores contra la herética pravedad y apostasía en esta muy noble
 
 El licenciado Pedro Valtodano  
 
-Por mandado del señor inquisidor, <br>
+Por mandado del señor inquisidor,<br> 
 Agustín Illán notario  
 
 Yo Alonso de Cadahalso jurado de Toledo por virtud de este mandado de los señores inquisidores cometo y encargo a vos Benito Fernández a Juan Hernández vecinos [de] Daimiel que ejecutéis este mandamiento como en él se contiene hecho en Daimiel a xxiiii [14] de marzo de mdl [1550] años va entre renglones donde dice Benito Hernández Vala  
