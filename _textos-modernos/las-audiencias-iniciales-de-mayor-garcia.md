@@ -11,9 +11,7 @@ fechas: [[16 de abril 1550, 6 de mayo 1550, 2 de junio 1550]]
 
 ### 16 de abril 1550  
 
-/[nota]/ En la ciudad de Toledo diez y seis días del mes de abril de mil y quinientos y cincuenta años ante el muy reverendo y magnífico señor el licenciado de Valtodano inquisidor estando en la audiencia de la Santa Inquisición y por su mandado fue traída  
-
-de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so cargo del cual prometió de decir verdad.  
+/[nota]/ En la ciudad de Toledo diez y seis días del mes de abril de mil y quinientos y cincuenta años ante el muy reverendo y magnífico señor el licenciado de Valtodano inquisidor estando en la audiencia de la Santa Inquisición y por su mandado fue traída de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so cargo del cual prometió de decir verdad.  
 
 ~ Preguntada dijo que se llama Mayor García y que es mujer de Sebastián Carretero labrador vecina de Daimiel de edad de cincuenta y cinco o sesenta años, y que se bautizó en la general conversión de los moriscos de Daimiel que sería esta declarante entonces de edad de hasta siete u ocho años.  
 
@@ -27,9 +25,9 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 #### Padres  
 
-~ Juan García de Agraz labrador difunto  
+~ Juan García de Agraz labrador difunto.  
 
-~ Juana Goncales su mujer difunta vecinos de Daimiel  
+~ Juana Goncales su mujer difunta vecinos de Daimiel.  
 
 #### Abuelos  
 
@@ -88,7 +86,7 @@ de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so
 
 ~ Le fue dicho por el dicho señor inquisidor que se le hacen /[nota]/ saber que ella ha sido traída presa a este Santo Oficio por haber hecho, dicho y cometido cosas contra nuestra Santa fe católica. Por tanto se le amonesta y encarga que diga y confiese todo aquello que ella hubiere hecho y dicho y visto decir y hacer que sea contra nuestra santa fe católica y lo que supiere de otras personas así vivas como difuntas, y absentes, y que haciéndolo así se usará con ella de la misericordia que lugar hubiere de derecho y pondrá en buen estado su causa para ser con brevedad despachada y poder ser absuelta de cualquier excomunión en que haya incurrido, y lo contrario haciendo será oído el fiscal y ella y se hará justicia la dicha Mayor García dijo que ella dirá la verdad pues ha venido a esta santa casa, y que lo quiere pensar.  
 
-~ El señor inquisidor le encargó mucho que lo piense bien, y diga la verdad en todo, y fue mandada volver a su cárcel y fui presente yo, Alonso de León notario  
+~ El señor inquisidor le encargó mucho que lo piense bien, y diga la verdad en todo, y fue mandada volver a su cárcel y fui presente yo Alonso de León notario  
 
 /[nota_1]/ .i. /[enc]/ monición /[enc]/  
 
@@ -121,7 +119,7 @@ porque esto es lo que le conviene hacer.
 
 ~ Dijo la dicha Mayor que ella ha hecho siempre obras buenas y tratado la verdad con todos así con /[enc]/ abadesa /[enc]/ como con la cristiandad vieja pero que ella se verá en lo que su merced le dice.  
 
-Le fue encargado mucho lo que toca al descargo de su conciencia y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario  
+Le fue encargado mucho lo que toca al descargo de su conciencia y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario.  
   
 
 /[enc_1]/ "La Prelada ò Superiora de alguna Comunidad, o Convento de Religiofas" (Real Academia Española 1726, "abadessa").  
@@ -151,7 +149,7 @@ Preguntada qué es eso algo que dice que creyó.
 
 ~ Ítem dijo que no se acuerda que tanto tiempo ha /[nota]/ pero que le parece que fue cuatro o cinco años antes que muriese Diego Botijoso el viejo vecino que fue de Daimiel moraba el susodicho cerca de casa de esta declarante, y estando esta declarante y el dicho Botijoso sentados a la puerta de casa del susodicho dijo a esta declarante que no curase de comer el tocino, porque estaba defendido en la ley de los moros. Y que de ahí adelante esta declarante dejo /[nota]/ de comer hartas veces tocino por aquello que le dijo el dicho Botijoso aunque algunas veces comía algo de lo magro por gula y por golosina, y que como /[nota]/ los dichos Yseo y el Botijoso le dijeron lo que ha declarado esta declarante lo creyó, aunque no lo creyó por /[nota]/ luego. Y porque dijo la dicha Mayor que ahora no estaba para decir más porque está enferma.  
 
-~ El señor inquisidor la amonestó en forma que lo piense bien reposó y diga toda la verdad ni más /[nota]/ ni menos como ha pasado y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario  
+~ El señor inquisidor la amonestó en forma que lo piense bien reposó y diga toda la verdad ni más /[nota]/ ni menos como ha pasado y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario.  
 
 /[nota_1]/ Diego Botijoso el viejo  
 
@@ -199,7 +197,7 @@ lo vio le dijo al dicho Juan de Alexo por qué has degollado así a uso de moros
 
 [39: 8r]  
 
-En la dicha ciudad de Toledo trece días del dicho mes de mayo y año ya dichos ante el dicho señor inquisidor el licenciado Valtodano y por su mandado fue traída de su cárcel la dicha Mayor García a la cual fue preguntado si se ha puesto esta declarante algunas veces alheña en las manos o en alguna parte de su cuerpo 
+En la dicha ciudad de Toledo trece días del dicho mes de mayo y año ya dichos ante el dicho señor inquisidor el licenciado Valtodano y por su mandado fue traída de su cárcel la dicha Mayor García a la cual fue preguntado si se ha puesto esta declarante algunas veces alheña en las manos o en alguna parte de su cuerpo. 
 
 ~ Dijo que no en sus días. 
 
@@ -224,7 +222,7 @@ Le fue mandado que lo piense bien y fue mandada volver a su cárcel.
 
 [40: 8v]  
 
-Y después de lo susodicho en la dicha ciudad de Toledo catorce días del mes de mayo de mil y quinientos y cincuenta años ante el dicho señor inquisidor el licenciado Valtodano, y por su mandado fue traída de su cárcel la dicha Mayor García porque el alcaide ha dicho que pide audiencia y como fue presente, preguntada qué es lo que quiere, y dijo que ha pensado en lo del alheña pero no se acuerda de ello, y que si el testigo dice que le vio a esta declarante que se lo ponía que dice que se la puso  
+Y después de lo susodicho en la dicha ciudad de Toledo catorce días del mes de mayo de mil y quinientos y cincuenta años ante el dicho señor inquisidor el licenciado Valtodano, y por su mandado fue traída de su cárcel la dicha Mayor García porque el alcaide ha dicho que pide audiencia y como fue presente, preguntada qué es lo que quiere, y dijo que ha pensado en lo del alheña pero no se acuerda de ello, y que si el testigo dice que le vio a esta declarante que se lo ponía que dice que se la puso.  
 
 ~ Fue mandada volver a su cárcel y dijo que lo den un poco de aclaramiento para que acabe /[nota]/ ya este negocio.  
 
