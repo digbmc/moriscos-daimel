@@ -5,11 +5,11 @@ body_class: wide-page
 hide_title: true
 nav_order: 2
 ---
-<h1 id="titulo" style="margin-left:1.5rem;">El proceso de Mayor García: transcripción del manuscrito</h1>
+<h1 id="titulo" class="manu-titulo">El proceso de Mayor García: transcripción del manuscrito</h1>
 
-<div style="margin-left:1.5rem;margin-bottom:1rem;">
+<div class="manu-boton">
   <a href="{{site.baseurl}}/criterios-transcripcion/">
-    <div class="box" style="max-width: 250px;">
+    <div class="box">
       <span class="caption">Normas de edición</span>
     </div>
   </a>

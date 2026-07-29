@@ -1080,6 +1080,16 @@ html {
     opacity: 1;
     background: rgba(255, 255, 255, 0.2);
 }
+.manu-titulo {
+  margin-left:1.5rem;
+}
+.manu-boton {
+  margin-left: 1rem;
+  margin-bottom:1rem;
+}
+.manu-boton .box {
+  max-width: 250px;
+}
 @media (max-width: 768px) {
   .column-right {
     width: 100%;
@@ -1110,45 +1120,77 @@ html {
   }
 }
 @media (max-width: 480px) {
+   .bottom_buttons {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 8px;
+  }
+
+  /* Left and right buttons */
+  .bottom_buttons a:first-child,
+  .bottom_buttons a:last-child {
+    flex: 0 0 auto;
+  }
+
+  /* Middle button */
+  .bottom_buttons a:nth-child(2) {
+    flex: 1;
+  }
   .right-margen {
     width: 8%;
   }
   .right-text {
     width: 87%;
   }
+  .manu-titulo {
+    text-align: center;
+    margin-left: 0;
+  }
+
+  .manu-boton {
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+  }
   .box {
-    width: 90%;
     height: 55px;
-    //padding: 12px;
+    min-width: 0;
+    padding: 10px;
   }
   .jump_container {
     margin-top: 2rem;
   }
-  .anterior, .siguiente {
+  .anterior,
+  .siguiente {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     visibility: hidden;
     position: relative;
+    width: 100%;
+    height: 100%;
   }
-  .anterior:after {
+  .anterior::after,
+  .siguiente::after {
     visibility: visible;
     position: absolute;
-    content:"\21E6";
-    font-size: x-large;
-    top: 25%;
-    left: 25%;
-  }
-  .siguiente:after {
-    visibility: visible;
-    position: absolute;
-    content: "\21E8";
-    font-size: x-large;
-    top: 25%;
-    right: 25%;
-  }
-  .bottom_buttons {
-    clear: both;
-    display: inline-flex;
+    display: flex;
+    justify-content: center;
     align-items: center;
-    justify-content: space-evenly;
-    //height: 50px;
+    inset: 0;
+    color: white;
+    font-size: x-large;
+  }
+  .anterior::after {
+    content: "\21E6";
+  }
+  .siguiente::after {
+    content: "\21E8";
+  }
+  .gallery {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
   }
 }
