@@ -11,7 +11,7 @@ fechas: [2 de junio 1550]
 
 Publicada en 2 de junio 1550    Mayor García mujer de Sebastián Carretero  
 
-Muy reverendos señores,  
+Muy reverendos señores  
 
 El bachiller Pedro Ortiz promotor fiscal en el Santo Oficio de la Inquisición de esta ciudad y arzobispado de Toledo y su partido ante Vuestras Mercedes parezco en la mejor vía forma y manera que puedo y de derecho dejo y denuncio y acuso a Mayor García mujer de Sebastián Carretero morisca vecino de Daimiel presa en las cárceles de este Santo Oficio que presente está por hereje apostata de nuestra santa fe católica encubridora y participante de herejes y sus herejías excomulgada perjura porque estando en nombre y posesión de cristiana y por tal nombrándose y gozando de los privilegios libertades y excepciones que los católicos cristianos gozan pueden y deben gozar en ofensa de Dios nuestro señor y de su santa Iglesia nuestra Madre, y con escándalo y menosprecio del pueblo católico y religión cristiana postpuesto el temor de Dios y la salvación de su ánima herético y apostato de y contra nuestra santa fe católica y ley evangélica teniendo y creyendo la dañada y reprobada secta de Mahoma y especialmente en las cosas y casos siguientes.  
 
@@ -25,7 +25,7 @@ ii \[2]\. Ítem que cierta persona convertida de mora dijo a la dicha Mayor Garc
 
 [42: 9v]  
 
-iii \[3\]. Ítem que la dicha Mayor García con la afición que ha tenido y tiene de la secta de Mahoma no ha comido ni come tocino y sabe de otra persona o personas que no lo comen con la misma intención  
+iii \[3\]. Ítem que la dicha Mayor García con la afición que ha tenido y tiene de la secta de Mahoma no ha comido ni come tocino y sabe de otra persona o personas que no lo comen con la misma intención.  
 
 iv \[4\]. Ítem que cierta persona degolló delante de la dicha Mayor García una gallina atravesándole el pescuezo a modo de los moros y nunca lo ha querido declarar ante Vuestras Mercedes hasta ahora por haber estado en la creencia de la secta de Mahoma.  
 
@@ -66,7 +66,7 @@ Y así presentada y leída la dicha acusación la dicha Mayor García respondien
 
 [44: 10v]  
 
-i \[1\]. primero dijo que no se acuerda de más de que /[nota]/ podrá haber seis años poco más o menos que estando en casa de Alonso Bermejo vecino de Daimiel difunto estaba allí la mujer del dicho Alonso Bermejo que también es difunta. Una Mari Henández la segoviana cristiana vieja vecina de Daimiel mujer de un pastor, había lavado en casa de esta declarante y porque se había /[enc]/ encentado /[enc]/ las manos la dicha segoviana con la /[enc]/ lexía /[enc]/ pidió a esta confesante que le buscase un poco de alheña para se poner en las encentaduras de las manos, y esta confesante fue a casa del Alonso Bormejo que la envío a llamar /[nota]/ para que se pusiese esta confesante y ella alheña en las manos, y le dijo la dicha de Alonso Bermejo a esta confesante que las moras se ponían alheña en las  manos por bien parecer, y así esta confesante y la dicha de Alonso Bermejo se pusieron alheña en las uñas y dedos de las manos y que no pasó otra cosa, y que estaban solas esta confesante y la de Alonso Bermejo difunta.  
+primero dijo que no se acuerda de más de que /[nota]/ podrá haber seis años poco más o menos que estando en casa de Alonso Bermejo vecino de Daimiel difunto estaba allí la mujer del dicho Alonso Bermejo que también es difunta. Una Mari Henández la segoviana cristiana vieja vecina de Daimiel mujer de un pastor, había lavado en casa de esta declarante y porque se había /[enc]/ encentado /[enc]/ las manos la dicha segoviana con la /[enc]/ lexía /[enc]/ pidió a esta confesante que le buscase un poco de alheña para se poner en las encentaduras de las manos, y esta confesante fue a casa del Alonso Bormejo que la envío a llamar /[nota]/ para que se pusiese esta confesante y ella alheña en las manos, y le dijo la dicha de Alonso Bermejo a esta confesante que las moras se ponían alheña en las  manos por bien parecer, y así esta confesante y la dicha de Alonso Bermejo se pusieron alheña en las uñas y dedos de las manos y que no pasó otra cosa, y que estaban solas esta confesante y la de Alonso Bermejo difunta.  
 
 ii \[2\]. Al capítulo ii [2] dijo que así es verdad que la de Marcos Manglano que ambos son difuntos le dijo a esta confesante las palabras contenidas en este capítulo como lo tiene confesado.  
 
