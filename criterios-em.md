@@ -40,7 +40,7 @@ Por lo general, se preservan los párrafos y la (falta de) puntuación con las e
     Cuando una palabra está dividida entre dos folios, se escribe la palabra completa en el folio en el cual empieza.
 </li>
     </ul> 
-Las notas de pie que siguen una enumeración con numerales arabigos (1, 2, 3 etc.) corresponden a las notas marginales del manuscrito y aparecen en una aproximación de su ubicación en el manuscrito. Las que aparecen con letras (a. b. c. etc.) reflejan nuestros comentarios editoriales para aportar contexto lingüístico y/o histórico. Las traducciones del latín provienen de Nicholas Caraballo. Le agradecemos a María Alejandra Peñuela Hoyos por su apoyo con las transcripciones y traducciones del árabe. 
+Las notas de pie que siguen una enumeración con numerales arábigos (1, 2, 3, etc.) corresponden a las notas marginales del manuscrito y aparecen en una aproximación de su ubicación en el manuscrito. Las que aparecen con letras (a. b. c. etc.) reflejan nuestros comentarios editoriales para aportar contexto lingüístico y histórico. Las traducciones del latín provienen de Nicholas Caraballo. Le agradecemos a María Alejandra Peñuela Hoyos por su apoyo con las transcripciones y traducciones del árabe. 
 
 </p>
 </div>
