@@ -42,7 +42,7 @@ Visto y examinado por nosotros los inquisidores contra la herética pravedad y a
 
 [56: 16v]  
 
-persona que estaba apartada de la creencia de nuestra santa fe católica y que con la misma intención y creencia se lavaba y bañaba a modo de moros y hacían el /[enc]/ guado /[enc]/ y hincada de rodillas decía «alabado sea /[enc]/ Dios leyla /[enc]/ Mahoma de cúrrala.»  
+persona que estaba apartada de la creencia de nuestra santa fe católica y que con la misma intención y creencia se lavaba y bañaba a modo de moros y hacían el /[enc]/  /[enc]/ y hincada de rodillas decía «alabado sea /[enc]/ Dios leyla /[enc]/ Mahoma de cúrrala.»  
 
 Ítem que la dicha Mayor García se alheñaba las uñas y dedos de las manos, porque así lo hacen las moras y platicaba con otras personas en cosas de la ley de los moros diciendo que aquella ley era la buena y aconsejándose las unas a las otras que tuviesen creencia en la dicha ley.  
 
@@ -64,11 +64,15 @@ el dicho promotor fiscal las confesiones hechas por la dicha Mayor García ante 
 
 [58: 17v]  
 
-Ante nosotros en nuestra audiencia, y respondiendo a ella y en las examinaciones que por nosotros le fueron hechas antes que le fuese puesta la dicha acusación dijo y confesó que ~~ella~~ habría trece o catorce años que hablando con cierta persona morisca, la cual a lo que pareció después: estaba en la creencia de la secta de Mahoma le dijo a esta Mayor García que le parecía que era mejor la ley de los moros que dejaron—que la de los cristianos que habían tomado, y que alabaría a Dios lavándose la cara y las manos hincada de rodillas diciendo «alabado sea /[enc]/ Dios leyla hidalga, /[enc]/ Mahoma de la cúrrala» lo cual la dicha Mayor García hizo así hartas veces con intención de mora hasta que la trajeron presa a este Santo Oficio, y que así mismo le enseñó la dicha persona como había de hacer esta /[enc]/ confitente /[enc]/ el guado y lo hizo y cuando se lavaba y hacia el guado y decía «alhandurila haber alami» porque así lo decían y creían los moros y que se alheñaba las uñas de las manos con la intención que tenía de mora, porque le dijeron que las moras lo hacían así, y que otra persona morisca le dijo que el tocino era defendido en la ley de los moros y que no lo comiese ella, y que esta dicha Mayor García de ahí adelante dejó de comer hartas veces tocino porque  
+Ante nosotros en nuestra audiencia, y respondiendo a ella y en las examinaciones que por nosotros le fueron hechas antes que le fuese puesta la dicha acusación dijo y confesó que ~~ella~~ habría trece o catorce años que hablando con cierta persona morisca, la cual a lo que pareció después: estaba en la creencia de la secta de Mahoma le dijo a esta Mayor García que le parecía que era mejor la ley de los moros que dejaron—que la de los cristianos que habían tomado, y que alabaría a Dios lavándose la cara y las manos hincada de rodillas diciendo «alabado sea /[enc]/ Dios leyla hidalga, /[enc]/ Mahoma de la cúrrala» lo cual la dicha Mayor García hizo así hartas veces con intención de mora hasta que la trajeron presa a este Santo Oficio, y que así mismo le enseñó la dicha persona como había de hacer esta /[enc]/ confitente /[enc]/ el /[enc]/ guado /[enc]/ y lo hizo y cuando se lavaba y hacia el /[enc]/ guado /[enc]/ y decía «alhandurila haber alami» porque así lo decían y creían los moros y que se alheñaba las uñas de las manos con la intención que tenía de mora, porque le dijeron que las moras lo hacían así, y que otra persona morisca le dijo que el tocino era defendido en la ley de los moros y que no lo comiese ella, y que esta dicha Mayor García de ahí adelante dejó de comer hartas veces tocino porque  
 
 /[enc_1]/ no hay otro dios sino Allah y Mojama es su profeta
 
 /[enc_2]/ Sinónimo de confesante
+
+/[enc_3]/ una surah que quiere decir algo como aliado sea dios, señor del universo/del mundo; se refieren al wudu "la ablución"
+
+/[enc_4]/ una surah que quiere decir algo como aliado sea dios, señor del universo/del mundo; se refieren al wudu "la ablución"
 
 <!-- SPLIT -->
 [59: 18r]  
