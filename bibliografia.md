@@ -34,6 +34,7 @@ nav_order: 5
         <p>
            Real Academica Española. 1726. <em>Diccionario de la lengua castellana.</em> Madrid: Francisco de Hierro 
         </p>
+        <p>
         <em>Spanish Paleography Digital Teaching & Learning Tool.</em> 2013. <a href="https://spanishpaleographytool.org">https://spanishpaleographytool.org</a>.
         </p>
         <p>
