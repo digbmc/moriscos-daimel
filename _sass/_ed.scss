@@ -851,6 +851,7 @@ div.editions a {
 }
 .jump_container {
   text-align: center;
+  margin-top: 1rem;
 }
 
 #jump_pg, input[type = "button"] {
@@ -1084,7 +1085,7 @@ html {
 .manu-boton .box {
   max-width: 250px;
 }
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .column-right {
     width: 100%;
   }
@@ -1101,9 +1102,30 @@ html {
   .parrafo {
     width: 75%;
   }
+  .bottom_buttons {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+  }
+
+  .bottom_buttons > a:first-of-type {
+    flex: 2.5;
+    display: flex;
+  }
+
+  .bottom_buttons > a:nth-of-type(2) {
+    flex: 5;
+    display: flex;
+  }
+
+  .bottom_buttons > a:last-of-type {
+    flex: 2.5;
+    display: flex;
+  }
+
   .box {
-    min-width: auto;
-    height: 45px;
+    width: 100%;
+    min-width: 0;
   }
   .wide-page .container,
   .wide-page .wrapper,
