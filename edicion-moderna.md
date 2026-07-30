@@ -325,6 +325,6 @@ nav_order: 3
 <hr>
 <div style="max-width:38rem;margin-left:auto;margin-right:auto;">
     <p id="citacion">
-    <em>Cómo citar la edición moderna:</em> Alejandre Lamas-Nemec and Kathryn Phipps. El proceso de Mayor García: la edición moderna. Bryn Mawr College, 2026. Web.
+    <em>Cómo citar la edición moderna:</em> Alejandre Lamas-Nemec and Kathryn Phipps. 2026. El proceso de Mayor García (1550): la edición moderna. Bryn Mawr College. Web.
     </p>
 </div>
