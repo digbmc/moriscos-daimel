@@ -5,7 +5,7 @@ body_class: wide-page
 hide_title: true
 nav_order: 2
 ---
-<h1 id="titulo" class="manu-titulo">El proceso de Mayor García: transcripción del manuscrito</h1>
+<h1 id="titulo" class="manu-titulo">El proceso de Mayor García: la transcripción del manuscrito</h1>
 
 <div class="manu-boton">
   <a href="{{site.baseurl}}/criterios-transcripcion/">
@@ -44,11 +44,8 @@ nav_order: 2
 <div class="citation">
   <hr>
   <p>
-  <em>Cómo citar la transcripción del manuscrito:</em> Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. El proceso de Mayor García: la transcripción del manuscrito. Bryn Mawr College, 2026. Web.<br><br>
-  <em>Cómo citar las imágenes:</em> Las imágenes del proceso de Mayor García. El proceso de Mayor Garcio. 
-  Digital images of the Henry Charles Lea Collection of Inquisition Manuscripts, 1533-1866. Images 
-  25–68, (Ms. Coll. 728). Kislak Center for Special Collections, Rare Books and Manuscripts, University 
-  of Pennsylvania.
+  <em>Cómo citar la transcripción del manuscrito:</em> Sarah Kurth, Alejandre Lamas-Nemec, and Kathryn Phipps. 2026. El proceso de Mayor García (1550): la transcripción del manuscrito. Bryn Mawr College. Web.<br><br>
+  <em>Cómo citar las imágenes:</em> Digital images of the Henry Charles Lea Collection of Inquisition Manuscripts, 1533-1866. Images 25–68, (Ms. Coll. 728). Kislak Center for Special Collections, Rare Books and Manuscripts, University of Pennsylvania.
   </p>
 <div>
 
