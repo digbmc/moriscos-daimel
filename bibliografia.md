@@ -4,11 +4,11 @@ title: Bibliografía
 nav_order: 5
 ---
 <div style="padding-left: 2em;text-indent: -2em;">
-        <p>
-            Dadson, Trevor J. 2014. <em>Tolerance and Coexistence in Early Modern Spain: Old Christians and Moriscos in the Campo de Calatrava.</em> Suffolk: Boydell & Brewer.
+         <p>
+            Covarrubias, Sebastián de. 1611. <em>Tesoro de la lengua castellana o española</em> Madrid: Luis Sánchez.
         </p>
         <p>
-            Covarrubias, Sebastián de. 1611. <em>Tesoro de la lengua castellana o española</em> Madrid: Luis Sánchez.
+            Dadson, Trevor J. 2014. <em>Tolerance and Coexistence in Early Modern Spain: Old Christians and Moriscos in the Campo de Calatrava.</em> Suffolk: Boydell & Brewer.
         </p>
           <p>
             <em>Diccionario de Abreviatura Novohispanas.</em> 2024. <a href="https://www.iifilologicas.unam.mx/dicabenovo/">https://www.iifilologicas.unam.mx/dicabenovo/</a>.
