@@ -82,7 +82,7 @@ iii \[3\]. Al capi\[tul\](o) iii [3] dijo que la verdad es que esta declarante n
 
 /[enc_1]/ comenzado; comenzar
 
-/[enc_2]/ "Die to wash with, lixiuium" (Covarius).
+/[enc_2]/ "agua cozida con ceniza para colar la bogada de los paño [...] Las mujeres hacen diversas léxicas para encubar los cabe los." (Covarius 1611, lexia).
 
 
 <!-- SPLIT -->
