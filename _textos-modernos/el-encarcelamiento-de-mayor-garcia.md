@@ -3,7 +3,7 @@ layout: post
 title: El encarcelamiento de Mayor García 
 order: 3
 subtitulos: [Orden de encarcelamiento, Confirmacion del encarcelamiento]
-fechas: ["14 marzo, 1550", "2 de abril, 1550"]
+fechas: ["14 de marzo de 1550", "2 de abril de 1550"]
 ---
 [29: 3r]  
 
