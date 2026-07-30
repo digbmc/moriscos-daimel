@@ -5,7 +5,7 @@ hide_in_nav: true
 ---
 ## Normas para la transcripción  
 
-&nbsp; Esta transcripción pretende facilitar el aprendizaje de la paleografía inquisitorial. A ese fin, se preserva la ortografía original del manuscrito en cuanto se puede y se indican las intervenciones editoriales con las normas siguientes:   
+Se mantienen las líneas con enumeración para facilitar la comparación entre el manuscrito y la transcripción. A ese fin, se preserva la ortografía original del manuscrito en cuanto se puede y se indican las intervenciones editoriales con las normas siguientes:   
 
 &nbsp; **Enumeración**  
 
@@ -17,6 +17,6 @@ hide_in_nav: true
 - Las abreviaturas se resuelven entre corchetes [].  
 - El uso frecuente del superíndice se preserva con paréntesis ().   
 - Se respeta el uso variado de ç/s/z/c y de u/v/b. 
-- Se mantienen los mayúsculos con la singular excepción de la R que se transcribe rr. 
+- Se mantienen los mayúsculos con la singular excepción de que la R se transcribe «rr». 
 - Se incluyen frases tachadas (en cuanto que sean legibles) con las tachaduras preservadas.  
 - Se sigue la puntuación original, más frecuentemente reproducida con: /, ~, : o .   
