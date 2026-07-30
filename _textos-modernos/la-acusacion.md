@@ -39,7 +39,7 @@ viii \[8\]. Ítem que la dicha Mayor García por razón de lo susodicho cayó y 
 
 iv \[9\]. Ítem pongo por acusación a la dicha Mayor García todos los más delitos que contra ella hay en el Santo Oficio de la Inquisición de que no va aquí acusada o no  
 
-/[enc_1]/ No hay otro Dios sino Allah y Mojama es su profeta.
+/[enc_1]/ no hay otro Dios sino Allah y Mojama es su profeta
 
 /[enc_2]/ además  
 
