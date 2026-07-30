@@ -42,13 +42,15 @@ Visto y examinado por nosotros los inquisidores contra la herética pravedad y a
 
 [56: 16v]  
 
-persona que estaba apartada de la creencia de nuestra santa fe católica y que con la misma intención y creencia se lavaba y bañaba a modo de moros y hacían el guado y hincada de rodillas decía «alabado sea /[enc]/ Dios leyla /[enc]/ Mahoma de cúrrala.»  
+persona que estaba apartada de la creencia de nuestra santa fe católica y que con la misma intención y creencia se lavaba y bañaba a modo de moros y hacían el /[enc]/ guado /[enc]/ y hincada de rodillas decía «alabado sea /[enc]/ Dios leyla /[enc]/ Mahoma de cúrrala.»  
 
 Ítem que la dicha Mayor García se alheñaba las uñas y dedos de las manos, porque así lo hacen las moras y platicaba con otras personas en cosas de la ley de los moros diciendo que aquella ley era la buena y aconsejándose las unas a las otras que tuviesen creencia en la dicha ley.  
 
 Y que aliende de lo susodicho la dicha Mayor García había hecho dicho y cometido otras muchas cosas y ceremonias de la dicha ley contra nuestra santa fe católica y lo mismo sabía de otras personas que maliciosamente callaba y encubría por se quedar la susodicha y las otras personas herejes, por razón de lo cual la dicha rea estaba puesta mucho tiempo había en sentencia de excomunión mayor, porque aceptado como aceptaba  
 
-/[enc_1]/ no hay otro dios sino Allah y Mojama es su profeta
+/[enc_1]/ una surah que quiere decir algo como aliado sea dios, señor del universo/del mundo; se refieren al wudu "la ablución"
+
+/[enc_2]/ no hay otro dios sino Allah y Mojama es su profeta
 
 <!-- SPLIT -->
 
