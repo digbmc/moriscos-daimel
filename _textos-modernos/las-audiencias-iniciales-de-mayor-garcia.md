@@ -3,13 +3,13 @@ layout: post
 title: Las audiencias iniciales de Mayor García  
 order: 4
 subtitulos: "La primera audiencia: el discurso de la vida y las moniciones"
-fechas: [[16 de abril 1550, 6 de mayo 1550, 2 de junio 1550]]
+fechas: [[16 de abril de 1550, 6 de mayo de 1550, 2 de junio de 1550]]
 ---
 [31: 4r]  
 
 ## La primera audiencia: el discurso de la vida y las moniciones
 
-### 16 de abril 1550  
+### 16 de abril de 1550  
 
 /[nota]/ En la ciudad de Toledo diez y seis días del mes de abril de mil y quinientos y cincuenta años ante el muy reverendo y magnífico señor el licenciado de Valtodano inquisidor estando en la audiencia de la Santa Inquisición y por su mandado fue traída de su cárcel una mujer de la cual fue recibido juramento en forma de derecho so cargo del cual prometió de decir verdad.  
 
@@ -126,7 +126,7 @@ Le fue encargado mucho lo que toca al descargo de su conciencia y fue mandada vo
 
 <!-- SPLIT -->
  
-### 6 de mayo 1550
+### 6 de mayo de 1550
 
 
 ~ Dijo la dicha Mayor García que podrá haber trece o catorce años que estando en Daimiel a la puerta /[nota]/ de casa de Marcos Manglano que era vecina de esta testigo hablando con su mujer Yseo. Estaban ambas /[nota]/ solas antes que la dicha Yseo fuese presa en esta Inquisición la cual dijo a esta declarante, «paréceme que era mejor ley la de los moros que la que tomamos» y que no le dijo más, y esta declarante creyó algo de ello.  
@@ -236,7 +236,7 @@ Fui presente yo Alonso de León notario.
 
 <!-- SPLIT -->
 
-### 2 de junio 1550  
+### 2 de junio de 1550  
 
 ~ En la dicha ciudad de Toledo, dos días de junio de mil y quinientos y cincuenta años ante el dicho señor inquisidor el licenciado Valtodano, y por su mandado fue traída de su cárcel la dicha Mayor García y presentó el fiscal contra ella la acusación que se sigue y la dicha Mayor García juró de decir verdad.  
 
