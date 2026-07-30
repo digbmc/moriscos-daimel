@@ -3,7 +3,7 @@ layout: post
 title: La publicación de los testigos
 order: 7
 subtitulos: [nil, La respuesta a la publicación de los testigos, La comunicación con su letrado]
-fechas: [3 de julio 1550]
+fechas: [3 de julio de 1550]
 ---
 [51: 14r]  
 
