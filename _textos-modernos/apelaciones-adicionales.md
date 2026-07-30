@@ -9,7 +9,7 @@ fechas: [13 enero 1551, "22 de septiembre, 1550", "11 de julio, 1551"]
 
 ## La apelación y la conmutación de la sentencia
 
-### 13 enero 1551  
+### 13 de enero de 1551  
 
 Publicada en xiii \[13\] de herero 1551 muy reverendo y magnifico señor  
 
@@ -29,7 +29,7 @@ Mayor García vecina de Daimiel digo que yo fui admitida a reconciliación en el
 
 ## Audiencia adicional: el secreto inquisitorial
 
-### 22 de septiembre, 1550 
+### 22 de septiembre de 1550 
 
 En la ciudad de Toledo en la audiencia de la Santa Inquisición en veinte y dos días del dicho mes de septiembre de mil y quinientos y cincuenta años el muy reverendo señor el doctor Alonso Pérez inquisidor mandó sacar ante sí a la dicha Mayor García de la cual recibió juramento en forma de derecho. 
 
@@ -55,7 +55,7 @@ Paso ante mi Agustín Illán notario.
 
 ## Una noticia final: una reconciliación previa 
 
-### 11 de julio, 1551  
+### 11 de julio de 1551  
 
 En la ciudad de Toledo en la audiencia de la Santa Inquisición en once días del mes de julio de mil y quinientos y cincuenta y un años los señores inquisidores el doctor Alonso Pérez el licenciado Cristóbal Hernandes de Valtodano dijeron que declaraban que la dicha Mayor* García mujer de Sebastián Carretero ncomenzó a cometer y cometió los crímenes y delitos de herejía porque fue reconciliado y sus bienes confiscados desde el mes de mayo de mil y quinientos y treinta y siete años acá lo cual paso ante mi Agustín Illán notario. 
 
