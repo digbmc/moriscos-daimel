@@ -3,7 +3,7 @@ layout: post
 title: Los votos y la sentencia
 order: 8
 subtitulos: [La sentencia de los Inquisidores, "La sentencia: christi nomine invocato"]
-fechas: [[], "21 de septiembre, 1550"]
+fechas: [[], "21 de septiembre de 1550"]
 ---
 
 /[nota]/ En la ciudad de Toledo tres días del mes de julio de mil y quinientos y cincuenta años, estando
@@ -89,7 +89,7 @@ concluyó todo lo cual visto y lo demás en el presente proceso hecho hasta la f
 
 ## La sentencia: christi nomine invocato 
 
-### 21 de septiembre, 1550   
+### 21 de septiembre de 1550   
 
 Hallamos el dicho promotor fiscal haber probado su intención tan bien y tan cumplidamente, como probarle convino en la presente causa contra la dicha Mayor García así por la información de testigos que presentó, como por las confesiones por ella ante nosotros judicialmente hechas, y que por tal bien probada la debemos juzgar y juzgamos, en consecuencia de lo cual que debemos declarar y declaramos la dicha Mayor García haber sido hereje apostata de nuestra santa fe católica por haber tenido y creído después de bautizada la damnada y reprobada secta de Mahoma y ley de los moros y hecho ceremonias de ella y por ello estar ligada en sentencia de excomunión mayor, y haber caído e incurrido en confiscación y perdimiento de todos sus bienes y hacienda los cuales aplicamos a la cámara y fisco real de su majestad y declaramos pertenecerle desde el día que la dicha Mayor García cometió los dichos delitos de herejía acá, y en todas las otras censuras y penas en derecho contra los tales herejes puestas y establecidas, y que si el rigor del derecho quisiéramos seguir, pudiéramos con buena conciencia relajar  
 
