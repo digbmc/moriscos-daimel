@@ -8,7 +8,7 @@ nav_order: 5
             Dadson, Trevor J. 2014. <em>Tolerance and Coexistence in Early Modern Spain: Old Christians and Moriscos in the Campo de Calatrava.</em> Suffolk: Boydell & Brewer.
         </p>
         <p>
-            Covarrubias, Sebastián de. 1611. <em>Tesoro de la lengua castellana o española</em> Madrid: Luis Sánchez
+            Covarrubias, Sebastián de. 1611. <em>Tesoro de la lengua castellana o española</em> Madrid: Luis Sánchez.
         </p>
           <p>
             <em>Diccionario de Abreviatura Novohispanas.</em> 2024. <a href="https://www.iifilologicas.unam.mx/dicabenovo/">https://www.iifilologicas.unam.mx/dicabenovo/</a>.
@@ -32,7 +32,7 @@ nav_order: 5
             Perry, Mary Elizabeth. 2005. <em>The Handless Maiden: Moriscos and the Politics of Religion in Early Modern Spain.</em> Princeton, NJ: Princeton University Press. 
         </p>
         <p>
-           Real Academica Española. 1726. <em>Diccionario de la lengua castellana.</em> Madrid: Francisco de Hierro 
+           Real Academica Española. 1726. <em>Diccionario de la lengua castellana.</em> Madrid: Francisco de Hierro. 
         </p>
         <p>
         <em>Spanish Paleography Digital Teaching & Learning Tool.</em> 2013. <a href="https://spanishpaleographytool.org">https://spanishpaleographytool.org</a>.
