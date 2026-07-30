@@ -29,7 +29,7 @@ iii \[3\]. Ítem que la dicha Mayor García con la afición que ha tenido y tien
 
 iv \[4\]. Ítem que cierta persona degolló delante de la dicha Mayor García una gallina atravesándole el pescuezo a modo de los moros y nunca lo ha querido declarar ante Vuestras Mercedes hasta ahora por haber estado en la creencia de la secta de Mahoma.  
 
-v \[5\]. Ítem que la dicha Mayor García en la afición que tenía y tiene a la secta de Mahoma se lavaba la cara y las manos e hincada de rodillas y decía alabado sea Dios leila hílala, Mahoma de la cúrrala lo cual rezó muchas veces con la afición y creencia que ha tenido y tiene de la secta de Mahoma y sabe de otra persona o personas que hiciesen esto y nunca lo ha querido ni quiere declarar. 
+v \[5\]. Ítem que la dicha Mayor García en la afición que tenía y tiene a la secta de Mahoma se lavaba la cara y las manos e hincada de rodillas y decía alabado sea /[enc]/ Dios leila hílala,/[enc]/ Mahoma de la cúrrala lo cual rezó muchas veces con la afición y creencia que ha tenido y tiene de la secta de Mahoma y sabe de otra persona o personas que hiciesen esto y nunca lo ha querido ni quiere declarar. 
 
 vi \[6\]. Ítem que /[enc]/ aliende /[enc]/ de lo susodicho la dicha Mayor García ha sido y es encubridora y participante de herejes y sus herejías, y no ha querido ni quiere declarar las personas que hicieron con ella las dichas herejías ni las demás cosas que hicieron.  
 
@@ -39,9 +39,11 @@ viii \[8\]. Ítem que la dicha Mayor García por razón de lo susodicho cayó y 
 
 iv \[9\]. Ítem pongo por acusación a la dicha Mayor García todos los más delitos que contra ella hay en el Santo Oficio de la Inquisición de que no va aquí acusada o no  
 
-/[enc_1]/ además  
+/[enc_1]/ No hay otro Dios sino Allah y Mojama es su profeta.
 
-/[enc_2]/ se vea
+/[enc_2]/ además  
+
+/[enc_3]/ se vea
 
 <!-- SPLIT -->
 [43: 10r]    
@@ -55,7 +57,7 @@ Pedro Ortiz
 
 /[enc_1]/ teniendo  
 
-/[enc_2]/ "Obligar a alguien, con fuerza o por autoridad, a que haga lo que no quiere" (DLE 2024, "compeler").
+/[enc_2]/ "obligar a alguien, con fuerza o por autoridad, a que haga lo que no quiere" (DLE 2024, "compeler").
 
 <!-- SPLIT -->
 ## La respuesta a la acusación
