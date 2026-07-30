@@ -3,7 +3,7 @@ layout: post
 title: "Testigo 1: María la Canbila"
 body_class: wide-page
 order: 2
-fechas: 6 de febrero 1550
+fechas: 6 de febrero de 1550
 ---
 [27: 2r]  
 
