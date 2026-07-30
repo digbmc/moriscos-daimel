@@ -2,7 +2,7 @@
 layout: post
 title: Continuación de las audiencias
 order: 6
-fechas: [4 de junio 1550, 9 de junio]
+fechas: [4 de junio de 1550, 9 de junio de 1550]
 ---
 [46: 11v]  
 
