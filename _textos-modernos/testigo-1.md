@@ -7,7 +7,7 @@ fechas: 6 de febrero 1550
 ---
 [27: 2r]  
 
-### 6 de febrero 1550  
+### 6 de febrero de 1550  
 
 {% comment %}Upper Center Margin{% endcomment %}
 Contra Mayor Rodríguez mujer de Sebastián Carretero vecina de Daimiel 
