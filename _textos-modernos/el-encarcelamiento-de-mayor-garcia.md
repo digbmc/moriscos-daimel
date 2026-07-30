@@ -2,7 +2,7 @@
 layout: post
 title: El encarcelamiento de Mayor García 
 order: 3
-subtitulos: [Orden de encarcelamiento, Confirmacion del encarcelamiento]
+subtitulos: [Orden de encarcelamiento, Confirmación del encarcelamiento]
 fechas: ["14 de marzo de 1550", "2 de abril de 1550"]
 ---
 [29: 3r]  
@@ -40,7 +40,7 @@ Luis Guerrero notario
 
 [30: 3v]  
 
-## Confirmacion del encarcelamiento
+## Confirmación del encarcelamiento
 
 ### 2 de abril de 1550  
 
