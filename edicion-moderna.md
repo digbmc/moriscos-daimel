@@ -66,36 +66,94 @@ nav_order: 3
     <div id="criterios" style="max-width:48rem;margin-left:auto;margin-right:auto;">
         <h1>Introducción a la edición moderna</h1>
         <p>
-            El propósito de esta edición es promover la lectura fluida del proceso en su totalidad, tanto para los estudiantes como para el campo del estudio sobre los moriscos.  
+            El propósito de esta edición es promover la lectura fluida del proceso en su totalidad para dar a conocer la historia de Mayor García que ilustra las etapas típicas de un acto inquisitorial. No obstante, la ausencia de muchos testigos hace que el proceso no sea de gran duración y extensión la cual permite una utilidad pedagógica en la enseñanza de los procedimientos inquisitoriales. 
+             <br><br>
+            Se presenta aquí una modernización con intervenciones mínimas que sirven para guiar a la lectora al desarrollo del proceso y agilizar el lenguaje antiguo. Sin embargo, no se suavizan completamente las particularidades inquisitoriales especialmente en cuanto a la sintaxis y vocabulario tan pertinentes a su estilo único. Siempre se puede comparar la modernización con la transcripción original y con el manuscrito mismo por seguir los enlaces entre los corchetes marginales con la paginación, pero, por lo general, se realiza la edición del texto conforme a las siguientes normas: 
             <br><br>  
             <b>ORTOGRAFÍA Y SINTAXIS</b> <br>
-            Por lo general, se estandariza la ortografía, la separación de palabras, la acentuación y el uso de mayúsculas según su uso actual.  
+            <ul>
+                <li>
+                Se estandariza la ortografía, la separación de palabras, la acentuación y el uso de mayúsculas según su uso actual. 
+                </li>
+            </ul>
+            <ul>
+                <li>
+                Se modernizan las conjugaciones antiguas de verbos típicos sin otra indicación, especialmente las formas: «vido» y «porná», las cuales se modernizan a «vio» y «pondrá» respectivamente.
+                </li>    
+            </ul>
+            <ul>
+                <li>
+                Los pocos errores menores del notario, como la repetición de una palabra, se corrigen sin otra indicación. No obstante, se mantienen los errores que pueden indicar cambios significativos en el uso del lenguaje, particularmente cuando se trata de la transcripción de un vocablo arábigo en castellano. Por ejemplo, «el alheña» en vez de su forma actual, «la alheña». 
+                </li>
+            </ul>
             <br><br>
-            Se modernizan las conjugaciones antiguas de verbos típicos sin otra indicación, especialmente, las formas, «vido» y «porná», las cuales se modernizan a «vio» y «pondrá» respectivamente.
-            <br><br>
-            Sin embargo, se respeta el uso de vocabulario anticuado y de tiempos verbales antiguos, como el futuro del subjuntivo (tuviere, supiere, etc.) y el imperfecto del subjuntivo (tuviese, estuviese, etc.). Por lo general, no se edita la sintaxis para preservar las particularidades del estilo inquisitorial y se preservan las colocaciones originales de los pronombres.  
-            <br><br>
-            Los pocos errores menores del notario, como la repetición de una palabra, se corrigen sin otra indicación. Se mantienen los errores que pueden indicar cambios significativos en el uso del lenguaje, particularmente cuando se trata de la transcripción de un vocablo arábigo en castellano. Por ejemplo, «el alheña» en vez de su forma actual, «la alheña».  
+      <b>VOCABULARIO</b> <br>
+        <ul>
+                <li>
+                Se respeta el uso de vocabulario anticuado, pero se ofrecen sinónimos modernos en las notas de pie.
+                </li>    
+            </ul>
+         <ul>
+                <li>
+                Se mantienen los tiempos verbales antiguos, como el futuro del subjuntivo (tuviere, supiere, etc.) y el imperfecto del subjuntivo (tuviese, estuviese, etc.). 
+                </li>    
+            </ul>
+        <ul>
+                <li>
+                No se edita la sintaxis para preservar el estilo inquisitorial.
+                </li>    
+            </ul>
+         <ul>
+                <li>
+                Se preserva la colocación del objeto indirecto que aparece con frecuencia antes del infinitivo (i.e. le prender en vez de prenderle) o después de un verbo conjugado (i.e. fuele en vez de le fue) aunque se indica la secuencia moderna en las notas.
+                </li>    
+            </ul>
             <br><br>                
             <b>ENUMERACIÓN Y FORMATO</b> <br>
-            En los márgenes se encuentra el número de la imagen digitalizada por Kislak, seguido por el folio del manuscrito. Por ejemplo, [25: 1r] corresponde a la imagen 25 en la colección digital y es el recto del primer folio del proceso.  <br><br>          
+            En los márgenes se encuentra el número de la imagen digitalizada por Kislak, seguido por el folio del manuscrito. Por ejemplo, [25: 1r] corresponde a la imagen 25 en la colección digital y al recto del primer folio del proceso. Se puede seguir el enlace entre los corchetes para ver el folio y la transcripción del manuscrito.  <br><br>          
             Por lo general, se preservan los párrafos y la (falta de) puntuación con las excepciones siguientes:       
                 <ul> 
                     <li>
-                Para facilitar el entendimiento de las transiciones entre las voces del texto, se introducen comillas «» cuando es evidente que una voz cita a otra.
+                Se añaden títulos, subtítulos, y fechas a lo largo del proceso con texto mayor para orientar al lector a los pasos del proceso. 
                 </li>
                     </ul>        
             <ul> 
                 <li>
-                Se añaden párrafos nuevos cuando la voz es distinta (por ejemplo, para aclarar la diferencia entre la pregunta que propone un inquisidor y la respuesta del testigo).
+                Para facilitar el entendimiento de las transiciones entre las voces del texto, se introducen comillas «» cuando es evidente que una voz cita a otra.
             </li>
                 </ul>        
             <ul> 
                 <li>
+                Se añaden párrafos nuevos cuando la voz es distinta (por ejemplo, para aclarar la diferencia entre la pregunta que propone un inquisidor y la respuesta del testigo).
+            </li>
+                </ul> 
+         <ul> 
+                <li>
                 Cuando una palabra está dividida entre dos folios, se escribe la palabra completa en el folio en el cual empieza.
             </li>
                 </ul> 
-            Las notas de pie que siguen una enumeración con numerales arabigos (1, 2, 3 etc.) corresponden a las notas marginales del manuscrito y aparecen en una aproximación de su ubicación en el manuscrito. Las que aparecen con letras (a. b. c. etc.) reflejan nuestros comentarios editoriales para aportar contexto lingüístico y/o histórico. Las traducciones del latín provienen de Nicholas Caraballo. Le agradecemos a María Alejandra Peñuela Hoyos por su apoyo con las transcripciones y traducciones del árabe. 
+          <ul> 
+                <li>
+                Las notas de pie que siguen una enumeración con numerales arábigos (1, 2, 3, etc.) corresponden a las notas marginales del manuscrito y aparecen en una aproximación de su ubicación en el manuscrito.
+            </li>
+                </ul> 
+         <ul> 
+                <li>
+                Las que aparecen encima de las palabras subrayadas son comentarios editoriales para aportar contexto lingüístico e histórico.
+            </li>
+                </ul> 
+        <br><br>
+      <b>EL LATÍN Y EL ÁRABE</b> <br>
+          <ul> 
+                <li>
+                Se preserva la ortografía del notario en sus transcripciones de los idiomas no castellanas.
+            </li>
+                </ul> 
+            <ul> 
+                <li>
+                En las notas se aportan unas traducciones al castellano. Las del latín provienen de Nicholas Caraballo y le agradecemos a María Alejandra Peñuela Hoyos por su apoyo con el árabe.
+            </li>
+                </ul>
         </p>
     </div>
     <br>
