@@ -12,13 +12,15 @@ Después de lo susodicho en la dicha ciudad de Toledo cuatro días del mes de ju
 
 ~ Dijo que se ha acordado que aquella mujer de Alonso /[nota]/ Bermejo con quien se puso el alheña se llamaba Mari Hernández la cual al tiempo que esta declarante y ella se pusieron el alheña en los dedos de las manos le dijo que las moras se ponían alheña en las manos porque este creía en la ley de los moros, y así esta confesante se puso la dicha alheña con aquella creencia que tenia de mora.  
 
-~ Ítem dijo que le parece que podrá haber siete u ocho años poco más o menos que pasó esto del alheña, y que después de esto esta /[nota]/ confesante dijo a la dicha Mari Henández como la dicha Yseo le había dicho que hiciese el alguado como tiene declarado, y que la dicha Mari Henández dijo a esta confesante que cuando hubiese hecho el /[enc]/ alguado /[enc]/ dijese «alhandurila haber alami»  que así lo decían los moros y lo creían así y que cuando le dijo esta la dicha Mari Henández a esta declarante se lavó la dicha Mari Henández delante de ella para le mostrar como lo había de hacer y decir, y así esta confesante.  
+~ Ítem dijo que le parece que podrá haber siete u ocho años poco más o menos que pasó esto del alheña, y que después de esto esta /[nota]/ confesante dijo a la dicha Mari Henández como la dicha Yseo le había dicho que hiciese el /[enc]/ alguado /[enc]/ como tiene declarado, y que la dicha Mari Henández dijo a esta confesante que cuando hubiese hecho el /[enc]/ alguado /[enc]/ dijese «alhandurila haber alami»  que así lo decían los moros y lo creían así y que cuando le dijo esta la dicha Mari Henández a esta declarante se lavó la dicha Mari Henández delante de ella para le mostrar como lo había de hacer y decir, y así esta confesante.  
 
 /[nota_1]/ la mujer de Alonso Bermejo quien se decía Mari Henández  
 
 /[nota_2]/ Mari Henández Yseo  
 
-/[enc_1]/ tipo de oración.  
+/[enc_1]/ una surah que quiere decir algo como aliado sea dios, señor del universo/del mundo; se refieren al wudu "la ablución"
+
+/[enc_2]/ una surah que quiere decir algo como aliado sea dios, señor del universo/del mundo; se refieren al wudu "la ablución"
 
 <!-- SPLIT -->
 
