@@ -3,11 +3,11 @@ layout: post
 title: La acusación
 order: 5
 subtitulos: [nil, La respuesta a la acusación]
-fechas: [2 de junio 1550]
+fechas: [2 de junio de 1550]
 ---
 [41: 9r]  
 
-### 2 de junio 1550  
+### 2 de junio de 1550  
 
 Publicada en 2 de junio 1550    Mayor García mujer de Sebastián Carretero  
 
