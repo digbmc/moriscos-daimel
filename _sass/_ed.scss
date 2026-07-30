@@ -835,19 +835,13 @@ div.editions a {
   /*color: #ac4142*/
 }
 .box {
-  /*position: relative;*/
   display: flex;
   justify-content: center;
   align-items: center;
-  /*
-  height: 15em;
-  width: 15em;
-  */
   height: 50px;
   min-width: 250px;
   padding: 10px;
   background-color: #ac4142;
-  outline: solid #ac4142;
   color: white;
 }
 .box span {
