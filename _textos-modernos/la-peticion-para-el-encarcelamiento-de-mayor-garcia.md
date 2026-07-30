@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La peticion para el encarcelamiento de Mayor García"
+title: "La petición para el encarcelamiento de Mayor García"
 body_class: wide-page
 order: 1
 ---
