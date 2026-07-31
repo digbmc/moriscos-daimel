@@ -115,7 +115,7 @@ El doctor Alonso Pérez <br>
 El licenciado Pedro Valtodano <br>
 El doctor Blas Ortiz  
 
-Dada y pronunciada fue la dicha sentencia por los dichos señores inquisidores que en ella confirmaron de sus nombres en la dicha ciudad de Toledo a veinte y un días del mes de septiembre de mil y quinientos y cincuenta años estando protribunali sedendo en un cadahalso en la santa Iglesia de esta ciudad, y en otro la dicha Mayor García que abjuró cómo le fue mandado en la dicha sentencia a lo cual fueron presentes y testigos los señores el licenciado Alonso de Soto Calderón alcaide mayor de Toledo y don Hernando Bacan y Sebastián de Soto canónigos y Álvaro de Salazar y don Carlos de Guevara regidores y otras muchas personas y los notarios del secreto de este Santo Oficio que aquí firmaron sus nombres.  
+Dada y pronunciada fue la dicha sentencia por los dichos señores inquisidores que en ella confirmaron de sus nombres en la dicha ciudad de Toledo a veinte y un días del mes de septiembre de mil y quinientos y cincuenta años estando protribunali sedendo en un cadahalso en la santa Iglesia de esta ciudad, y en otro la dicha Mayor García que abjuró cómo fuele mandado en la dicha sentencia a lo cual fueron presentes y testigos los señores el licenciado Alonso de Soto Calderón alcaide mayor de Toledo y don Hernando Bacan y Sebastián de Soto canónigos y Álvaro de Salazar y don Carlos de Guevara regidores y otras muchas personas y los notarios del secreto de este Santo Oficio que aquí firmaron sus nombres.  
 
 Agustín Illán notario  
 
