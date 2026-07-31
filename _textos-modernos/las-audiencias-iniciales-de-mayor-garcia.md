@@ -84,7 +84,7 @@ fechas: [[16 de abril de 1550, 6 de mayo de 1550, 2 de junio de 1550]]
 
 ~ Dijo que no la sabe.  
 
-~ Le fue dicho por el dicho señor inquisidor que se le hacen /[nota]/ saber que ella ha sido traída presa a este Santo Oficio por haber hecho, dicho y cometido cosas contra nuestra Santa fe católica. Por tanto se le amonesta y encarga que diga y confiese todo aquello que ella hubiere hecho y dicho y visto decir y hacer que sea contra nuestra santa fe católica y lo que supiere de otras personas así vivas como difuntas, y absentes, y que haciéndolo así se usará con ella de la misericordia que lugar hubiere de derecho y pondrá en buen estado su causa para ser con brevedad despachada y poder ser absuelta de cualquier excomunión en que haya incurrido, y lo contrario haciendo será oído el fiscal y ella y se hará justicia la dicha Mayor García dijo que ella dirá la verdad pues ha venido a esta santa casa, y que lo quiere pensar.  
+~ Fuele dicho por el dicho señor inquisidor que se le hacen /[nota]/ saber que ella ha sido traída presa a este Santo Oficio por haber hecho, dicho y cometido cosas contra nuestra Santa fe católica. Por tanto se le amonesta y encarga que diga y confiese todo aquello que ella hubiere hecho y dicho y visto decir y hacer que sea contra nuestra santa fe católica y lo que supiere de otras personas así vivas como difuntas, y absentes, y que haciéndolo así se usará con ella de la misericordia que lugar hubiere de derecho y pondrá en buen estado su causa para ser con brevedad despachada y poder ser absuelta de cualquier excomunión en que haya incurrido, y lo contrario haciendo será oído el fiscal y ella y se hará justicia la dicha Mayor García dijo que ella dirá la verdad pues ha venido a esta santa casa, y que lo quiere pensar.  
 
 ~ El señor inquisidor le encargó mucho que lo piense bien, y diga la verdad en todo, y fue mandada volver a su cárcel y fui presente yo Alonso de León notario  
 
@@ -119,7 +119,7 @@ porque esto es lo que le conviene hacer.
 
 ~ Dijo la dicha Mayor que ella ha hecho siempre obras buenas y tratado la verdad con todos así con /[enc]/ abadesa /[enc]/ como con la cristiandad vieja pero que ella se verá en lo que su merced le dice.  
 
-Le fue encargado mucho lo que toca al descargo de su conciencia y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario.  
+Fuele encargado mucho lo que toca al descargo de su conciencia y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario.  
   
 
 /[enc_1]/ "La Prelada ò Superiora de alguna Comunidad, o Convento de Religiofas" (Real Academia Española 1726, "abadessa").  
@@ -143,7 +143,7 @@ Preguntada qué es eso algo que dice que creyó.
 
 ~ Dijo la dicha Mayor, «señor quédeme así que no lo creí del todo».  
 
-~ Y aunque le fue dicho que declare bien esto que dice y confiesa, y le fue encargado que diga la verdad.
+~ Y aunque fuele dicho que declare bien esto que dice y confiesa, y fuele encargado que diga la verdad.
 
 ~ Dijo que no sabe más decir de lo que ha dicho.  
 
@@ -183,7 +183,7 @@ lo vio le dijo al dicho Juan de Alexo por qué has degollado así a uso de moros
 
 ~ Ítem dijo que se acuerda que cuando ésta confesante tiene dicho ~~tie~~ que habló con la dicha Yseo lo que ha declarado /[nota]/ le dijo la dicha Yseo que se lavase esta declarante la cara y las manos y se hincase de rodillas, y dijese alabado sea /[enc]/ Dios leyla hidalga,/[enc]/ Mahoma de la curralla, y que con esto alabaría a Dios lo cual ha hecho así esta confesante hartas veces las que podía hasta ahora que la /[nota]/ trajeron presa. Lo cual hacía con intención de mora y por eso lo viene a confesar, y que ahora no se acuerda de otra cosa, que quería que le diese aclaración de algo.  
 
-~ Le fue dicho que lo piense bien y descargue su conciencia confesando la verdad enteramente /[nota]/ y así se lo amonesto y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario. 
+~ Fuele dicho que lo piense bien y descargue su conciencia confesando la verdad enteramente /[nota]/ y así se lo amonesto y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario. 
 
 /[nota_1]/ la mujer de Francisco Botijoso  
 
@@ -207,15 +207,15 @@ En la dicha ciudad de Toledo trece días del dicho mes de mayo y año ya dichos 
 
 ~ Dijo que no.  
 
-~ Le fue dicho que hay información que esta declarante vio como una persona morisca ponía alheña a otra en las manos y le dijo, «que bonica mora» cómo le está /[enc]/ el alheña, /[enc]/ y que otras personas que estaban presentes se alheñaron las manos y trataron de como las moras se ponen alheña y como es buena la ley de los moros.
+~ Fuele dicho que hay información que esta declarante vio como una persona morisca ponía alheña a otra en las manos y le dijo, «que bonica mora» cómo le está /[enc]/ el alheña, /[enc]/ y que otras personas que estaban presentes se alheñaron las manos y trataron de como las moras se ponen alheña y como es buena la ley de los moros.
 
 ~ Dijo que de tal cosa no se acuerda.  
 
-~ Le fue dicho que hay información que esta declarante fue una de las personas que se hallaron presentes al tiempo que pusieron alheña a la dicha persona y que dijo a la dicha persona que era buena la ley de los moros, y que estuviese en la dicha ley aquella persona a quien ponían el alheña.
+~ Fuele dicho que hay información que esta declarante fue una de las personas que se hallaron presentes al tiempo que pusieron alheña a la dicha persona y que dijo a la dicha persona que era buena la ley de los moros, y que estuviese en la dicha ley aquella persona a quien ponían el alheña.
 
 ~ Dijo que no se acuerda de tal.  
 
-Le fue mandado que lo piense bien y fue mandada volver a su cárcel.  
+Fuele mandado que lo piense bien y fue mandada volver a su cárcel.  
 
 /[enc_1]/ La concordancia aquí refleja el manuscrito y corresponde con el uso del artículo masculino para la alheña en el siglo XVI-XVII. Véase Covarrubias "alheña."  
 
