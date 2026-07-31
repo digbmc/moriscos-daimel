@@ -1102,30 +1102,9 @@ html {
   .parrafo {
     width: 75%;
   }
-  .bottom_buttons {
-    display: flex;
-    width: 100%;
-    gap: 10px;
-  }
-
-  .bottom_buttons > a:first-of-type {
-    flex: 2.5;
-    display: flex;
-  }
-
-  .bottom_buttons > a:nth-of-type(2) {
-    flex: 5;
-    display: flex;
-  }
-
-  .bottom_buttons > a:last-of-type {
-    flex: 2.5;
-    display: flex;
-  }
-
-  .box {
-    width: 100%;
+  .bottom_buttons .box {
     min-width: 0;
+    width: auto;
   }
   .wide-page .container,
   .wide-page .wrapper,
@@ -1136,6 +1115,20 @@ html {
   }
 }
 @media (max-width: 480px) {
+  .bottom_buttons {
+    gap: 4px;
+  }
+  .box {
+        height: 55px;
+        min-width: 0;
+        padding: 10px;
+    }
+  /*
+  .box {
+    height: 55px;
+    min-width: 0;
+    //padding: 10px;
+  }
    .bottom_buttons {
     display: flex;
     width: 100%;
@@ -1143,16 +1136,17 @@ html {
     gap: 8px;
   }
 
-  /* Left and right buttons */
+  /* Left and right buttons 
   .bottom_buttons a:first-child,
   .bottom_buttons a:last-child {
     flex: 0 0 auto;
   }
 
-  /* Middle button */
+  /* Middle button 
   .bottom_buttons a:nth-child(2) {
     flex: 1;
   }
+    */
   .right-margen {
     width: 8%;
   }
@@ -1169,14 +1163,10 @@ html {
     justify-content: center;
     margin-left: 0;
   }
-  .box {
-    height: 55px;
-    min-width: 0;
-    padding: 10px;
-  }
   .jump_container {
     margin-top: 2rem;
   }
+  /*
   .anterior,
   .siguiente {
     display: flex;
@@ -1204,6 +1194,7 @@ html {
   .siguiente::after {
     content: "\21E8";
   }
+    */
   .gallery {
     justify-content: center;
     align-items: center;
