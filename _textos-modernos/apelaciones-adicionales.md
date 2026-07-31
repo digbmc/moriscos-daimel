@@ -41,7 +41,7 @@ En la ciudad de Toledo en la audiencia de la Santa Inquisición en veinte y dos 
 
 ~ Dijo que no.  
 
-~ Le fue mandado so cargo del juramento que tiene hecho y so pena descomunion que tenga secreto de todo cuanto ha visto y oído en estas cárceles.  
+~ Fuele mandado so cargo del juramento que tiene hecho y so pena descomunion que tenga secreto de todo cuanto ha visto y oído en estas cárceles.  
 
 ~ Y luego el señor inquisidor dijo que mandaba y mandó a la dicha Mayor García que confiese todas las tres pascuas del año y comulgue cuando manda la Iglesia y que todos los domingos y fiestas que estuviere en la cárcel perpetua vaya a misa y a los sermones con los otros penitentes a la iglesia de San Pedro mártir y todas las veces que saliere de la cárcel perpetua lleve sobre todas sus vestiduras el sanbenito e no salga de la cárcel perpetua sin licencia del alcaide de ella lo cual cumpla so pena de impenitente.  
 
