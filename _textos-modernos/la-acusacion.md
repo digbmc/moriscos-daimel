@@ -101,7 +101,7 @@ vii \[7\]. Al capítulo vii \[7\] dijo que aquel gran Dios que está en los ciel
 
 viii \[8\]. Al capítulo viii \[8\] dijo que no sabe más de lo que ha dicho.  
 
-~Le fue dicho que nombre letrado con cuyo consejo siga esta causa. Dijo que no quiere letrado.  
+~Fuele dicho que nombre letrado con cuyo consejo siga esta causa. Dijo que no quiere letrado.  
 
 ~/[nota]/ El señor inquisidor le nombró al doctor Diego Rodríguez y fue mandada volver a su cárcel a lo cual fui presente yo Alonso de León notario.  
 
