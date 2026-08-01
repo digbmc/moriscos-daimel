@@ -1,4 +1,4 @@
-sebastian de diez / o d[o]ze años / y q[ue] no tiene mas ---
+---
 layout: manuscrito
 title: "33: 5r"
 image: /assets/images/Folder_2_5r.jpg
